@@ -1,0 +1,111 @@
+"from","to","weight"
+"Abhorson","Barnardine",1
+"Abhorson","Claudio",1
+"Abhorson","Duke Vincentio",2
+"Abhorson","Isabella",1
+"Abhorson","Lucio",1
+"Abhorson","Pompey",2
+"Abhorson","Provost",2
+"Abhorson","Messenger",1
+"Angelo","Duke Vincentio",2
+"Angelo","Elbow",1
+"Angelo","Escalus",4
+"Angelo","Friar Peter",1
+"Angelo","Froth",1
+"Angelo","Isabella",3
+"Angelo","Lucio",2
+"Angelo","Mariana",1
+"Angelo","Pompey",1
+"Angelo","Pomphey",1
+"Angelo","Provost",3
+"Angelo","Servant",2
+"Angelo","Duke",1
+"Angelo","Justice",1
+"Barnardine","Duke Vincentio",1
+"Barnardine","Isabella",1
+"Barnardine","Lucio",1
+"Barnardine","Pompey",1
+"Barnardine","Provost",1
+"Claudio","Duke Vincentio",2
+"Claudio","First Gentleman",1
+"Claudio","Isabella",1
+"Claudio","Lucio",1
+"Claudio","Mistress Overdone",1
+"Claudio","Pompey",2
+"Claudio","Provost",3
+"Claudio","Second Gentleman",1
+"Claudio","Messenger",1
+"Duke Vincentio","Elbow",1
+"Duke Vincentio","Escalus",3
+"Duke Vincentio","Friar Peter",2
+"Duke Vincentio","Isabella",4
+"Duke Vincentio","Lucio",3
+"Duke Vincentio","Mariana",2
+"Duke Vincentio","Mistress Overdone",1
+"Duke Vincentio","Pompey",3
+"Duke Vincentio","Provost",6
+"Duke Vincentio","Messenger",1
+"Duke Vincentio","Duke",1
+"Duke Vincentio","Friar Thomas",1
+"Duke Vincentio","Juliet",1
+"Elbow","Escalus",2
+"Elbow","Froth",1
+"Elbow","Lucio",1
+"Elbow","Mistress Overdone",1
+"Elbow","Pompey",2
+"Elbow","Pomphey",1
+"Elbow","Provost",2
+"Elbow","Justice",1
+"Escalus","Friar Peter",1
+"Escalus","Froth",1
+"Escalus","Isabella",1
+"Escalus","Lucio",2
+"Escalus","Mariana",1
+"Escalus","Mistress Overdone",1
+"Escalus","Pompey",2
+"Escalus","Pomphey",1
+"Escalus","Provost",3
+"Escalus","Duke",1
+"Escalus","Justice",1
+"First Gentleman","Lucio",1
+"First Gentleman","Mistress Overdone",1
+"First Gentleman","Pompey",1
+"First Gentleman","Provost",1
+"First Gentleman","Second Gentleman",1
+"Francisca","Isabella",1
+"Francisca","Lucio",1
+"Friar Peter","Isabella",2
+"Friar Peter","Lucio",1
+"Friar Peter","Mariana",2
+"Friar Peter","Provost",1
+"Froth","Pompey",1
+"Froth","Pomphey",1
+"Froth","Provost",1
+"Froth","Justice",1
+"Isabella","Lucio",4
+"Isabella","Mariana",3
+"Isabella","Pompey",1
+"Isabella","Provost",4
+"Isabella","Servant",2
+"Lucio","Mariana",1
+"Lucio","Mistress Overdone",2
+"Lucio","Pompey",3
+"Lucio","Provost",5
+"Lucio","Second Gentleman",1
+"Lucio","Servant",1
+"Mariana","Provost",1
+"Mistress Overdone","Pompey",2
+"Mistress Overdone","Provost",2
+"Mistress Overdone","Second Gentleman",1
+"Pompey","Pomphey",1
+"Pompey","Provost",5
+"Pompey","Second Gentleman",1
+"Pompey","Messenger",1
+"Pompey","Justice",1
+"Pomphey","Provost",1
+"Pomphey","Justice",1
+"Provost","Second Gentleman",1
+"Provost","Servant",1
+"Provost","Messenger",1
+"Provost","Justice",1
+"Provost","Juliet",1

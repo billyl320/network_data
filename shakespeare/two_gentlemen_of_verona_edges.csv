@@ -1,0 +1,56 @@
+"from","to","weight"
+"Antonio","Panthino",1
+"Antonio","Proteus",1
+"Duke","Julia",2
+"Duke","Launce",1
+"Duke","Outlaws",1
+"Duke","Proteus",5
+"Duke","Silvia",2
+"Duke","Speed",2
+"Duke","Thurio",4
+"Duke","Valentine",3
+"Eglamour","Silvia",2
+"First Outlaw","Second Outlaw",2
+"First Outlaw","Silvia",1
+"First Outlaw","Speed",1
+"First Outlaw","Third Outlaw",2
+"First Outlaw","Valentine",1
+"Host","Julia",1
+"Host","Proteus",1
+"Host","Silvia",1
+"Host","Thurio",1
+"Julia","Launce",1
+"Julia","Outlaws",1
+"Julia","Panthino",1
+"Julia","Proteus",5
+"Julia","Silvia",3
+"Julia","Thurio",3
+"Julia","Valentine",1
+"Julia","Lucetta",2
+"Launce","Panthino",1
+"Launce","Proteus",2
+"Launce","Silvia",1
+"Launce","Speed",2
+"Launce","Valentine",1
+"Outlaws","Proteus",1
+"Outlaws","Silvia",1
+"Outlaws","Thurio",1
+"Outlaws","Valentine",1
+"Panthino","Proteus",2
+"Proteus","Silvia",4
+"Proteus","Speed",3
+"Proteus","Thurio",5
+"Proteus","Valentine",4
+"Second Outlaw","Silvia",1
+"Second Outlaw","Speed",1
+"Second Outlaw","Third Outlaw",2
+"Second Outlaw","Valentine",1
+"Silvia","Speed",2
+"Silvia","Third Outlaw",1
+"Silvia","Thurio",3
+"Silvia","Valentine",3
+"Speed","Third Outlaw",1
+"Speed","Thurio",1
+"Speed","Valentine",5
+"Third Outlaw","Valentine",1
+"Thurio","Valentine",2

@@ -1,0 +1,171 @@
+"from","to","weight"
+"Bagot","Bishop Of Carlisle",1
+"Bagot","Bushy",1
+"Bagot","Duke Of Aumerle",1
+"Bagot","Duke Of Surrey",1
+"Bagot","Duke Of York",2
+"Bagot","Green",1
+"Bagot","Henry Bolingbroke",1
+"Bagot","Henry Percy",1
+"Bagot","King Richard Ii",1
+"Bagot","Lord",1
+"Bagot","Lord Fitzwater",1
+"Bagot","Northumberland",1
+"Bagot","Queen",1
+"Bagot","Servant",1
+"Bagot","Abbot",1
+"Bishop Of Carlisle","Duke Of Aumerle",2
+"Bishop Of Carlisle","Duke Of Surrey",1
+"Bishop Of Carlisle","Duke Of York",1
+"Bishop Of Carlisle","Earl Of Salisbury",1
+"Bishop Of Carlisle","Henry Bolingbroke",1
+"Bishop Of Carlisle","Henry Percy",1
+"Bishop Of Carlisle","King Richard Ii",2
+"Bishop Of Carlisle","Lord",1
+"Bishop Of Carlisle","Lord Fitzwater",1
+"Bishop Of Carlisle","Northumberland",1
+"Bishop Of Carlisle","Abbot",1
+"Bishop Of Carlisle","Sir Stephen Scroop",1
+"Bushy","Duke Of Aumerle",1
+"Bushy","Duke Of York",2
+"Bushy","Green",3
+"Bushy","Henry Bolingbroke",1
+"Bushy","King Richard Ii",1
+"Bushy","Queen",1
+"Bushy","Servant",1
+"Bushy","All",1
+"Captain","Earl Of Salisbury",1
+"Duchess Of York","Duke Of Aumerle",2
+"Duchess Of York","Duke Of York",2
+"Duchess Of York","Henry Bolingbroke",1
+"Duchess Of York","Henry Percy",1
+"Duke Of Aumerle","Duke Of Surrey",1
+"Duke Of Aumerle","Duke Of York",4
+"Duke Of Aumerle","Earl Of Salisbury",1
+"Duke Of Aumerle","First Herald",1
+"Duke Of Aumerle","Green",1
+"Duke Of Aumerle","Henry Bolingbroke",4
+"Duke Of Aumerle","Henry Percy",3
+"Duke Of Aumerle","John Of Gaunt",1
+"Duke Of Aumerle","King Richard Ii",5
+"Duke Of Aumerle","Lord",1
+"Duke Of Aumerle","Lord Fitzwater",1
+"Duke Of Aumerle","Lord Marshal",1
+"Duke Of Aumerle","Northumberland",2
+"Duke Of Aumerle","Thomas Mowbray",1
+"Duke Of Aumerle","Abbot",1
+"Duke Of Aumerle","Sir Stephen Scroop",1
+"Duke Of Aumerle","All",1
+"Duke Of Aumerle","Second Herald",1
+"Duke Of Surrey","Duke Of York",1
+"Duke Of Surrey","Henry Bolingbroke",1
+"Duke Of Surrey","Henry Percy",1
+"Duke Of Surrey","King Richard Ii",1
+"Duke Of Surrey","Lord",1
+"Duke Of Surrey","Lord Fitzwater",1
+"Duke Of Surrey","Northumberland",1
+"Duke Of Surrey","Abbot",1
+"Duke Of York","Green",2
+"Duke Of York","Henry Bolingbroke",5
+"Duke Of York","Henry Percy",4
+"Duke Of York","John Of Gaunt",1
+"Duke Of York","King Richard Ii",3
+"Duke Of York","Lord",1
+"Duke Of York","Lord Berkeley",1
+"Duke Of York","Lord Fitzwater",1
+"Duke Of York","Lord Ross",2
+"Duke Of York","Lord Willoughby",2
+"Duke Of York","Northumberland",4
+"Duke Of York","Queen",2
+"Duke Of York","Servant",1
+"Duke Of York","Abbot",1
+"Earl Of Salisbury","King Richard Ii",1
+"Earl Of Salisbury","Sir Stephen Scroop",1
+"Exton","Groom",1
+"Exton","Henry Bolingbroke",1
+"Exton","Henry Percy",1
+"Exton","Keeper",1
+"Exton","King Richard Ii",1
+"Exton","Lord Fitzwater",1
+"Exton","Northumberland",1
+"Exton","Servant",1
+"First Herald","Henry Bolingbroke",1
+"First Herald","John Of Gaunt",1
+"First Herald","King Richard Ii",1
+"First Herald","Lord Marshal",1
+"First Herald","Thomas Mowbray",1
+"First Herald","Second Herald",1
+"Gardener","Lady",2
+"Gardener","Queen",2
+"Gardener","Servant",2
+"Green","Henry Bolingbroke",1
+"Green","King Richard Ii",1
+"Green","Queen",1
+"Green","Servant",1
+"Green","All",1
+"Groom","Keeper",1
+"Groom","King Richard Ii",1
+"Henry Bolingbroke","Henry Percy",5
+"Henry Bolingbroke","John Of Gaunt",2
+"Henry Bolingbroke","King Richard Ii",4
+"Henry Bolingbroke","Lord",1
+"Henry Bolingbroke","Lord Berkeley",1
+"Henry Bolingbroke","Lord Fitzwater",2
+"Henry Bolingbroke","Lord Marshal",1
+"Henry Bolingbroke","Lord Ross",1
+"Henry Bolingbroke","Lord Willoughby",1
+"Henry Bolingbroke","Northumberland",4
+"Henry Bolingbroke","Thomas Mowbray",2
+"Henry Bolingbroke","Abbot",1
+"Henry Bolingbroke","Second Herald",1
+"Henry Percy","King Richard Ii",2
+"Henry Percy","Lord",1
+"Henry Percy","Lord Berkeley",1
+"Henry Percy","Lord Fitzwater",2
+"Henry Percy","Lord Ross",1
+"Henry Percy","Lord Willoughby",1
+"Henry Percy","Northumberland",4
+"Henry Percy","Abbot",1
+"John Of Gaunt","King Richard Ii",3
+"John Of Gaunt","Lord Marshal",1
+"John Of Gaunt","Lord Ross",1
+"John Of Gaunt","Lord Willoughby",1
+"John Of Gaunt","Northumberland",1
+"John Of Gaunt","Queen",1
+"John Of Gaunt","Thomas Mowbray",2
+"John Of Gaunt","Second Herald",1
+"John Of Gaunt","Duchess",1
+"Keeper","King Richard Ii",1
+"King Richard Ii","Lord",1
+"King Richard Ii","Lord Fitzwater",1
+"King Richard Ii","Lord Marshal",1
+"King Richard Ii","Lord Ross",1
+"King Richard Ii","Lord Willoughby",1
+"King Richard Ii","Northumberland",4
+"King Richard Ii","Queen",2
+"King Richard Ii","Thomas Mowbray",2
+"King Richard Ii","Abbot",1
+"King Richard Ii","Sir Stephen Scroop",1
+"King Richard Ii","All",1
+"King Richard Ii","Second Herald",1
+"Lady","Queen",1
+"Lady","Servant",1
+"Lord","Lord Fitzwater",1
+"Lord","Northumberland",1
+"Lord","Abbot",1
+"Lord Berkeley","Lord Ross",1
+"Lord Berkeley","Lord Willoughby",1
+"Lord Berkeley","Northumberland",1
+"Lord Fitzwater","Northumberland",2
+"Lord Fitzwater","Abbot",1
+"Lord Marshal","Thomas Mowbray",1
+"Lord Marshal","Second Herald",1
+"Lord Ross","Lord Willoughby",2
+"Lord Ross","Northumberland",2
+"Lord Ross","Queen",1
+"Lord Willoughby","Northumberland",2
+"Lord Willoughby","Queen",1
+"Northumberland","Queen",2
+"Northumberland","Abbot",1
+"Queen","Servant",2
+"Thomas Mowbray","Second Herald",1

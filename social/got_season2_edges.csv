@@ -1,0 +1,487 @@
+"from","to","weight"
+"Cersei","Tyrion",177
+"Daenerys","Jorah",119
+"Arya","Jaqen",113
+"Davos","Stannis",111
+"Jon","Ygritte",110
+"Robb","Talisa",108
+"Arya","Tywin",103
+"Tyrion","Varys",103
+"Tyrion","Shae",95
+"Tyrion","Bronn",87
+"Theon","Yara",87
+"Robb","Catelyn",82
+"Daenerys","Xaro",80
+"Tyrion","Joffrey",79
+"Arya","Gendry",78
+"Cersei","Sansa",73
+"Jon","Qhorin",71
+"Shae","Sansa",60
+"Theon","Balon",59
+"Daenerys","Spice King",58
+"Davos","Matthos",57
+"Melisandre","Stannis",57
+"Bran","Osha",56
+"Joffrey","Sansa",56
+"Catelyn","Brienne",54
+"Cersei","Joffrey",50
+"Brienne","Jaime",49
+"Tyrion","Pycelle",49
+"Theon","Dagmer",48
+"Joffrey","Hound",48
+"Theon","Maester Luwin",48
+"Theon","Bran",47
+"Alton","Jaime",46
+"Arya","Hot Pie",43
+"Davos","Melisandre",40
+"Sansa","Hound",40
+"Renly","Stannis",40
+"Tyrion","Janos",39
+"Jon","Sam",39
+"Tyrion","Loras",38
+"Jon","Jeor",37
+"Tyrion","Lancel",37
+"Tyrion","Podrick",37
+"Theon","Osha",36
+"Renly","Margaery",35
+"Eddison Tollett","Sam",34
+"Grenn","Sam",34
+"Robb","Roose Bolton",34
+"Tyrion","Littlefinger",33
+"Bran","Rickon",32
+"Brienne","Renly",31
+"Daenerys","Kovarro",31
+"Robb","Jaime",31
+"Catelyn","Renly",30
+"Bran","Maester Luwin",29
+"Jeor","Craster",29
+"Tyrion","Hound",29
+"Bran","Hodor",28
+"Gendry","Hot Pie",28
+"Littlefinger","Tywin",28
+"Margaery","Littlefinger",28
+"Qhorin","Ygritte",28
+"Cersei","Littlefinger",27
+"Davos","Salladhor",27
+"Eddison Tollett","Grenn",27
+"Catelyn","Jaime",25
+"Cersei","Tommen",25
+"Tyrion","Sansa",25
+"Catelyn","Littlefinger",24
+"Cersei","Lancel",24
+"Gilly","Sam",24
+"Renly","Loras",24
+"Daenerys","Pyatt Pree",23
+"Loras","Margaery",23
+"Theon","Rodrik",23
+"Robb","Alton",22
+"Osha","Hodor",22
+"Ros","Varys",22
+"Theon","Black Lorren",21
+"Cersei","Shae",21
+"Matthos","Stannis",21
+"Robb","Theon",21
+"Arya","Yoren",20
+"Daenerys","Doreah",20
+"Renly","Littlefinger",20
+"Spice King","Xaro",20
+"Tyrion","Stannis",20
+"Bran","Rodrik",18
+"Jorah","Quaithe",18
+"Theon","Captains Daughter",17
+"Catelyn","Rickard Karstark",17
+"Cersei","Pycelle",17
+"Jon","Craster",17
+"Ros","Daisy",17
+"Arya","Amory",16
+"Arya","Rorge",16
+"Davos","Cressen",16
+"Hodor","Rickon",16
+"Rattleshirt","Ygritte",16
+"Balon","Yara",15
+"Cersei","Tywin",15
+"Daenerys","Irri",15
+"Jorah","Kovarro",15
+"Loras","Littlefinger",15
+"Osha","Rickon",15
+"Amory","Tywin",14
+"Maester Luwin","Osha",14
+"Matthos","Salladhor",14
+"Bronn","Hound",13
+"Catelyn","Stannis",13
+"Cersei","Jaime",13
+"Joffrey","Dontos",13
+"Doreah","Xaro",13
+"Tyrion","Haylene",13
+"Jeor","Qhorin",13
+"Joffrey","Meryn",13
+"Littlefinger","Ros",13
+"Tyrion","Meryn",13
+"Tyrion","Myrcella",13
+"Cersei","Myrcella",12
+"Daenerys","Rakharo",12
+"Davos","Renly",12
+"Tyrion","Jaime",12
+"Joffrey","Lancel",12
+"Robb","Joffrey",12
+"Jon","Rattleshirt",12
+"Jorah","Xaro",12
+"Mountain","Tywin",12
+"Robb","Ned",12
+"Robb","Rickard Karstark",12
+"Bronn","Varys",11
+"Catelyn","Talisa",11
+"Cersei","Janos",11
+"Cersei","Varys",11
+"Shae","Varys",11
+"Tyrion","Tywin",11
+"Bronn","Haylene",10
+"Melisandre","Cressen",10
+"Daenerys","Drogo",10
+"Jon","Gilly",10
+"Hot Pie","Lommy",10
+"Jeor","Sam",10
+"Kovarro","Xaro",10
+"Sansa","Meryn",10
+"Tyrion","Ned",10
+"Podrick","Varys",10
+"Qhorin","Rattleshirt",10
+"Cersei","Alton",9
+"Bronn","Joffrey",9
+"Catelyn","Loras",9
+"Maester Luwin","Hodor",9
+"Hound","Lancel",9
+"Jaqen","Rorge",9
+"Joffrey","Stannis",9
+"Joffrey","Ros",9
+"Joffrey","Tywin",9
+"Kevan","Tywin",9
+"Sansa","Littlefinger",9
+"Littlefinger","Varys",9
+"Qhorin","Mance",9
+"Pyatt Pree","Xaro",9
+"Sansa","Tommen",9
+"Amory","Yoren",8
+"Arya","Littlefinger",8
+"Arya","Biter",8
+"Robb","Balon",8
+"Biter","Rorge",8
+"Catelyn","Ned",8
+"Catelyn","Jacks",8
+"Jon","Eddison Tollett",8
+"Jaime","Tywin",8
+"Joffrey","Myrcella",8
+"Joffrey","Loras",8
+"Littlefinger","Stannis",8
+"Tyrion","Mandon",8
+"Melisandre","Renly",8
+"Pycelle","Varys",8
+"Reginald","Tywin",8
+"Robb","Renly",8
+"Robb","Tywin",8
+"Arya","Polliver",7
+"Cersei","Arya",7
+"Arya","Robb",7
+"Dagmer","Black Lorren",7
+"Robb","Bran",7
+"Brienne","Jacks",7
+"Brienne","Loras",7
+"Joffrey","Daisy",7
+"Jorah","Doreah",7
+"Gendry","Yoren",7
+"Joffrey","Jaime",7
+"Joffrey","Littlefinger",7
+"Joffrey","Varys",7
+"Theon","Winterfell Shepherd",7
+"Arya","Mountain",6
+"Arya","Sansa",6
+"Arya","Lommy",6
+"Bran","Farlen",6
+"Bran","Dagmer",6
+"Bronn","Pycelle",6
+"Bronn","Lancel",6
+"Catelyn","Sansa",6
+"Cersei","Ned",6
+"Cersei","Robert",6
+"Cersei","Hound",6
+"Craster","Gilly",6
+"Gendry","Tickler",6
+"Jon","Grenn",6
+"Joffrey","Tommen",6
+"Lommy","Polliver",6
+"Mance","Ygritte",6
+"Podrick","Mandon",6
+"Theon","Rickon",6
+"Robb","Stannis",6
+"Roose Bolton","Talisa",6
+"Alton","Torrhen",5
+"Arya","Tickler",5
+"Arya","Joffrey",5
+"Arya","Catelyn",5
+"Balon","Ned",5
+"Jaqen","Biter",5
+"Brienne","Stannis",5
+"Brienne","Margaery",5
+"Robb","Brienne",5
+"Bronn","Meryn",5
+"Tyrion","Catelyn",5
+"Catelyn","Margaery",5
+"Cersei","Stannis",5
+"Cersei","Loras",5
+"Craster","Sam",5
+"Stannis","Cressen",5
+"Dagmer","Maester Luwin",5
+"Theon","Drowned Priest",5
+"Renly","Gerard",5
+"Theon","Hodor",5
+"Hound","Meryn",5
+"Jaime","Ned",5
+"Joffrey","Robert",5
+"Joffrey","Podrick",5
+"Jon","Mance",5
+"Jorah","Pyatt Pree",5
+"Loras","Stannis",5
+"Maester Luwin","Rodrik",5
+"Myrcella","Tommen",5
+"Sansa","Myrcella",5
+"Theon","Ned",5
+"Pycelle","Timett",5
+"Qhorin","Sam",5
+"Robb","Sansa",5
+"Robb","Rodrik",5
+"Stannis","Robert",5
+"Tywin","Varys",5
+"Jaime","Aerys",4
+"Alton","Rickard Karstark",4
+"Arya","Ned",4
+"Barra","Mhaegan",4
+"Bronn","Sansa",4
+"Bronn","Timett",4
+"Catelyn","Roose Bolton",4
+"Catelyn","Colen",4
+"Cersei","Podrick",4
+"Cersei","Robb",4
+"Daenerys","Silk King",4
+"Daenerys","Quaithe",4
+"Daenerys","Rhaego",4
+"Dagmer","Rickon",4
+"Dontos","Meryn",4
+"Doreah","Irri",4
+"Doreah","Kovarro",4
+"Eddison Tollett","Gilly",4
+"Gendry","Tywin",4
+"Gendry","Lommy",4
+"Gendry","Jaqen",4
+"Joffrey","Haylene",4
+"Hound","Haylene",4
+"Hound","Podrick",4
+"Shae","Ilyn Payne",4
+"Sansa","Ilyn Payne",4
+"Jaime","Stannis",4
+"Jaime","Rickard Karstark",4
+"Janos","Littlefinger",4
+"Joffrey","Janos",4
+"Janos","Mhaegan",4
+"Janos","Ros",4
+"Joffrey","Margaery",4
+"Joffrey","Mandon",4
+"Jon","Ned",4
+"Sansa","Lancel",4
+"Pycelle","Littlefinger",4
+"Maester Luwin","Rickon",4
+"Melisandre","Matthos",4
+"Stannis","Ned",4
+"Ned","Robert",4
+"Rickard Karstark","Torrhen",4
+"Robb","Yara",4
+"Stannis","Varys",4
+"Tyrion","Alton",3
+"Amory","Jaqen",3
+"Amory","Polliver",3
+"Arya","Visenya",3
+"Arya","Hound",3
+"Rodrik","Black Lorren",3
+"Bran","Winterfell Shepherd",3
+"Joffrey","Bran",3
+"Bronn","Podrick",3
+"Bronn","Tywin",3
+"Bronn","Janos",3
+"Catelyn","Joffrey",3
+"Cersei","Meryn",3
+"Cersei","Ilyn Payne",3
+"Cersei","Mandon",3
+"Eddison Tollett","Craster",3
+"Daenerys","Malakko",3
+"Dagmer","Osha",3
+"Dagmer","Rodrik",3
+"Drogo","Rhaego",3
+"Theon","Farlen",3
+"Gendry","Mountain",3
+"Gendry","Rorge",3
+"Mountain","Hot Pie",3
+"Hot Pie","Jaqen",3
+"Shae","Hound",3
+"Irri","Xaro",3
+"Kovarro","Irri",3
+"Jaime","Torrhen",3
+"Jaime","Matthos",3
+"Jaime","Robert",3
+"Janos","Varys",3
+"Janos","Podrick",3
+"Jaqen","Tywin",3
+"Joffrey","Pycelle",3
+"Joffrey","Ned",3
+"Joffrey","Talisa",3
+"Ned","Jon Arryn",3
+"Spice King","Jorah",3
+"Kovarro","Malakko",3
+"Kovarro","Pyatt Pree",3
+"Lancel","Stannis",3
+"Littlefinger","Robin",3
+"Robb","Littlefinger",3
+"Pycelle","Loras",3
+"Loras","Tywin",3
+"Maester Luwin","Winterfell Shepherd",3
+"Maester Luwin","Portan",3
+"Malakko","Xaro",3
+"Rattleshirt","Mance",3
+"Mountain","Polliver",3
+"Myrcella","Robin",3
+"Ned","Yara",3
+"Ned","Varys",3
+"Pycelle","Podrick",3
+"Shae","Podrick",3
+"Spice King","Pyatt Pree",3
+"Pycelle","Tywin",3
+"Pycelle","Robert",3
+"Robb","Quent",3
+"Renly","Robert",3
+"Robb","Septon",3
+"Tyrion","Robert",3
+"Tyrion","Robin",3
+"Rorge","Yoren",3
+"Sansa","Tywin",3
+"Shae","Tommen",3
+"Stannis","Tywin",3
+"Theon","Varys",3
+"Tyrion","Timett",3
+"Tyrion","Tommen",3
+"Arya","Aegon",2
+"Pycelle","Aerys",2
+"Tywin","Aerys",2
+"Robert","Aerys",2
+"Alton","Talisa",2
+"Amory","Hot Pie",2
+"Arya","Kevan",2
+"Arya","Tyrion",2
+"Arya","Reginald",2
+"Arya","Syrio Forel",2
+"Arya","Rhaenys",2
+"Catelyn","Balon",2
+"Janos","Barra",2
+"Craster","Benjen",2
+"Rickon","Billy",2
+"Biter","Yoren",2
+"Osha","Black Lorren",2
+"Maester Luwin","Black Lorren",2
+"Joffrey","Boros",2
+"Sansa","Bran",2
+"Catelyn","Bran",2
+"Davos","Brienne",2
+"Brienne","Rickard Karstark",2
+"Melisandre","Brienne",2
+"Brienne","Colen",2
+"Brienne","Littlefinger",2
+"Shae","Bronn",2
+"Cersei","Bronn",2
+"Davos","Catelyn",2
+"Catelyn","Melisandre",2
+"Catelyn","Rickon",2
+"Cersei","Davos",2
+"Cersei","Joanna",2
+"Cersei","Haylene",2
+"Cersei","Salladhor",2
+"Cersei","Matthos",2
+"Margaery","Colen",2
+"Loras","Colen",2
+"Renly","Colen",2
+"Craster","Mance",2
+"Matthos","Cressen",2
+"Dagmer","Yara",2
+"Dagmer","Farlen",2
+"Dagmer","Hodor",2
+"Davos","Robert",2
+"Davos","Marya",2
+"Davos","Joffrey",2
+"Davos","Father Seaworth",2
+"Davos","Robb",2
+"Davos","Loras",2
+"Sansa","Dontos",2
+"Jeor","Eddison Tollett",2
+"Rickon","Farlen",2
+"Robb","Frey Daughter",2
+"Gendry","Ned",2
+"Grenn","Gilly",2
+"Tywin","Harren",2
+"Podrick","Haylene",2
+"Myrcella","High Septon",2
+"Hot Pie","Polliver",2
+"Hot Pie","Tickler",2
+"Hound","Stannis",2
+"Hound","Tommen",2
+"Hound","Ned",2
+"Ilyn Payne","Tommen",2
+"Lancel","Ilyn Payne",2
+"Jorah","Irri",2
+"Jaime","Jacks",2
+"Littlefinger","Jaime",2
+"Jon","Jaime",2
+"Pycelle","Janos",2
+"Jaqen","Yoren",2
+"Tyrion","Jeor",2
+"Shae","Joffrey",2
+"Joffrey","Renly",2
+"Joffrey","Matthos",2
+"Robert","Jon Arryn",2
+"Pycelle","Jon Arryn",2
+"Jorah","Malakko",2
+"Stannis","Kevan",2
+"Spice King","Kovarro",2
+"Lancel","Tommen",2
+"Shae","Lancel",2
+"Littlefinger","Myrcella",2
+"Loras","Tommen",2
+"Melisandre","Loras",2
+"Robb","Loras",2
+"Tyrion","Lysa",2
+"Margaery","Tywin",2
+"Margaery","Stannis",2
+"Matthos","Robert",2
+"Melessa","Sam",2
+"Meryn","Tommen",2
+"Ros","Mhaegan",2
+"Myrcella","Trystane",2
+"Myrcella","Robert",2
+"Ned","Tywin",2
+"Sansa","Ned",2
+"Rodrik","Ned",2
+"Robb","Osha",2
+"Tywin","Polliver",2
+"Tyrion","Protester",2
+"Quaithe","Xaro",2
+"Roose Bolton","Ramsay",2
+"Randyll","Sam",2
+"Robb","Rennick",2
+"Rhaenys","Visenya",2
+"Rickard Karstark","Roose Bolton",2
+"Rickard Karstark","Talisa",2
+"Rodrik","Rickon",2
+"Robert","Tommen",2
+"Theon","Robert",2
+"Septon","Talisa",2
+"Shae","Tywin",2
+"Spice King","Silk King",2
+"Talisa","Torrhen",2
+"Theon","Torrhen",2
+"Tyrion","Theon",2
+"Tyrion","Trystane",2

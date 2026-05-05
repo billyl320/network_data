@@ -1,0 +1,39 @@
+"id","name","height","mass","hair_color","skin_color","eye_color","birth_year","sex","homeworld","species","n","m","directed"
+1,"1",96,32,NA,"white, blue","red",33,"none","Naboo","Droid",38,135,FALSE
+2,"2",193,89,"brown","fair","blue",92,"male",NA,"Human",38,135,FALSE
+3,"3",191,90,"none","mottled green","red",NA,"male","Cato Neimoidia","Neimodian",38,135,FALSE
+4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+5,"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+6,"6",182,77,"auburn, white","fair","blue-gray",57,"male","Stewjon","Human",38,135,FALSE
+7,"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+8,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+9,"9",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+10,"10",170,75,"grey","pale","yellow",82,"male","Naboo","Human",38,135,FALSE
+11,"11",183,NA,"black","dark","brown",62,NA,"Naboo",NA,38,135,FALSE
+12,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+13,"13",196,66,"none","orange","orange",52,"male","Naboo","Gungan",38,135,FALSE
+14,"14",224,82,"none","grey","orange",NA,"male","Naboo","Gungan",38,135,FALSE
+15,"15",206,NA,"none","green","orange",NA,"male","Naboo","Gungan",38,135,FALSE
+16,"16",165,45,"brown","light","brown",46,"female","Naboo","Human",38,135,FALSE
+17,"17",183,NA,"brown","fair","blue",NA,NA,"Naboo",NA,38,135,FALSE
+18,"18",137,NA,"black","blue, grey","yellow",NA,"male","Toydaria","Toydarian",38,135,FALSE
+19,"19",188,84,"blond","fair","blue",41.9,"male","Tatooine","Human",38,135,FALSE
+20,"20",112,40,"none","grey, red","orange",NA,"male","Malastare","Dug",38,135,FALSE
+21,"21",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+22,"22",163,NA,"black","fair","brown",72,"female","Tatooine","Human",38,135,FALSE
+23,"23",167,75,NA,"gold","yellow",112,"none","Tatooine","Droid",38,135,FALSE
+24,"24",175,80,"none","red","yellow",54,"male","Dathomir","Zabrak",38,135,FALSE
+25,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+26,"26",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+27,"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+28,"28",175,1358,NA,"green-tan, brown","orange",600,"hermaphroditic","Nal Hutta","Hutt",38,135,FALSE
+29,"29",173,74,NA,"green","black",44,"male","Rodia","Rodian",38,135,FALSE
+30,"30",170,NA,"blond","fair","blue",91,"male","Coruscant","Human",38,135,FALSE
+31,"31",188,84,"none","dark","brown",72,"male","Haruun Kal","Human",38,135,FALSE
+32,"32",198,82,"white","pale","yellow",92,"male","Cerea","Cerean",38,135,FALSE
+33,"33",66,17,"white","green","brown",896,"male",NA,"Yoda's species",38,135,FALSE
+34,"34",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+35,"35",191,NA,"black","tan","brown",67,"male","Alderaan","Human",38,135,FALSE
+36,"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+37,"37",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE
+38,"38",NA,NA,NA,NA,NA,NA,NA,NA,NA,38,135,FALSE

@@ -1,0 +1,234 @@
+"from","to","weight"
+"Abraham","Benvolio",1
+"Abraham","Capulet",1
+"Abraham","First Citizen",1
+"Abraham","Gregory",1
+"Abraham","Lady Capulet",1
+"Abraham","Lady Montague",1
+"Abraham","Montague",1
+"Abraham","Prince",1
+"Abraham","Romeo",1
+"Abraham","Sampson",1
+"Abraham","Tybalt",1
+"Balthasar","Capulet",1
+"Balthasar","First Watchman",1
+"Balthasar","Friar Laurence",1
+"Balthasar","Juliet",1
+"Balthasar","Lady Capulet",1
+"Balthasar","Montague",1
+"Balthasar","Page",1
+"Balthasar","Paris",1
+"Balthasar","Prince",1
+"Balthasar","Romeo",2
+"Balthasar","Second Watchman",1
+"Balthasar","Third Watchman",1
+"Balthasar","Apothecary",1
+"Benvolio","Capulet",3
+"Benvolio","First Citizen",2
+"Benvolio","First Servant",1
+"Benvolio","Gregory",1
+"Benvolio","Juliet",1
+"Benvolio","Lady Capulet",2
+"Benvolio","Lady Montague",1
+"Benvolio","Mercutio",4
+"Benvolio","Montague",2
+"Benvolio","Nurse",3
+"Benvolio","Paris",1
+"Benvolio","Peter",1
+"Benvolio","Prince",2
+"Benvolio","Romeo",7
+"Benvolio","Sampson",1
+"Benvolio","Second Capulet",1
+"Benvolio","Second Servant",1
+"Benvolio","Servant",2
+"Benvolio","Tybalt",3
+"Capulet","First Citizen",1
+"Capulet","First Musician",1
+"Capulet","First Servant",2
+"Capulet","First Watchman",1
+"Capulet","Friar Laurence",2
+"Capulet","Gregory",1
+"Capulet","Juliet",4
+"Capulet","Lady Capulet",7
+"Capulet","Lady Montague",1
+"Capulet","Montague",2
+"Capulet","Musician",1
+"Capulet","Nurse",5
+"Capulet","Page",1
+"Capulet","Paris",4
+"Capulet","Peter",1
+"Capulet","Prince",2
+"Capulet","Romeo",5
+"Capulet","Sampson",1
+"Capulet","Second Capulet",1
+"Capulet","Second Musician",1
+"Capulet","Second Servant",3
+"Capulet","Second Watchman",1
+"Capulet","Servant",2
+"Capulet","Third Watchman",1
+"Capulet","Tybalt",2
+"Capulet","Lady  Capulet",1
+"Capulet","Third Musician",1
+"First Citizen","Gregory",1
+"First Citizen","Lady Capulet",2
+"First Citizen","Lady Montague",1
+"First Citizen","Mercutio",1
+"First Citizen","Montague",2
+"First Citizen","Prince",2
+"First Citizen","Romeo",2
+"First Citizen","Sampson",1
+"First Citizen","Tybalt",2
+"First Musician","Friar Laurence",1
+"First Musician","Lady Capulet",1
+"First Musician","Musician",1
+"First Musician","Nurse",1
+"First Musician","Paris",1
+"First Musician","Peter",1
+"First Musician","Second Musician",1
+"First Musician","Third Musician",1
+"First Servant","Juliet",1
+"First Servant","Lady Capulet",1
+"First Servant","Nurse",2
+"First Servant","Romeo",1
+"First Servant","Second Capulet",1
+"First Servant","Second Servant",2
+"First Servant","Servant",1
+"First Servant","Tybalt",1
+"First Watchman","Friar Laurence",1
+"First Watchman","Juliet",1
+"First Watchman","Lady Capulet",1
+"First Watchman","Montague",1
+"First Watchman","Page",1
+"First Watchman","Paris",1
+"First Watchman","Prince",1
+"First Watchman","Romeo",1
+"First Watchman","Second Watchman",1
+"First Watchman","Third Watchman",1
+"Friar John","Friar Laurence",1
+"Friar Laurence","Juliet",3
+"Friar Laurence","Lady Capulet",2
+"Friar Laurence","Montague",1
+"Friar Laurence","Musician",1
+"Friar Laurence","Nurse",2
+"Friar Laurence","Page",1
+"Friar Laurence","Paris",3
+"Friar Laurence","Peter",1
+"Friar Laurence","Prince",1
+"Friar Laurence","Romeo",4
+"Friar Laurence","Second Musician",1
+"Friar Laurence","Second Watchman",1
+"Friar Laurence","Third Watchman",1
+"Friar Laurence","Third Musician",1
+"Gregory","Lady Capulet",1
+"Gregory","Lady Montague",1
+"Gregory","Montague",1
+"Gregory","Prince",1
+"Gregory","Romeo",1
+"Gregory","Sampson",1
+"Gregory","Tybalt",1
+"Juliet","Lady Capulet",5
+"Juliet","Montague",1
+"Juliet","Nurse",7
+"Juliet","Page",1
+"Juliet","Paris",2
+"Juliet","Prince",1
+"Juliet","Romeo",5
+"Juliet","Second Capulet",1
+"Juliet","Second Servant",2
+"Juliet","Second Watchman",1
+"Juliet","Servant",2
+"Juliet","Third Watchman",1
+"Juliet","Tybalt",1
+"Juliet","Lady  Capulet",1
+"Lady Capulet","Lady Montague",1
+"Lady Capulet","Mercutio",1
+"Lady Capulet","Montague",3
+"Lady Capulet","Musician",1
+"Lady Capulet","Nurse",5
+"Lady Capulet","Page",1
+"Lady Capulet","Paris",3
+"Lady Capulet","Peter",1
+"Lady Capulet","Prince",3
+"Lady Capulet","Romeo",4
+"Lady Capulet","Sampson",1
+"Lady Capulet","Second Musician",1
+"Lady Capulet","Second Servant",2
+"Lady Capulet","Second Watchman",1
+"Lady Capulet","Servant",1
+"Lady Capulet","Third Watchman",1
+"Lady Capulet","Tybalt",2
+"Lady Capulet","Lady  Capulet",1
+"Lady Capulet","Third Musician",1
+"Lady Montague","Montague",1
+"Lady Montague","Prince",1
+"Lady Montague","Romeo",1
+"Lady Montague","Sampson",1
+"Lady Montague","Tybalt",1
+"Mercutio","Montague",1
+"Mercutio","Nurse",2
+"Mercutio","Peter",1
+"Mercutio","Prince",1
+"Mercutio","Romeo",4
+"Mercutio","Tybalt",1
+"Montague","Page",1
+"Montague","Paris",1
+"Montague","Prince",3
+"Montague","Romeo",3
+"Montague","Sampson",1
+"Montague","Second Watchman",1
+"Montague","Third Watchman",1
+"Montague","Tybalt",2
+"Musician","Nurse",1
+"Musician","Paris",1
+"Musician","Peter",1
+"Musician","Second Musician",1
+"Musician","Third Musician",1
+"Nurse","Paris",1
+"Nurse","Peter",3
+"Nurse","Romeo",6
+"Nurse","Second Capulet",1
+"Nurse","Second Musician",1
+"Nurse","Second Servant",3
+"Nurse","Servant",2
+"Nurse","Tybalt",1
+"Nurse","Lady  Capulet",1
+"Nurse","Third Musician",1
+"Page","Paris",1
+"Page","Prince",1
+"Page","Romeo",1
+"Page","Second Watchman",1
+"Page","Third Watchman",1
+"Paris","Peter",1
+"Paris","Prince",1
+"Paris","Romeo",2
+"Paris","Second Musician",1
+"Paris","Second Watchman",1
+"Paris","Servant",1
+"Paris","Third Watchman",1
+"Paris","Third Musician",1
+"Peter","Romeo",1
+"Peter","Second Musician",1
+"Peter","Third Musician",1
+"Prince","Romeo",3
+"Prince","Sampson",1
+"Prince","Second Watchman",1
+"Prince","Third Watchman",1
+"Prince","Tybalt",2
+"Romeo","Sampson",1
+"Romeo","Second Capulet",1
+"Romeo","Second Servant",1
+"Romeo","Second Watchman",1
+"Romeo","Servant",2
+"Romeo","Third Watchman",1
+"Romeo","Tybalt",3
+"Romeo","Apothecary",1
+"Sampson","Tybalt",1
+"Second Capulet","Second Servant",1
+"Second Capulet","Servant",1
+"Second Capulet","Tybalt",1
+"Second Musician","Third Musician",1
+"Second Servant","Servant",1
+"Second Servant","Tybalt",1
+"Second Servant","Lady  Capulet",1
+"Second Watchman","Third Watchman",1
+"Servant","Tybalt",1

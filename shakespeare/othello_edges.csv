@@ -1,0 +1,173 @@
+"from","to","weight"
+"All","Cassio",2
+"All","Desdemona",2
+"All","Emilia",1
+"All","Gratiano",1
+"All","Iago",2
+"All","Lodovico",1
+"All","Montano",2
+"All","Othello",2
+"All","Roderigo",1
+"Bianca","Cassio",3
+"Bianca","Clown",1
+"Bianca","Desdemona",2
+"Bianca","Emilia",2
+"Bianca","Gratiano",1
+"Bianca","Iago",3
+"Bianca","Lodovico",2
+"Bianca","Othello",3
+"Bianca","Roderigo",1
+"Brabantio","Cassio",1
+"Brabantio","Desdemona",1
+"Brabantio","Duke Of Venice",1
+"Brabantio","First Officer",2
+"Brabantio","First Senator",1
+"Brabantio","Iago",3
+"Brabantio","Messenger",1
+"Brabantio","Othello",2
+"Brabantio","Roderigo",3
+"Brabantio","Sailor",1
+"Brabantio","Second Senator",1
+"Brabantio","Senator",1
+"Cassio","Clown",2
+"Cassio","Desdemona",6
+"Cassio","Emilia",6
+"Cassio","First Gentleman",1
+"Cassio","First Musician",1
+"Cassio","First Officer",1
+"Cassio","Fourth Gentleman",1
+"Cassio","Gratiano",2
+"Cassio","Iago",9
+"Cassio","Lodovico",3
+"Cassio","Montano",3
+"Cassio","Othello",8
+"Cassio","Roderigo",4
+"Cassio","Second Gentleman",1
+"Cassio","Second Gentlemen",1
+"Cassio","Third Gentleman",1
+"Clown","Desdemona",1
+"Clown","Emilia",2
+"Clown","First Musician",1
+"Clown","Iago",2
+"Clown","Othello",1
+"Desdemona","Duke Of Venice",1
+"Desdemona","Emilia",6
+"Desdemona","First Gentleman",1
+"Desdemona","First Officer",1
+"Desdemona","First Senator",1
+"Desdemona","Fourth Gentleman",1
+"Desdemona","Gratiano",1
+"Desdemona","Iago",8
+"Desdemona","Lodovico",3
+"Desdemona","Messenger",1
+"Desdemona","Montano",3
+"Desdemona","Othello",9
+"Desdemona","Roderigo",4
+"Desdemona","Sailor",1
+"Desdemona","Second Gentleman",1
+"Desdemona","Second Gentlemen",1
+"Desdemona","Second Senator",1
+"Desdemona","Senator",1
+"Desdemona","Third Gentleman",1
+"Duke Of Venice","First Officer",1
+"Duke Of Venice","First Senator",1
+"Duke Of Venice","Iago",1
+"Duke Of Venice","Messenger",1
+"Duke Of Venice","Othello",1
+"Duke Of Venice","Roderigo",1
+"Duke Of Venice","Sailor",1
+"Duke Of Venice","Second Senator",1
+"Duke Of Venice","Senator",1
+"Emilia","First Gentleman",1
+"Emilia","First Musician",1
+"Emilia","Fourth Gentleman",1
+"Emilia","Gratiano",2
+"Emilia","Iago",7
+"Emilia","Lodovico",3
+"Emilia","Montano",2
+"Emilia","Othello",7
+"Emilia","Roderigo",3
+"Emilia","Second Gentleman",1
+"Emilia","Second Gentlemen",1
+"Emilia","Third Gentleman",1
+"First Gentleman","Fourth Gentleman",1
+"First Gentleman","Iago",1
+"First Gentleman","Montano",1
+"First Gentleman","Othello",1
+"First Gentleman","Roderigo",1
+"First Gentleman","Second Gentleman",1
+"First Gentleman","Second Gentlemen",1
+"First Gentleman","Third Gentleman",1
+"First Musician","Iago",1
+"First Officer","First Senator",1
+"First Officer","Iago",2
+"First Officer","Messenger",1
+"First Officer","Othello",2
+"First Officer","Roderigo",2
+"First Officer","Sailor",1
+"First Officer","Second Senator",1
+"First Officer","Senator",1
+"First Senator","Iago",1
+"First Senator","Messenger",1
+"First Senator","Othello",1
+"First Senator","Roderigo",1
+"First Senator","Sailor",1
+"First Senator","Second Senator",1
+"First Senator","Senator",1
+"Fourth Gentleman","Iago",1
+"Fourth Gentleman","Montano",1
+"Fourth Gentleman","Othello",1
+"Fourth Gentleman","Roderigo",1
+"Fourth Gentleman","Second Gentleman",1
+"Fourth Gentleman","Second Gentlemen",1
+"Fourth Gentleman","Third Gentleman",1
+"Gratiano","Iago",2
+"Gratiano","Lodovico",2
+"Gratiano","Montano",1
+"Gratiano","Othello",2
+"Gratiano","Roderigo",1
+"Iago","Lodovico",3
+"Iago","Messenger",1
+"Iago","Montano",3
+"Iago","Othello",11
+"Iago","Roderigo",7
+"Iago","Sailor",1
+"Iago","Second Gentleman",1
+"Iago","Second Gentlemen",1
+"Iago","Second Senator",1
+"Iago","Senator",1
+"Iago","Third Gentleman",1
+"Iago","Gentleman",1
+"Lodovico","Montano",1
+"Lodovico","Othello",4
+"Lodovico","Roderigo",1
+"Messenger","Othello",1
+"Messenger","Roderigo",1
+"Messenger","Sailor",1
+"Messenger","Second Senator",1
+"Messenger","Senator",1
+"Montano","Othello",3
+"Montano","Roderigo",2
+"Montano","Second Gentleman",1
+"Montano","Second Gentlemen",1
+"Montano","Third Gentleman",1
+"Othello","Roderigo",6
+"Othello","Sailor",1
+"Othello","Second Gentleman",1
+"Othello","Second Gentlemen",1
+"Othello","Second Senator",1
+"Othello","Senator",1
+"Othello","Third Gentleman",1
+"Othello","Gentleman",1
+"Roderigo","Sailor",1
+"Roderigo","Second Gentleman",1
+"Roderigo","Second Gentlemen",1
+"Roderigo","Second Senator",1
+"Roderigo","Senator",1
+"Roderigo","Third Gentleman",1
+"Sailor","Second Senator",1
+"Sailor","Senator",1
+"Second Gentleman","Second Gentlemen",1
+"Second Gentleman","Third Gentleman",1
+"Second Gentlemen","Third Gentleman",1
+"Second Senator","Senator",1

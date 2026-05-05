@@ -1,0 +1,175 @@
+"from","to","weight"
+"Antigonus","Clown",1
+"Antigonus","First Lady",1
+"Antigonus","First Lord",2
+"Antigonus","First Servant",1
+"Antigonus","Hermione",1
+"Antigonus","Leontes",2
+"Antigonus","Lords",1
+"Antigonus","Mamillius",1
+"Antigonus","Mariner",1
+"Antigonus","Paulina",1
+"Antigonus","Second Lady",1
+"Antigonus","Second Servant",1
+"Antigonus","Servant",1
+"Antigonus","Shepherd",1
+"Archidamus","Camillo",1
+"Autolycus","Camillo",1
+"Autolycus","Clown",3
+"Autolycus","Dorcas",1
+"Autolycus","First Gentleman",1
+"Autolycus","Florizel",1
+"Autolycus","Mopsa",1
+"Autolycus","Perdita",1
+"Autolycus","Polixenes",1
+"Autolycus","Second Gentleman",1
+"Autolycus","Servant",1
+"Autolycus","Shepherd",3
+"Autolycus","Third Gentleman",1
+"Autolycus","Time",1
+"Autolycus","Shepard",1
+"Camillo","Clown",1
+"Camillo","Dorcas",1
+"Camillo","Florizel",1
+"Camillo","Hermione",2
+"Camillo","Leontes",2
+"Camillo","Mamillius",1
+"Camillo","Mopsa",1
+"Camillo","Paulina",1
+"Camillo","Perdita",2
+"Camillo","Polixenes",4
+"Camillo","Servant",1
+"Camillo","Shepherd",1
+"Camillo","Shepard",1
+"Cleomenes","Dion",2
+"Cleomenes","Florizel",1
+"Cleomenes","Gentleman",1
+"Cleomenes","Leontes",1
+"Cleomenes","Lord",1
+"Cleomenes","Paulina",1
+"Cleomenes","Perdita",1
+"Clown","Dorcas",1
+"Clown","First Gentleman",1
+"Clown","Florizel",1
+"Clown","Mariner",1
+"Clown","Mopsa",1
+"Clown","Perdita",1
+"Clown","Polixenes",1
+"Clown","Second Gentleman",1
+"Clown","Servant",1
+"Clown","Shepherd",4
+"Clown","Third Gentleman",1
+"Clown","Time",1
+"Clown","Shepard",1
+"Dion","First Lord",1
+"Dion","Florizel",1
+"Dion","Gentleman",1
+"Dion","Hermione",1
+"Dion","Leontes",2
+"Dion","Lord",1
+"Dion","Lords",1
+"Dion","Officer",1
+"Dion","Paulina",2
+"Dion","Perdita",1
+"Dion","Servant",1
+"Dorcas","Florizel",1
+"Dorcas","Mopsa",1
+"Dorcas","Perdita",1
+"Dorcas","Polixenes",1
+"Dorcas","Servant",1
+"Dorcas","Shepherd",1
+"Dorcas","Shepard",1
+"First Gentleman","Second Gentleman",1
+"First Gentleman","Shepherd",1
+"First Gentleman","Third Gentleman",1
+"First Lady","First Lord",1
+"First Lady","Hermione",1
+"First Lady","Leontes",1
+"First Lady","Mamillius",1
+"First Lady","Second Lady",1
+"First Lord","First Servant",1
+"First Lord","Hermione",2
+"First Lord","Leontes",3
+"First Lord","Lords",2
+"First Lord","Mamillius",1
+"First Lord","Officer",1
+"First Lord","Paulina",2
+"First Lord","Second Lady",1
+"First Lord","Second Servant",1
+"First Lord","Servant",2
+"First Servant","Leontes",1
+"First Servant","Lords",1
+"First Servant","Paulina",1
+"First Servant","Second Servant",1
+"First Servant","Servant",1
+"Florizel","Gentleman",1
+"Florizel","Leontes",1
+"Florizel","Lord",1
+"Florizel","Mopsa",1
+"Florizel","Paulina",1
+"Florizel","Perdita",2
+"Florizel","Polixenes",1
+"Florizel","Servant",1
+"Florizel","Shepherd",1
+"Florizel","Shepard",1
+"Gaoler","Paulina",1
+"Gaoler","Emilia",1
+"Gentleman","Leontes",1
+"Gentleman","Lord",1
+"Gentleman","Paulina",1
+"Gentleman","Perdita",1
+"Hermione","Leontes",4
+"Hermione","Lords",1
+"Hermione","Mamillius",2
+"Hermione","Officer",1
+"Hermione","Paulina",2
+"Hermione","Perdita",1
+"Hermione","Polixenes",2
+"Hermione","Second Lady",1
+"Hermione","Servant",1
+"Leontes","Lord",1
+"Leontes","Lords",2
+"Leontes","Mamillius",2
+"Leontes","Officer",1
+"Leontes","Paulina",4
+"Leontes","Perdita",2
+"Leontes","Polixenes",2
+"Leontes","Second Lady",1
+"Leontes","Second Servant",1
+"Leontes","Servant",2
+"Lord","Paulina",1
+"Lord","Perdita",1
+"Lords","Officer",1
+"Lords","Paulina",2
+"Lords","Second Servant",1
+"Lords","Servant",2
+"Mamillius","Polixenes",1
+"Mamillius","Second Lady",1
+"Mariner","Shepherd",1
+"Mopsa","Perdita",1
+"Mopsa","Polixenes",1
+"Mopsa","Servant",1
+"Mopsa","Shepherd",1
+"Mopsa","Shepard",1
+"Officer","Paulina",1
+"Officer","Servant",1
+"Paulina","Perdita",2
+"Paulina","Polixenes",1
+"Paulina","Second Servant",1
+"Paulina","Servant",2
+"Paulina","Emilia",1
+"Perdita","Polixenes",2
+"Perdita","Servant",1
+"Perdita","Shepherd",1
+"Perdita","Shepard",1
+"Polixenes","Servant",1
+"Polixenes","Shepherd",1
+"Polixenes","Shepard",1
+"Second Gentleman","Shepherd",1
+"Second Gentleman","Third Gentleman",1
+"Second Servant","Servant",1
+"Servant","Shepherd",1
+"Servant","Shepard",1
+"Shepherd","Third Gentleman",1
+"Shepherd","Time",1
+"Shepherd","Shepard",1

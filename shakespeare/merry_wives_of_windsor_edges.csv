@@ -1,0 +1,183 @@
+"from","to","weight"
+"Anne Page","Bardolph",1
+"Anne Page","Doctor Caius",1
+"Anne Page","Falstaff",2
+"Anne Page","Fenton",2
+"Anne Page","Ford",1
+"Anne Page","Mistress Ford",1
+"Anne Page","Mistress Page",2
+"Anne Page","Mistress Quickly",2
+"Anne Page","Nym",1
+"Anne Page","Page",3
+"Anne Page","Pistol",2
+"Anne Page","Shallow",2
+"Anne Page","Simple",1
+"Anne Page","Sir Hugh Evans",2
+"Anne Page","Slender",3
+"Bardolph","Doctor Caius",1
+"Bardolph","Falstaff",5
+"Bardolph","Ford",2
+"Bardolph","Host",3
+"Bardolph","Mistress Quickly",3
+"Bardolph","Nym",2
+"Bardolph","Page",1
+"Bardolph","Pistol",3
+"Bardolph","Robin",1
+"Bardolph","Shallow",1
+"Bardolph","Simple",2
+"Bardolph","Sir Hugh Evans",2
+"Bardolph","Slender",1
+"Doctor Caius","Falstaff",3
+"Doctor Caius","Fenton",2
+"Doctor Caius","Ford",3
+"Doctor Caius","Host",4
+"Doctor Caius","Mistress Ford",3
+"Doctor Caius","Mistress Page",4
+"Doctor Caius","Mistress Quickly",3
+"Doctor Caius","Page",5
+"Doctor Caius","Pistol",1
+"Doctor Caius","Robin",2
+"Doctor Caius","Rugby",2
+"Doctor Caius","Servant",1
+"Doctor Caius","Shallow",3
+"Doctor Caius","Simple",3
+"Doctor Caius","Sir Hugh Evans",4
+"Doctor Caius","Slender",4
+"Doctor Caius","All",1
+"Falstaff","Fenton",1
+"Falstaff","First Servant",1
+"Falstaff","Ford",6
+"Falstaff","Host",2
+"Falstaff","Mistress Ford",3
+"Falstaff","Mistress Page",3
+"Falstaff","Mistress Quickly",5
+"Falstaff","Nym",2
+"Falstaff","Page",4
+"Falstaff","Pistol",4
+"Falstaff","Robin",2
+"Falstaff","Second Servant",1
+"Falstaff","Servant",1
+"Falstaff","Shallow",2
+"Falstaff","Simple",2
+"Falstaff","Sir Hugh Evans",5
+"Falstaff","Slender",2
+"Fenton","Ford",1
+"Fenton","Host",1
+"Fenton","Mistress Ford",1
+"Fenton","Mistress Page",2
+"Fenton","Mistress Quickly",3
+"Fenton","Page",2
+"Fenton","Pistol",1
+"Fenton","Rugby",1
+"Fenton","Shallow",1
+"Fenton","Simple",1
+"Fenton","Sir Hugh Evans",1
+"Fenton","Slender",2
+"First Servant","Ford",1
+"First Servant","Mistress Ford",1
+"First Servant","Mistress Page",1
+"First Servant","Page",1
+"First Servant","Second Servant",1
+"First Servant","Shallow",1
+"First Servant","Sir Hugh Evans",1
+"Ford","Host",2
+"Ford","Mistress Ford",5
+"Ford","Mistress Page",6
+"Ford","Mistress Quickly",5
+"Ford","Nym",1
+"Ford","Page",6
+"Ford","Pistol",3
+"Ford","Robin",3
+"Ford","Second Servant",1
+"Ford","Servant",1
+"Ford","Shallow",3
+"Ford","Sir Hugh Evans",4
+"Ford","Slender",2
+"Ford","All",1
+"Host","Mistress Ford",1
+"Host","Mistress Page",2
+"Host","Mistress Quickly",2
+"Host","Nym",2
+"Host","Page",4
+"Host","Pistol",2
+"Host","Robin",1
+"Host","Rugby",1
+"Host","Shallow",4
+"Host","Simple",2
+"Host","Sir Hugh Evans",2
+"Host","Slender",3
+"Host","All",1
+"Mistress Ford","Mistress Page",6
+"Mistress Ford","Mistress Quickly",2
+"Mistress Ford","Nym",1
+"Mistress Ford","Page",5
+"Mistress Ford","Pistol",2
+"Mistress Ford","Robin",1
+"Mistress Ford","Second Servant",1
+"Mistress Ford","Servant",1
+"Mistress Ford","Shallow",2
+"Mistress Ford","Sir Hugh Evans",4
+"Mistress Ford","Slender",1
+"Mistress Page","Mistress Quickly",4
+"Mistress Page","Nym",1
+"Mistress Page","Page",7
+"Mistress Page","Pistol",2
+"Mistress Page","Robin",2
+"Mistress Page","Second Servant",1
+"Mistress Page","Servant",1
+"Mistress Page","Shallow",4
+"Mistress Page","Sir Hugh Evans",5
+"Mistress Page","Slender",3
+"Mistress Page","All",1
+"Mistress Page","William Page",1
+"Mistress Quickly","Nym",1
+"Mistress Quickly","Page",3
+"Mistress Quickly","Pistol",3
+"Mistress Quickly","Robin",1
+"Mistress Quickly","Rugby",1
+"Mistress Quickly","Shallow",2
+"Mistress Quickly","Simple",2
+"Mistress Quickly","Sir Hugh Evans",3
+"Mistress Quickly","Slender",2
+"Mistress Quickly","William Page",1
+"Nym","Page",2
+"Nym","Pistol",3
+"Nym","Shallow",2
+"Nym","Simple",1
+"Nym","Sir Hugh Evans",1
+"Nym","Slender",1
+"Page","Pistol",3
+"Page","Robin",2
+"Page","Rugby",1
+"Page","Second Servant",1
+"Page","Servant",1
+"Page","Shallow",8
+"Page","Simple",2
+"Page","Sir Hugh Evans",6
+"Page","Slender",7
+"Page","All",1
+"Pistol","Robin",1
+"Pistol","Shallow",2
+"Pistol","Simple",1
+"Pistol","Sir Hugh Evans",2
+"Pistol","Slender",2
+"Robin","Servant",1
+"Robin","Shallow",1
+"Robin","Sir Hugh Evans",1
+"Robin","Slender",1
+"Robin","All",1
+"Rugby","Shallow",1
+"Rugby","Simple",1
+"Rugby","Slender",1
+"Second Servant","Shallow",1
+"Second Servant","Sir Hugh Evans",1
+"Servant","Sir Hugh Evans",1
+"Shallow","Simple",2
+"Shallow","Sir Hugh Evans",3
+"Shallow","Slender",6
+"Shallow","All",1
+"Simple","Sir Hugh Evans",4
+"Simple","Slender",2
+"Sir Hugh Evans","Slender",3
+"Sir Hugh Evans","William Page",1
+"Slender","All",1

@@ -1,0 +1,28 @@
+"id","name","height","mass","hair_color","skin_color","eye_color","birth_year","sex","homeworld","species","n","m","directed"
+1,"1",172,77,"blond","fair","blue",19,"male","Tatooine","Human",27,92,FALSE
+2,"2",96,32,NA,"white, blue","red",33,"none","Naboo","Droid",27,92,FALSE
+3,"3",228,112,"brown","unknown","blue",200,"male","Kashyyyk","Wookiee",27,92,FALSE
+4,"4",NA,NA,"none","none","black",NA,"none",NA,"Droid",27,92,FALSE
+5,"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+6,"6",NA,NA,"brown","light","brown",NA,"male",NA,"Human",27,92,FALSE
+7,"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+8,"8",NA,NA,"unknown","unknown","unknown",NA,NA,NA,NA,27,92,FALSE
+9,"9",NA,NA,"black","dark","dark",NA,"male",NA,"Human",27,92,FALSE
+10,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+11,"11",NA,NA,"brown","light","hazel",NA,"female",NA,"Human",27,92,FALSE
+12,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+13,"13",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+14,"14",180,80,"brown","fair","brown",29,"male","Corellia","Human",27,92,FALSE
+15,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+16,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+17,"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+18,"18",167,75,NA,"gold","yellow",112,"none","Tatooine","Droid",27,92,FALSE
+19,"19",150,49,"brown","light","brown",19,"female","Alderaan","Human",27,92,FALSE
+20,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+21,"21",180,83,"none","brown mottle","orange",41,"male","Mon Cala","Mon Calamari",27,92,FALSE
+22,"22",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+23,"23",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+24,"24",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+25,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+26,"26",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE
+27,"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,27,92,FALSE

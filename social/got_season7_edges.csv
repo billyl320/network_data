@@ -1,0 +1,413 @@
+"from","to","weight"
+"Aerys","Ned",2
+"Aerys","Olenna",2
+"Aerys","Sansa",2
+"Arya","Walder",2
+"Balerion","Cersei",2
+"Beric","Ned",2
+"Bran","Brienne",2
+"Bran","Night King",2
+"Bran","Podrick",2
+"Bran","Tyrion",2
+"Brienne","Euron",2
+"Brienne","Hot Pie",2
+"Brienne","Jorah",2
+"Brienne","Qhono",2
+"Brienne","Varys",2
+"Bronn","Grey Worm",2
+"Bronn","Jorah",2
+"Bronn","Olenna",2
+"Bronn","Theon",2
+"Catelyn","Tyrion",2
+"Cersei","Littlefinger",2
+"Cersei","Night King",2
+"Cersei","Robb",2
+"Cersei","Varys",2
+"Cersei","Yara",2
+"Daenerys","Drogo",2
+"Daenerys","Gendry",2
+"Daenerys","Littlefinger",2
+"Daenerys","Mountain",2
+"Daenerys","Qyburn",2
+"Daenerys","Robert",2
+"Daenerys","Tywin",2
+"Davos","Grey Worm",2
+"Davos","Mountain",2
+"Davos","Qyburn",2
+"Davos","Robett",2
+"Davos","Yohn Royce",2
+"Dickon","Olenna",2
+"Dickon","Sam",2
+"Drogo","Jon",2
+"Drogo","Jorah",2
+"Ellaria","Grey Worm",2
+"Ellaria","Jaime",2
+"Ellaria","Missandei",2
+"Ellaria","Nymeria",2
+"Ellaria","Oberyn",2
+"Euron","Hound",2
+"Gendry","Melisandre",2
+"Grey Worm","Jaime",2
+"Grey Worm","Jon",2
+"Grey Worm","Jorah",2
+"Grey Worm","Melisandre",2
+"Grey Worm","Olenna",2
+"Grey Worm","Yara",2
+"High Septon","Sam",2
+"Hot Pie","Jon",2
+"Hound","Missandei",2
+"Hound","Qhono",2
+"Hound","White Walker",2
+"Howland","Meera",2
+"Jaime","Sansa",2
+"Jaime","Theon",2
+"Jaime","Tyene",2
+"Jeor","Tyrion",2
+"Joanna","Tywin",2
+"Joffrey","Robb",2
+"Joffrey","Robert",2
+"Joffrey","Tommen",2
+"Jon","Robb",2
+"Jon","White Walker",2
+"Jon Arryn","Lysa",2
+"Jon Arryn","Sansa",2
+"Jorah","Podrick",2
+"Jorah","White Walker",2
+"Lyanna Mormont","Podrick",2
+"Lyanna Mormont","Tormund",2
+"Margaery","Olenna",2
+"Marwyn","Robert",2
+"Marwyn","Shireen",2
+"Marwyn","Wolkan",2
+"Meera","Ned",2
+"Melisandre","Missandei",2
+"Melisandre","Thoros",2
+"Missandei","Olenna",2
+"Missandei","Yara",2
+"Mountain","Myrcella",2
+"Mountain","Randyll",2
+"Myrcella","Oberyn",2
+"Ned","Tyrion",2
+"Night King","Tyrion",2
+"Nymeria","Theon",2
+"Obara","Theon",2
+"Olenna","Theon",2
+"Olenna","Varys",2
+"Olenna","Yara",2
+"Podrick","Qhono",2
+"Podrick","Robett",2
+"Podrick","Theon",2
+"Podrick","Varys",2
+"Podrick","Yohn Royce",2
+"Qhono","Tyrion",2
+"Qyburn","Randyll",2
+"Qyburn","Theon",2
+"Rhaegar","Robert",2
+"Robb","Robert",2
+"Robert","Sam",2
+"Robert","Sansa",2
+"Robett","Tormund",2
+"Sam","Stannis",2
+"Tormund","White Walker",2
+"Tormund","Yohn Royce",2
+"Varys","Yara",2
+"Daenerys","Aegon",3
+"Aerys","Varys",3
+"Jon","Alys",3
+"Arya","Lyanna Mormont",3
+"Arya","Robb",3
+"Arya","Robert",3
+"Balerion","Qyburn",3
+"Beric","Davos",3
+"Bran","Daenerys",3
+"Bran","Yohn Royce",3
+"Brienne","Mountain",3
+"Brienne","Qyburn",3
+"Brienne","Theon",3
+"Bronn","Davos",3
+"Bronn","Hound",3
+"Bronn","Jon",3
+"Bronn","Varys",3
+"Catelyn","Sansa",3
+"Cersei","Oberyn",3
+"Daenerys","Ellaria",3
+"Daenerys","Ned",3
+"Daenerys","Viserys",3
+"Daenerys","Yara",3
+"Davos","Euron",3
+"Davos","Jaime",3
+"Davos","Lyanna Mormont",3
+"Davos","Night King",3
+"Davos","Robert",3
+"Ellaria","Olenna",3
+"Ellaria","Varys",3
+"Harrag","Yara",3
+"Hound","Jaime",3
+"Hound","Podrick",3
+"Hound","Qyburn",3
+"Hound","Varys",3
+"Jaime","Joffrey",3
+"Jaime","Tommen",3
+"Joffrey","Olenna",3
+"Jon","Sam",3
+"Meera","Littlefinger",3
+"Tormund","Littlefinger",3
+"Mountain","Theon",3
+"Ned","Robert",3
+"Ramsay","Sansa",3
+"Robert","Varys",3
+"Tormund","Sansa",3
+"Sansa","Tyrion",3
+"Theon","Tyene",3
+"Tycho","Tywin",3
+"Tyrion","Yara",3
+"Aerys","Tyrion",4
+"Arya","Robett",4
+"Beric","Daenerys",4
+"Bran","Dolorous Edd",4
+"Bran","Ned",4
+"Bran","Rhaegar",4
+"Brienne","Cersei",4
+"Brienne","Davos",4
+"Brienne","Lyanna Mormont",4
+"Brienne","Robett",4
+"Brienne","Tyrion",4
+"Brienne","Yohn Royce",4
+"Catelyn","Littlefinger",4
+"Cersei","Davos",4
+"Cersei","Hound",4
+"Cersei","Myrcella",4
+"Cersei","Theon",4
+"Davos","Littlefinger",4
+"Davos","Podrick",4
+"Dickon","Tyrion",4
+"Meera","Dolorous Edd",4
+"Ellaria","Obara",4
+"Euron","Nymeria",4
+"Euron","Obara",4
+"Euron","Qyburn",4
+"Gendry","Tyrion",4
+"Grey Worm","Theon",4
+"Hound","Theon",4
+"Jaime","Tywin",4
+"Jeor","Jon",4
+"Jeor","Jorah",4
+"Jeor","Sam",4
+"Joffrey","Tyrion",4
+"Jon","Lyanna",4
+"Jon","Melisandre",4
+"Jon","Ned Umber",4
+"Jon","Qyburn",4
+"Jorah","Night King",4
+"Lyanna Mormont","Littlefinger",4
+"Ned","Littlefinger",4
+"Ned","Lyanna",4
+"Sansa","Lysa",4
+"Melisandre","Tyrion",4
+"Mountain","Oberyn",4
+"Mountain","Tyene",4
+"Nymeria","Tyene",4
+"Nymeria","Yara",4
+"Obara","Yara",4
+"Olenna","Randyll",4
+"Olenna","Tyrion",4
+"Podrick","Tormund",4
+"Qyburn","Tyrion",4
+"Robb","Sansa",4
+"Wolkan","Yohn Royce",4
+"Aerys","Cersei",5
+"Aerys","Jon",5
+"Alys","Ned Umber",5
+"Arya","Catelyn",5
+"Arya","Cersei",5
+"Arya","Podrick",5
+"Arya","Wolkan",5
+"Brienne","Bronn",5
+"Bronn","Cersei",5
+"Cersei","Ned",5
+"Cersei","Olenna",5
+"Daenerys","Tormund",5
+"Davos","Hound",5
+"Ellaria","Euron",5
+"Euron","Jon",5
+"Hound","Mountain",5
+"Hound","Night King",5
+"Joffrey","Ned",5
+"Joffrey","Tywin",5
+"Jon","Mountain",5
+"Jon","Podrick",5
+"Jon","Wolkan",5
+"Jon","Yohn Royce",5
+"Podrick","Littlefinger",5
+"Ned","Robb",5
+"Qyburn","Tyene",5
+"Arya","Joffrey",6
+"Arya","Yohn Royce",6
+"Brienne","Tormund",6
+"Cersei","Randyll",6
+"Daenerys","Hound",6
+"Ellaria","Mountain",6
+"Ellaria","Qyburn",6
+"Euron","Tyene",6
+"Gendry","Robert",6
+"Gilly","Little Sam",6
+"Jaime","Jon",6
+"Joffrey","Sansa",6
+"Jon","Lyanna Mormont",6
+"Jorah","Varys",6
+"Sam","Little Sam",6
+"Robett","Littlefinger",6
+"Lyanna Mormont","Yohn Royce",6
+"Night King","Tormund",6
+"Varys","Theon",6
+"Tyene","Yara",6
+"Jon","Benjen",7
+"Bran","Lyanna",7
+"Bran","Wolkan",7
+"Cersei","Joffrey",7
+"Daenerys","Euron",7
+"Daenerys","Theon",7
+"Davos","Tormund",7
+"Ellaria","Tyrion",7
+"Jorah","Missandei",7
+"Jorah","Theon",7
+"Rhaegar","Lyanna",7
+"Lyanna Mormont","Sansa",7
+"Obara","Tyene",7
+"Podrick","Sansa",7
+"Tyrion","Randyll",7
+"Robett","Sansa",7
+"Arya","Ned",8
+"Beric","Night King",8
+"Bran","Jon",8
+"Bronn","Daenerys",8
+"Bronn","Podrick",8
+"Bronn","Randyll",8
+"Ellaria","Theon",8
+"Euron","Tyrion",8
+"Jon","Robett",8
+"Robett","Yohn Royce",8
+"Arya","Jon",9
+"Brienne","Jon",9
+"Cersei","Sansa",9
+"Davos","Sansa",9
+"Euron","Mountain",9
+"Hound","Tyrion",9
+"Nymeria","Obara",9
+"Brienne","Jaime",10
+"Daenerys","Dickon",10
+"Daenerys","Night King",10
+"Davos","Varys",10
+"Missandei","Theon",10
+"Mountain","Tyrion",10
+"Theon","Tyrion",10
+"Tyrion","Tywin",10
+"Aerys","Daenerys",11
+"Beric","Gendry",11
+"Bronn","Dickon",11
+"Littlefinger","Wolkan",11
+"Littlefinger","Yohn Royce",11
+"Lyanna Mormont","Robett",11
+"Tormund","Thoros",11
+"Davos","Theon",12
+"Jon","Thoros",12
+"Podrick","Tyrion",12
+"Daenerys","Grey Worm",13
+"Daenerys","Melisandre",13
+"Gendry","Jorah",13
+"Brienne","Littlefinger",14
+"Daenerys","Randyll",14
+"Davos","Jorah",14
+"Gendry","Thoros",14
+"Grey Worm","Varys",14
+"Mountain","Qyburn",14
+"Ned","Sansa",14
+"Cersei","Tyene",15
+"Cersei","Tywin",15
+"Gendry","Tormund",15
+"Daenerys","Olenna",16
+"Jorah","Marwyn",16
+"Jon","Night King",17
+"Jorah","Tyrion",17
+"Sansa","Wolkan",17
+"Beric","Jorah",18
+"Brienne","Hound",18
+"Euron","Theon",18
+"Gendry","Hound",18
+"Grey Worm","Tyrion",18
+"Jon","Varys",18
+"Arya","Brienne",19
+"Bran","Littlefinger",19
+"Bronn","Tyrion",19
+"Euron","Yara",19
+"Jorah","Thoros",19
+"Daenerys","Jaime",20
+"Sam","Gilly",20
+"Jon","Littlefinger",20
+"Arya","Bran",21
+"Bran","Meera",21
+"Bran","Sam",21
+"Cersei","Ellaria",21
+"Ellaria","Tyene",21
+"Jon","Ned",21
+"Melisandre","Varys",21
+"Missandei","Varys",21
+"Jaime","Mountain",23
+"Sansa","Yohn Royce",23
+"Arya","Littlefinger",24
+"Cersei","Jon",24
+"Dickon","Jaime",24
+"Harrag","Theon",24
+"Jorah","Tormund",24
+"Theon","Yara",24
+"Brienne","Podrick",25
+"Dickon","Randyll",25
+"Ellaria","Yara",25
+"Jaime","Qyburn",25
+"Euron","Jaime",26
+"Hound","Jorah",26
+"Beric","Tormund",27
+"Hound","Jon",27
+"Jorah","Sam",27
+"Brienne","Sansa",29
+"Beric","Thoros",30
+"Gendry","Jon",30
+"Davos","Missandei",31
+"Grey Worm","Missandei",31
+"Missandei","Tyrion",31
+"Arya","Hot Pie",33
+"Cersei","Daenerys",33
+"Cersei","Mountain",33
+"Daenerys","Davos",33
+"Jaime","Randyll",33
+"Daenerys","Jorah",34
+"Jaime","Tyrion",34
+"Daenerys","Missandei",35
+"Jon","Theon",35
+"Jon","Missandei",36
+"Cersei","Tycho",37
+"Jaime","Olenna",37
+"Cersei","Euron",38
+"Beric","Jon",41
+"Bran","Sansa",44
+"Cersei","Qyburn",44
+"Varys","Tyrion",45
+"Davos","Tyrion",46
+"Jon","Tormund",50
+"Davos","Gendry",55
+"Hound","Thoros",57
+"Hound","Tormund",57
+"Jon","Jorah",59
+"Beric","Hound",63
+"Daenerys","Varys",65
+"Cersei","Tyrion",74
+"Marwyn","Sam",75
+"Jon","Sansa",79
+"Bronn","Jaime",85
+"Davos","Jon",92
+"Jon","Tyrion",107
+"Littlefinger","Sansa",107
+"Arya","Sansa",156
+"Cersei","Jaime",172
+"Daenerys","Jon",178
+"Daenerys","Tyrion",179

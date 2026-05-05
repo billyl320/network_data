@@ -1,0 +1,131 @@
+"from","to","weight"
+"Adriana","Aegeon",1
+"Adriana","Aemelia",1
+"Adriana","Angelo",2
+"Adriana","Antipholus",3
+"Adriana","Balthazar",1
+"Adriana","Courtezan",3
+"Adriana","Dromio Of Ephesus",4
+"Adriana","Dromio Of Syracuse",6
+"Adriana","Duke Solinus",1
+"Adriana","Luce",1
+"Adriana","Luciana",6
+"Adriana","Of Ephesus",3
+"Adriana","Of Syracuse",4
+"Adriana","Officer",1
+"Adriana","Pinch",1
+"Adriana","Second Merchant",1
+"Adriana","Servant",1
+"Aegeon","Aemelia",1
+"Aegeon","Angelo",1
+"Aegeon","Antipholus",1
+"Aegeon","Courtezan",1
+"Aegeon","Dromio Of Ephesus",1
+"Aegeon","Dromio Of Syracuse",1
+"Aegeon","Duke Solinus",2
+"Aegeon","Luciana",1
+"Aegeon","Of Ephesus",1
+"Aegeon","Of Syracuse",1
+"Aegeon","Second Merchant",1
+"Aegeon","Servant",1
+"Aegeon","Gaoler",1
+"Aemelia","Angelo",1
+"Aemelia","Antipholus",1
+"Aemelia","Courtezan",1
+"Aemelia","Dromio Of Ephesus",1
+"Aemelia","Dromio Of Syracuse",1
+"Aemelia","Duke Solinus",1
+"Aemelia","Luciana",1
+"Aemelia","Of Ephesus",1
+"Aemelia","Of Syracuse",1
+"Aemelia","Second Merchant",1
+"Aemelia","Servant",1
+"Angelo","Antipholus",3
+"Angelo","Balthazar",1
+"Angelo","Courtezan",1
+"Angelo","Dromio Of Ephesus",3
+"Angelo","Dromio Of Syracuse",4
+"Angelo","Duke Solinus",1
+"Angelo","Luce",1
+"Angelo","Luciana",3
+"Angelo","Of Ephesus",3
+"Angelo","Of Syracuse",2
+"Angelo","Officer",1
+"Angelo","Second Merchant",2
+"Angelo","Servant",1
+"Antipholus","Balthazar",1
+"Antipholus","Courtezan",2
+"Antipholus","Dromio Of Ephesus",3
+"Antipholus","Dromio Of Syracuse",4
+"Antipholus","Duke Solinus",1
+"Antipholus","Luce",1
+"Antipholus","Luciana",4
+"Antipholus","Of Ephesus",3
+"Antipholus","Of Syracuse",3
+"Antipholus","Officer",1
+"Antipholus","Pinch",1
+"Antipholus","Second Merchant",1
+"Antipholus","Servant",1
+"Balthazar","Dromio Of Ephesus",1
+"Balthazar","Dromio Of Syracuse",1
+"Balthazar","Luce",1
+"Balthazar","Luciana",1
+"Balthazar","Of Ephesus",1
+"Courtezan","Dromio Of Ephesus",2
+"Courtezan","Dromio Of Syracuse",3
+"Courtezan","Duke Solinus",1
+"Courtezan","Luciana",2
+"Courtezan","Of Ephesus",2
+"Courtezan","Of Syracuse",3
+"Courtezan","Officer",1
+"Courtezan","Pinch",1
+"Courtezan","Second Merchant",1
+"Courtezan","Servant",1
+"Dromio Of Ephesus","Dromio Of Syracuse",5
+"Dromio Of Ephesus","Duke Solinus",1
+"Dromio Of Ephesus","First Merchant",1
+"Dromio Of Ephesus","Luce",1
+"Dromio Of Ephesus","Luciana",4
+"Dromio Of Ephesus","Of Ephesus",4
+"Dromio Of Ephesus","Of Syracuse",3
+"Dromio Of Ephesus","Officer",2
+"Dromio Of Ephesus","Pinch",1
+"Dromio Of Ephesus","Second Merchant",2
+"Dromio Of Ephesus","Servant",1
+"Dromio Of Syracuse","Duke Solinus",1
+"Dromio Of Syracuse","First Merchant",1
+"Dromio Of Syracuse","Luce",1
+"Dromio Of Syracuse","Luciana",6
+"Dromio Of Syracuse","Of Ephesus",4
+"Dromio Of Syracuse","Of Syracuse",6
+"Dromio Of Syracuse","Officer",2
+"Dromio Of Syracuse","Pinch",1
+"Dromio Of Syracuse","Second Merchant",2
+"Dromio Of Syracuse","Servant",1
+"Duke Solinus","Luciana",1
+"Duke Solinus","Of Ephesus",1
+"Duke Solinus","Of Syracuse",1
+"Duke Solinus","Second Merchant",1
+"Duke Solinus","Servant",1
+"Duke Solinus","Gaoler",1
+"First Merchant","Of Syracuse",1
+"Luce","Luciana",1
+"Luce","Of Ephesus",1
+"Luciana","Of Ephesus",3
+"Luciana","Of Syracuse",4
+"Luciana","Officer",1
+"Luciana","Pinch",1
+"Luciana","Second Merchant",1
+"Luciana","Servant",1
+"Of Ephesus","Of Syracuse",2
+"Of Ephesus","Officer",2
+"Of Ephesus","Pinch",1
+"Of Ephesus","Second Merchant",2
+"Of Ephesus","Servant",1
+"Of Syracuse","Officer",1
+"Of Syracuse","Pinch",1
+"Of Syracuse","Second Merchant",1
+"Of Syracuse","Servant",1
+"Officer","Pinch",1
+"Officer","Second Merchant",1
+"Second Merchant","Servant",1

@@ -1,0 +1,180 @@
+"from","to","weight"
+"Aaron","Aemilius",2
+"Aaron","All",1
+"Aaron","All The Goths",1
+"Aaron","Bassianus",1
+"Aaron","Chiron",3
+"Aaron","Demetrius",3
+"Aaron","First Goth",2
+"Aaron","Lavinia",1
+"Aaron","Lucius",3
+"Aaron","Marcus Andronicus",2
+"Aaron","Martius",1
+"Aaron","Quintus",1
+"Aaron","Saturninus",2
+"Aaron","Second Goth",1
+"Aaron","Tamora",2
+"Aaron","Third Goth",1
+"Aaron","Titus Andronicus",3
+"Aaron","Young Lucius",2
+"Aaron","Messenger",1
+"Aaron","Nurse",1
+"Aemilius","All",1
+"Aemilius","All The Goths",1
+"Aemilius","Clown",1
+"Aemilius","First Goth",2
+"Aemilius","Lucius",2
+"Aemilius","Marcus Andronicus",1
+"Aemilius","Saturninus",2
+"Aemilius","Second Goth",1
+"Aemilius","Tamora",2
+"Aemilius","Third Goth",1
+"Aemilius","Titus Andronicus",1
+"Aemilius","Young Lucius",1
+"All","Bassianus",1
+"All","Captain",1
+"All","Chiron",1
+"All","Demetrius",1
+"All","First Goth",1
+"All","Lavinia",1
+"All","Lucius",2
+"All","Marcus Andronicus",2
+"All","Martius",1
+"All","Mutius",1
+"All","Quintus",1
+"All","Saturninus",2
+"All","Tamora",2
+"All","Titus Andronicus",2
+"All","Tribunes",1
+"All","Young Lucius",1
+"All The Goths","First Goth",1
+"All The Goths","Lucius",1
+"All The Goths","Second Goth",1
+"All The Goths","Third Goth",1
+"Bassianus","Captain",1
+"Bassianus","Chiron",2
+"Bassianus","Demetrius",3
+"Bassianus","Lavinia",3
+"Bassianus","Lucius",1
+"Bassianus","Marcus Andronicus",2
+"Bassianus","Martius",2
+"Bassianus","Mutius",1
+"Bassianus","Quintus",2
+"Bassianus","Saturninus",3
+"Bassianus","Tamora",2
+"Bassianus","Titus Andronicus",3
+"Bassianus","Tribunes",1
+"Captain","Chiron",1
+"Captain","Demetrius",1
+"Captain","Lavinia",1
+"Captain","Lucius",1
+"Captain","Marcus Andronicus",1
+"Captain","Martius",1
+"Captain","Mutius",1
+"Captain","Quintus",1
+"Captain","Saturninus",1
+"Captain","Tamora",1
+"Captain","Titus Andronicus",1
+"Captain","Tribunes",1
+"Chiron","Demetrius",6
+"Chiron","Lavinia",2
+"Chiron","Lucius",1
+"Chiron","Marcus Andronicus",2
+"Chiron","Martius",2
+"Chiron","Mutius",1
+"Chiron","Publius",1
+"Chiron","Quintus",2
+"Chiron","Saturninus",2
+"Chiron","Tamora",3
+"Chiron","Titus Andronicus",3
+"Chiron","Tribunes",1
+"Chiron","Young Lucius",1
+"Chiron","Nurse",1
+"Chiron","Marcus",1
+"Clown","Marcus Andronicus",1
+"Clown","Publius",1
+"Clown","Saturninus",1
+"Clown","Tamora",1
+"Clown","Titus Andronicus",1
+"Demetrius","Lavinia",3
+"Demetrius","Lucius",1
+"Demetrius","Marcus Andronicus",3
+"Demetrius","Martius",2
+"Demetrius","Mutius",1
+"Demetrius","Publius",1
+"Demetrius","Quintus",2
+"Demetrius","Saturninus",3
+"Demetrius","Tamora",3
+"Demetrius","Titus Andronicus",4
+"Demetrius","Tribunes",1
+"Demetrius","Young Lucius",1
+"Demetrius","Nurse",1
+"Demetrius","Marcus",1
+"First Goth","Lucius",2
+"First Goth","Marcus Andronicus",1
+"First Goth","Saturninus",1
+"First Goth","Second Goth",1
+"First Goth","Tamora",1
+"First Goth","Third Goth",1
+"First Goth","Titus Andronicus",1
+"First Goth","Young Lucius",1
+"Lavinia","Lucius",1
+"Lavinia","Marcus Andronicus",2
+"Lavinia","Martius",2
+"Lavinia","Mutius",1
+"Lavinia","Quintus",2
+"Lavinia","Saturninus",3
+"Lavinia","Tamora",2
+"Lavinia","Titus Andronicus",3
+"Lavinia","Tribunes",1
+"Lucius","Marcus Andronicus",3
+"Lucius","Martius",1
+"Lucius","Mutius",1
+"Lucius","Quintus",1
+"Lucius","Saturninus",2
+"Lucius","Second Goth",1
+"Lucius","Tamora",2
+"Lucius","Third Goth",1
+"Lucius","Titus Andronicus",3
+"Lucius","Tribunes",1
+"Lucius","Young Lucius",1
+"Lucius","Messenger",1
+"Marcus Andronicus","Martius",1
+"Marcus Andronicus","Mutius",1
+"Marcus Andronicus","Publius",2
+"Marcus Andronicus","Quintus",1
+"Marcus Andronicus","Saturninus",3
+"Marcus Andronicus","Tamora",3
+"Marcus Andronicus","Titus Andronicus",8
+"Marcus Andronicus","Tribunes",1
+"Marcus Andronicus","Young Lucius",3
+"Marcus Andronicus","Messenger",1
+"Martius","Mutius",1
+"Martius","Quintus",2
+"Martius","Saturninus",2
+"Martius","Tamora",2
+"Martius","Titus Andronicus",2
+"Martius","Tribunes",1
+"Mutius","Quintus",1
+"Mutius","Saturninus",1
+"Mutius","Tamora",1
+"Mutius","Titus Andronicus",1
+"Mutius","Tribunes",1
+"Publius","Tamora",1
+"Publius","Titus Andronicus",2
+"Quintus","Saturninus",2
+"Quintus","Tamora",2
+"Quintus","Titus Andronicus",2
+"Quintus","Tribunes",1
+"Saturninus","Tamora",4
+"Saturninus","Titus Andronicus",4
+"Saturninus","Tribunes",1
+"Saturninus","Young Lucius",1
+"Second Goth","Third Goth",1
+"Tamora","Titus Andronicus",4
+"Tamora","Tribunes",1
+"Tamora","Young Lucius",1
+"Titus Andronicus","Tribunes",1
+"Titus Andronicus","Young Lucius",3
+"Titus Andronicus","Messenger",1
+"Young Lucius","Nurse",1

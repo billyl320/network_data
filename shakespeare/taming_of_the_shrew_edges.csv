@@ -1,0 +1,227 @@
+"from","to","weight"
+"All","First Servant",1
+"All","Lord",1
+"All","Page",1
+"All","Second Servant",1
+"All","Sly",1
+"All","Third Servant",1
+"All","Messenger",1
+"Baptista","Bianca",5
+"Baptista","Biondello",5
+"Baptista","First Servant",1
+"Baptista","Gremio",5
+"Baptista","Grumio",1
+"Baptista","Hortensia",1
+"Baptista","Hortensio",3
+"Baptista","Katarina",1
+"Baptista","Katharina",5
+"Baptista","Lucentio",5
+"Baptista","Page",1
+"Baptista","Pedant",2
+"Baptista","Petruchio",4
+"Baptista","Sly",1
+"Baptista","Tranio",6
+"Baptista","Vincentio",2
+"Baptista","Widow",1
+"Bianca","Biondello",5
+"Bianca","First Servant",1
+"Bianca","Gremio",5
+"Bianca","Grumio",1
+"Bianca","Hortensia",1
+"Bianca","Hortensio",5
+"Bianca","Katarina",1
+"Bianca","Katharina",5
+"Bianca","Lucentio",6
+"Bianca","Page",1
+"Bianca","Pedant",2
+"Bianca","Petruchio",4
+"Bianca","Servant",1
+"Bianca","Sly",1
+"Bianca","Tranio",6
+"Bianca","Vincentio",2
+"Bianca","Widow",1
+"Biondello","First Servant",1
+"Biondello","Gremio",5
+"Biondello","Grumio",2
+"Biondello","Hortensia",1
+"Biondello","Hortensio",4
+"Biondello","Katarina",1
+"Biondello","Katharina",4
+"Biondello","Lucentio",7
+"Biondello","Page",1
+"Biondello","Pedant",3
+"Biondello","Petruchio",4
+"Biondello","Sly",1
+"Biondello","Tranio",7
+"Biondello","Vincentio",2
+"Biondello","Widow",1
+"Curtis","First Servant",1
+"Curtis","Grumio",1
+"Curtis","Joseph",1
+"Curtis","Katharina",1
+"Curtis","Nathaniel",1
+"Curtis","Nicholas",1
+"Curtis","Petruchio",1
+"Curtis","Philip",1
+"Curtis","Peter",1
+"First Huntsman","Hostess",1
+"First Huntsman","Lord",1
+"First Huntsman","Players",1
+"First Huntsman","Second Huntsman",1
+"First Huntsman","Servant",1
+"First Huntsman","Sly",1
+"First Huntsman","A Player",1
+"First Servant","Gremio",1
+"First Servant","Grumio",1
+"First Servant","Hortensia",1
+"First Servant","Hortensio",1
+"First Servant","Joseph",1
+"First Servant","Katharina",2
+"First Servant","Lord",1
+"First Servant","Lucentio",1
+"First Servant","Nathaniel",1
+"First Servant","Nicholas",1
+"First Servant","Page",2
+"First Servant","Petruchio",1
+"First Servant","Philip",1
+"First Servant","Second Servant",1
+"First Servant","Sly",2
+"First Servant","Third Servant",1
+"First Servant","Tranio",1
+"First Servant","Messenger",1
+"First Servant","Peter",1
+"Gremio","Grumio",2
+"Gremio","Hortensia",1
+"Gremio","Hortensio",4
+"Gremio","Katarina",1
+"Gremio","Katharina",5
+"Gremio","Lucentio",5
+"Gremio","Page",1
+"Gremio","Pedant",1
+"Gremio","Petruchio",5
+"Gremio","Sly",1
+"Gremio","Tranio",6
+"Gremio","Vincentio",2
+"Gremio","Widow",1
+"Grumio","Haberdasher",1
+"Grumio","Hortensio",2
+"Grumio","Joseph",1
+"Grumio","Katarina",1
+"Grumio","Katharina",3
+"Grumio","Lucentio",2
+"Grumio","Nathaniel",1
+"Grumio","Nicholas",1
+"Grumio","Petruchio",4
+"Grumio","Philip",1
+"Grumio","Tranio",2
+"Grumio","Peter",1
+"Grumio","Tailor",1
+"Haberdasher","Hortensio",1
+"Haberdasher","Katharina",1
+"Haberdasher","Petruchio",1
+"Haberdasher","Tailor",1
+"Hortensia","Hortensio",1
+"Hortensia","Katharina",1
+"Hortensia","Lucentio",1
+"Hortensia","Page",1
+"Hortensia","Sly",1
+"Hortensia","Tranio",1
+"Hortensio","Katharina",5
+"Hortensio","Lucentio",5
+"Hortensio","Page",1
+"Hortensio","Pedant",1
+"Hortensio","Petruchio",5
+"Hortensio","Servant",1
+"Hortensio","Sly",1
+"Hortensio","Tranio",5
+"Hortensio","Vincentio",2
+"Hortensio","Widow",1
+"Hortensio","Tailor",1
+"Hostess","Lord",1
+"Hostess","Players",1
+"Hostess","Second Huntsman",1
+"Hostess","Servant",1
+"Hostess","Sly",1
+"Hostess","A Player",1
+"Joseph","Katharina",1
+"Joseph","Nathaniel",1
+"Joseph","Nicholas",1
+"Joseph","Petruchio",1
+"Joseph","Philip",1
+"Joseph","Peter",1
+"Katarina","Katharina",1
+"Katarina","Lucentio",1
+"Katarina","Petruchio",1
+"Katarina","Tranio",1
+"Katharina","Lucentio",4
+"Katharina","Nathaniel",1
+"Katharina","Nicholas",1
+"Katharina","Page",1
+"Katharina","Pedant",1
+"Katharina","Petruchio",7
+"Katharina","Philip",1
+"Katharina","Sly",1
+"Katharina","Tranio",5
+"Katharina","Vincentio",3
+"Katharina","Widow",1
+"Katharina","Peter",1
+"Katharina","Tailor",1
+"Lord","Page",1
+"Lord","Players",1
+"Lord","Second Huntsman",1
+"Lord","Second Servant",1
+"Lord","Servant",1
+"Lord","Sly",2
+"Lord","Third Servant",1
+"Lord","Messenger",1
+"Lord","A Player",1
+"Lucentio","Page",1
+"Lucentio","Pedant",3
+"Lucentio","Petruchio",4
+"Lucentio","Servant",1
+"Lucentio","Sly",1
+"Lucentio","Tranio",7
+"Lucentio","Vincentio",2
+"Lucentio","Widow",1
+"Nathaniel","Nicholas",1
+"Nathaniel","Petruchio",1
+"Nathaniel","Philip",1
+"Nathaniel","Peter",1
+"Nicholas","Petruchio",1
+"Nicholas","Philip",1
+"Nicholas","Peter",1
+"Page","Second Servant",1
+"Page","Sly",2
+"Page","Third Servant",1
+"Page","Tranio",1
+"Page","Messenger",1
+"Pedant","Petruchio",1
+"Pedant","Tranio",3
+"Pedant","Vincentio",1
+"Petruchio","Philip",1
+"Petruchio","Tranio",5
+"Petruchio","Vincentio",3
+"Petruchio","Widow",1
+"Petruchio","Peter",1
+"Petruchio","Tailor",1
+"Philip","Peter",1
+"Players","Second Huntsman",1
+"Players","Servant",1
+"Players","Sly",1
+"Players","A Player",1
+"Second Huntsman","Servant",1
+"Second Huntsman","Sly",1
+"Second Huntsman","A Player",1
+"Second Servant","Sly",1
+"Second Servant","Third Servant",1
+"Second Servant","Messenger",1
+"Servant","Sly",1
+"Servant","A Player",1
+"Sly","Third Servant",1
+"Sly","Tranio",1
+"Sly","Messenger",1
+"Sly","A Player",1
+"Third Servant","Messenger",1
+"Tranio","Vincentio",2
+"Tranio","Widow",1
+"Vincentio","Widow",1

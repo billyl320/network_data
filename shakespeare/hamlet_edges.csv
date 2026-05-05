@@ -1,0 +1,208 @@
+"from","to","weight"
+"All","Bernardo",1
+"All","First Clown",1
+"All","First Player",1
+"All","First Priest",1
+"All","Guildenstern",1
+"All","Hamlet",4
+"All","Horatio",4
+"All","King Claudius",4
+"All","Laertes",3
+"All","Lord",1
+"All","Lord Polonius",2
+"All","Lucianus",1
+"All","Marcellus",1
+"All","Ophelia",1
+"All","Osric",1
+"All","Player King",1
+"All","Player Queen",1
+"All","Prince Fortinbras",1
+"All","Prologue",1
+"All","Queen Gertrude",4
+"All","Rosencrantz",1
+"All","Second Clown",1
+"All","Voltimand",1
+"All","First Ambassador",1
+"Bernardo","Francisco",1
+"Bernardo","Hamlet",1
+"Bernardo","Horatio",2
+"Bernardo","King Claudius",1
+"Bernardo","Laertes",1
+"Bernardo","Lord Polonius",1
+"Bernardo","Marcellus",2
+"Bernardo","Queen Gertrude",1
+"Bernardo","Voltimand",1
+"Captain","Hamlet",1
+"Captain","Prince Fortinbras",1
+"Captain","Rosencrantz",1
+"First Clown","First Priest",1
+"First Clown","Hamlet",1
+"First Clown","Horatio",1
+"First Clown","King Claudius",1
+"First Clown","Laertes",1
+"First Clown","Queen Gertrude",1
+"First Clown","Second Clown",1
+"First Player","Guildenstern",2
+"First Player","Hamlet",2
+"First Player","Horatio",1
+"First Player","King Claudius",2
+"First Player","Lord Polonius",2
+"First Player","Lucianus",1
+"First Player","Ophelia",1
+"First Player","Player King",1
+"First Player","Player Queen",1
+"First Player","Prologue",1
+"First Player","Queen Gertrude",2
+"First Player","Rosencrantz",2
+"First Player","Voltimand",1
+"First Priest","Hamlet",1
+"First Priest","Horatio",1
+"First Priest","King Claudius",1
+"First Priest","Laertes",1
+"First Priest","Queen Gertrude",1
+"First Priest","Second Clown",1
+"Francisco","Horatio",1
+"Francisco","Marcellus",1
+"Gentleman","Horatio",1
+"Gentleman","King Claudius",1
+"Gentleman","Laertes",1
+"Gentleman","Ophelia",1
+"Gentleman","Queen Gertrude",1
+"Gentleman","Danes",1
+"Ghost","Hamlet",2
+"Ghost","Horatio",1
+"Ghost","Lord Polonius",1
+"Ghost","Marcellus",1
+"Ghost","Queen Gertrude",1
+"Guildenstern","Hamlet",5
+"Guildenstern","Horatio",1
+"Guildenstern","King Claudius",4
+"Guildenstern","Lord Polonius",4
+"Guildenstern","Lucianus",1
+"Guildenstern","Ophelia",2
+"Guildenstern","Player King",1
+"Guildenstern","Player Queen",1
+"Guildenstern","Prologue",1
+"Guildenstern","Queen Gertrude",3
+"Guildenstern","Rosencrantz",5
+"Guildenstern","Voltimand",1
+"Hamlet","Horatio",6
+"Hamlet","King Claudius",8
+"Hamlet","Laertes",3
+"Hamlet","Lord",1
+"Hamlet","Lord Polonius",6
+"Hamlet","Lucianus",1
+"Hamlet","Marcellus",3
+"Hamlet","Ophelia",2
+"Hamlet","Osric",1
+"Hamlet","Player King",1
+"Hamlet","Player Queen",1
+"Hamlet","Prince Fortinbras",2
+"Hamlet","Prologue",1
+"Hamlet","Queen Gertrude",7
+"Hamlet","Rosencrantz",7
+"Hamlet","Second Clown",1
+"Hamlet","Voltimand",2
+"Hamlet","First Ambassador",1
+"Horatio","King Claudius",5
+"Horatio","Laertes",4
+"Horatio","Lord",1
+"Horatio","Lord Polonius",2
+"Horatio","Lucianus",1
+"Horatio","Marcellus",4
+"Horatio","Ophelia",2
+"Horatio","Osric",1
+"Horatio","Player King",1
+"Horatio","Player Queen",1
+"Horatio","Prince Fortinbras",1
+"Horatio","Prologue",1
+"Horatio","Queen Gertrude",5
+"Horatio","Rosencrantz",1
+"Horatio","Second Clown",1
+"Horatio","Servant",1
+"Horatio","Voltimand",1
+"Horatio","First Ambassador",1
+"Horatio","Danes",1
+"Horatio","First Sailor",1
+"King Claudius","Laertes",5
+"King Claudius","Lord",1
+"King Claudius","Lord Polonius",5
+"King Claudius","Lucianus",1
+"King Claudius","Marcellus",1
+"King Claudius","Messenger",1
+"King Claudius","Ophelia",3
+"King Claudius","Osric",1
+"King Claudius","Player King",1
+"King Claudius","Player Queen",1
+"King Claudius","Prince Fortinbras",1
+"King Claudius","Prologue",1
+"King Claudius","Queen Gertrude",9
+"King Claudius","Rosencrantz",5
+"King Claudius","Second Clown",1
+"King Claudius","Voltimand",2
+"King Claudius","First Ambassador",1
+"King Claudius","Danes",1
+"Laertes","Lord",1
+"Laertes","Lord Polonius",2
+"Laertes","Marcellus",1
+"Laertes","Messenger",1
+"Laertes","Ophelia",2
+"Laertes","Osric",1
+"Laertes","Prince Fortinbras",1
+"Laertes","Queen Gertrude",5
+"Laertes","Second Clown",1
+"Laertes","Voltimand",1
+"Laertes","First Ambassador",1
+"Laertes","Danes",1
+"Lord","Osric",1
+"Lord","Prince Fortinbras",1
+"Lord","Queen Gertrude",1
+"Lord","First Ambassador",1
+"Lord Polonius","Lucianus",1
+"Lord Polonius","Marcellus",1
+"Lord Polonius","Ophelia",4
+"Lord Polonius","Player King",1
+"Lord Polonius","Player Queen",1
+"Lord Polonius","Prologue",1
+"Lord Polonius","Queen Gertrude",5
+"Lord Polonius","Reynaldo",1
+"Lord Polonius","Rosencrantz",4
+"Lord Polonius","Voltimand",2
+"Lucianus","Ophelia",1
+"Lucianus","Player King",1
+"Lucianus","Player Queen",1
+"Lucianus","Prologue",1
+"Lucianus","Queen Gertrude",1
+"Lucianus","Rosencrantz",1
+"Marcellus","Queen Gertrude",1
+"Marcellus","Voltimand",1
+"Messenger","Queen Gertrude",1
+"Ophelia","Player King",1
+"Ophelia","Player Queen",1
+"Ophelia","Prologue",1
+"Ophelia","Queen Gertrude",3
+"Ophelia","Reynaldo",1
+"Ophelia","Rosencrantz",2
+"Ophelia","Danes",1
+"Osric","Prince Fortinbras",1
+"Osric","Queen Gertrude",1
+"Osric","First Ambassador",1
+"Player King","Player Queen",1
+"Player King","Prologue",1
+"Player King","Queen Gertrude",1
+"Player King","Rosencrantz",1
+"Player Queen","Prologue",1
+"Player Queen","Queen Gertrude",1
+"Player Queen","Rosencrantz",1
+"Prince Fortinbras","Queen Gertrude",1
+"Prince Fortinbras","Rosencrantz",1
+"Prince Fortinbras","First Ambassador",1
+"Prologue","Queen Gertrude",1
+"Prologue","Rosencrantz",1
+"Queen Gertrude","Rosencrantz",3
+"Queen Gertrude","Second Clown",1
+"Queen Gertrude","Voltimand",2
+"Queen Gertrude","First Ambassador",1
+"Queen Gertrude","Danes",1
+"Rosencrantz","Voltimand",1
+"Servant","First Sailor",1

@@ -1,0 +1,213 @@
+"from","to","weight"
+"Abergavenny","Brandon",1
+"Abergavenny","Buckingham",1
+"Abergavenny","Cardinal Wolsey",1
+"Abergavenny","First Secretary",1
+"Abergavenny","Norfolk",1
+"Abergavenny","Sergeant",1
+"All","Chamberlain",1
+"All","Chancellor",1
+"All","Cranmer",1
+"All","Cromwell",1
+"All","Gardiner",1
+"All","Keeper",1
+"All","King Henry Viii",1
+"All","Norfolk",1
+"All","Suffolk",1
+"All","Surrey",1
+"Anne","Cardinal Wolsey",1
+"Anne","Chamberlain",2
+"Anne","Guildford",1
+"Anne","King Henry Viii",1
+"Anne","Lovell",1
+"Anne","Old Lady",1
+"Anne","Sands",1
+"Anne","Servant",1
+"Boy","Cranmer",1
+"Boy","Denny",1
+"Boy","Gardiner",1
+"Boy","Gentleman",1
+"Boy","King Henry Viii",1
+"Boy","Lovell",1
+"Boy","Old Lady",1
+"Boy","Suffolk",1
+"Brandon","Buckingham",1
+"Brandon","Cardinal Wolsey",1
+"Brandon","First Secretary",1
+"Brandon","Norfolk",1
+"Brandon","Sergeant",1
+"Buckingham","Cardinal Wolsey",1
+"Buckingham","First Gentleman",1
+"Buckingham","First Secretary",1
+"Buckingham","Lovell",1
+"Buckingham","Norfolk",1
+"Buckingham","Second Gentleman",1
+"Buckingham","Sergeant",1
+"Buckingham","Vaux",1
+"Cardinal Campeius","Cardinal Wolsey",3
+"Cardinal Campeius","Chamberlain",1
+"Cardinal Campeius","Crier",1
+"Cardinal Campeius","Gardiner",1
+"Cardinal Campeius","Gentleman",1
+"Cardinal Campeius","Griffith",1
+"Cardinal Campeius","King Henry Viii",2
+"Cardinal Campeius","Norfolk",1
+"Cardinal Campeius","Queen Katharine",2
+"Cardinal Campeius","Scribe",1
+"Cardinal Campeius","Suffolk",1
+"Cardinal Campeius","Lincoln",1
+"Cardinal Wolsey","Chamberlain",3
+"Cardinal Wolsey","Crier",1
+"Cardinal Wolsey","Cromwell",1
+"Cardinal Wolsey","First Secretary",1
+"Cardinal Wolsey","Gardiner",1
+"Cardinal Wolsey","Gentleman",1
+"Cardinal Wolsey","Griffith",1
+"Cardinal Wolsey","Guildford",1
+"Cardinal Wolsey","King Henry Viii",5
+"Cardinal Wolsey","Lovell",1
+"Cardinal Wolsey","Norfolk",4
+"Cardinal Wolsey","Queen Katharine",3
+"Cardinal Wolsey","Sands",1
+"Cardinal Wolsey","Scribe",1
+"Cardinal Wolsey","Servant",1
+"Cardinal Wolsey","Suffolk",2
+"Cardinal Wolsey","Surrey",1
+"Cardinal Wolsey","Sergeant",1
+"Cardinal Wolsey","Lincoln",1
+"Cardinal Wolsey","Surveyor",1
+"Chamberlain","Chancellor",1
+"Chamberlain","Cranmer",1
+"Chamberlain","Cromwell",2
+"Chamberlain","Gardiner",2
+"Chamberlain","Guildford",1
+"Chamberlain","Keeper",1
+"Chamberlain","King Henry Viii",4
+"Chamberlain","Lovell",2
+"Chamberlain","Man",1
+"Chamberlain","Norfolk",3
+"Chamberlain","Old Lady",1
+"Chamberlain","Porter",1
+"Chamberlain","Sands",2
+"Chamberlain","Servant",1
+"Chamberlain","Suffolk",3
+"Chamberlain","Surrey",2
+"Chancellor","Cranmer",1
+"Chancellor","Cromwell",1
+"Chancellor","Gardiner",1
+"Chancellor","Keeper",1
+"Chancellor","King Henry Viii",1
+"Chancellor","Norfolk",1
+"Chancellor","Suffolk",1
+"Chancellor","Surrey",1
+"Cranmer","Cromwell",1
+"Cranmer","Denny",1
+"Cranmer","Doctor Butts",1
+"Cranmer","Gardiner",2
+"Cranmer","Garter",1
+"Cranmer","Gentleman",1
+"Cranmer","Keeper",2
+"Cranmer","King Henry Viii",4
+"Cranmer","Lovell",1
+"Cranmer","Norfolk",1
+"Cranmer","Old Lady",2
+"Cranmer","Suffolk",2
+"Cranmer","Surrey",1
+"Crier","Griffith",1
+"Crier","King Henry Viii",1
+"Crier","Queen Katharine",1
+"Crier","Scribe",1
+"Crier","Lincoln",1
+"Cromwell","Gardiner",1
+"Cromwell","Keeper",1
+"Cromwell","King Henry Viii",2
+"Cromwell","Norfolk",2
+"Cromwell","Suffolk",2
+"Cromwell","Surrey",2
+"Denny","Gardiner",1
+"Denny","Gentleman",1
+"Denny","King Henry Viii",1
+"Denny","Lovell",1
+"Denny","Old Lady",1
+"Denny","Suffolk",1
+"Doctor Butts","Keeper",1
+"Doctor Butts","King Henry Viii",1
+"Doctor Butts","Old Lady",1
+"First Gentleman","Lovell",1
+"First Gentleman","Second Gentleman",2
+"First Gentleman","Third Gentleman",1
+"First Gentleman","Vaux",1
+"First Gentleman","Both",1
+"First Secretary","Norfolk",1
+"First Secretary","Sergeant",1
+"Gardiner","Gentleman",1
+"Gardiner","Keeper",1
+"Gardiner","King Henry Viii",3
+"Gardiner","Lovell",1
+"Gardiner","Norfolk",2
+"Gardiner","Old Lady",1
+"Gardiner","Suffolk",3
+"Gardiner","Surrey",1
+"Garter","King Henry Viii",1
+"Gentleman","King Henry Viii",1
+"Gentleman","Lovell",1
+"Gentleman","Old Lady",1
+"Gentleman","Queen Katharine",1
+"Gentleman","Suffolk",1
+"Griffith","Katharine",1
+"Griffith","King Henry Viii",1
+"Griffith","Messenger",1
+"Griffith","Patience",1
+"Griffith","Queen Katharine",1
+"Griffith","Scribe",1
+"Griffith","Lincoln",1
+"Griffith","Capucius",1
+"Guildford","King Henry Viii",1
+"Guildford","Lovell",1
+"Guildford","Sands",1
+"Guildford","Servant",1
+"Katharine","Messenger",1
+"Katharine","Patience",1
+"Katharine","Capucius",1
+"Keeper","King Henry Viii",2
+"Keeper","Norfolk",1
+"Keeper","Old Lady",1
+"Keeper","Suffolk",1
+"Keeper","Surrey",1
+"King Henry Viii","Lovell",2
+"King Henry Viii","Norfolk",4
+"King Henry Viii","Old Lady",2
+"King Henry Viii","Queen Katharine",2
+"King Henry Viii","Sands",1
+"King Henry Viii","Scribe",1
+"King Henry Viii","Servant",1
+"King Henry Viii","Suffolk",4
+"King Henry Viii","Surrey",2
+"King Henry Viii","Lincoln",1
+"King Henry Viii","Surveyor",1
+"Lovell","Old Lady",1
+"Lovell","Sands",2
+"Lovell","Second Gentleman",1
+"Lovell","Servant",1
+"Lovell","Suffolk",1
+"Lovell","Vaux",1
+"Man","Porter",1
+"Messenger","Patience",1
+"Messenger","Capucius",1
+"Norfolk","Queen Katharine",1
+"Norfolk","Suffolk",3
+"Norfolk","Surrey",2
+"Norfolk","Sergeant",1
+"Norfolk","Surveyor",1
+"Old Lady","Suffolk",1
+"Patience","Capucius",1
+"Queen Katharine","Scribe",1
+"Queen Katharine","Lincoln",1
+"Queen Katharine","Surveyor",1
+"Sands","Servant",1
+"Scribe","Lincoln",1
+"Second Gentleman","Third Gentleman",1
+"Second Gentleman","Vaux",1
+"Second Gentleman","Both",1
+"Suffolk","Surrey",2
+"Third Gentleman","Both",1

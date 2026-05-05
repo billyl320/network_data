@@ -1,0 +1,113 @@
+"from","to","weight"
+"All","Bertram",1
+"All","First Lord",1
+"All","First Soldier",1
+"All","Helena",1
+"All","King",1
+"All","Lafeu",1
+"All","Parolles",2
+"All","Second Lord",2
+"All","Fourth Lord",1
+"All","Second Soldier",1
+"Bertram","Both",1
+"Bertram","Countess",2
+"Bertram","Diana",2
+"Bertram","Duke",1
+"Bertram","First Lord",5
+"Bertram","First Soldier",1
+"Bertram","Gentleman",1
+"Bertram","Helena",5
+"Bertram","King",4
+"Bertram","Lafeu",5
+"Bertram","Parolles",7
+"Bertram","Second Lord",5
+"Bertram","Servant",1
+"Bertram","Widow",1
+"Bertram","Fourth Lord",1
+"Bertram","Page",1
+"Both","Diana",1
+"Both","First Lord",1
+"Both","Helena",2
+"Both","King",1
+"Both","Lafeu",1
+"Both","Mariana",1
+"Both","Parolles",2
+"Both","Second Lord",1
+"Both","Widow",1
+"Clown","Countess",4
+"Clown","First Gentleman",1
+"Clown","Helena",3
+"Clown","Lafeu",2
+"Clown","Parolles",2
+"Clown","Steward",1
+"Clown","Second Gentleman",1
+"Countess","Diana",1
+"Countess","First Gentleman",1
+"Countess","Gentleman",1
+"Countess","Helena",4
+"Countess","King",1
+"Countess","Lafeu",3
+"Countess","Parolles",2
+"Countess","Steward",2
+"Countess","Widow",1
+"Countess","Page",1
+"Countess","Second Gentleman",1
+"Diana","Gentleman",1
+"Diana","Helena",3
+"Diana","King",1
+"Diana","Lafeu",1
+"Diana","Mariana",1
+"Diana","Parolles",2
+"Diana","Widow",3
+"Duke","First Lord",1
+"Duke","Second Lord",1
+"First Gentleman","Helena",1
+"First Gentleman","Second Gentleman",1
+"First Lord","First Soldier",1
+"First Lord","Helena",2
+"First Lord","King",3
+"First Lord","Lafeu",2
+"First Lord","Parolles",4
+"First Lord","Second Lord",6
+"First Lord","Servant",1
+"First Lord","Fourth Lord",1
+"First Soldier","Parolles",2
+"First Soldier","Second Lord",2
+"First Soldier","Servant",1
+"First Soldier","Second Soldier",1
+"Gentleman","Helena",2
+"Gentleman","King",1
+"Gentleman","Lafeu",1
+"Gentleman","Parolles",1
+"Gentleman","Widow",2
+"Helena","King",3
+"Helena","Lafeu",5
+"Helena","Mariana",1
+"Helena","Parolles",7
+"Helena","Second Lord",2
+"Helena","Steward",1
+"Helena","Widow",5
+"Helena","Fourth Lord",1
+"Helena","Page",1
+"Helena","Second Gentleman",1
+"King","Lafeu",3
+"King","Parolles",3
+"King","Second Lord",3
+"King","Widow",1
+"King","Fourth Lord",1
+"Lafeu","Parolles",6
+"Lafeu","Second Lord",2
+"Lafeu","Widow",1
+"Lafeu","Fourth Lord",1
+"Lafeu","Page",1
+"Mariana","Parolles",1
+"Mariana","Widow",1
+"Parolles","Second Lord",5
+"Parolles","Servant",1
+"Parolles","Widow",2
+"Parolles","Fourth Lord",1
+"Parolles","Second Soldier",1
+"Parolles","Page",1
+"Second Lord","Servant",1
+"Second Lord","Fourth Lord",1
+"Second Lord","Second Soldier",1

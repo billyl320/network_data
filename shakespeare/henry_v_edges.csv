@@ -1,0 +1,229 @@
+"from","to","weight"
+"Alice","All",1
+"Alice","Burgundy",1
+"Alice","Exeter",1
+"Alice","French King",1
+"Alice","Katharine",2
+"Alice","King Henry V",1
+"Alice","King Of France",1
+"Alice","Prince Fortinbras",1
+"Alice","Queen Isabel",1
+"Alice","Westmoreland",1
+"Alice","Chorus",1
+"All","Burgundy",1
+"All","Exeter",1
+"All","French King",1
+"All","Katharine",1
+"All","King Henry V",1
+"All","King Of France",1
+"All","Prince Fortinbras",1
+"All","Queen Isabel",1
+"All","Westmoreland",1
+"All","Chorus",1
+"Bardolph","Boy",3
+"Bardolph","Fluellen",1
+"Bardolph","Gower",1
+"Bardolph","Hostess",2
+"Bardolph","Jamy",1
+"Bardolph","Nym",3
+"Bardolph","Pistol",3
+"Bardolph","Macmorris",1
+"Bates","Court",1
+"Bates","Erpingham",1
+"Bates","Fluellen",1
+"Bates","Gloucester",1
+"Bates","Gower",1
+"Bates","King Henry V",1
+"Bates","Pistol",1
+"Bates","Williams",1
+"Bedford","Cambridge",1
+"Bedford","Exeter",2
+"Bedford","Gloucester",1
+"Bedford","King Henry V",2
+"Bedford","Montjoy",1
+"Bedford","Salisbury",1
+"Bedford","Scroop",1
+"Bedford","Westmoreland",2
+"Bedford","Grey",1
+"Bedford","York",1
+"Boy","Fluellen",1
+"Boy","French Soldier",1
+"Boy","Gower",1
+"Boy","Hostess",2
+"Boy","Jamy",1
+"Boy","Nym",3
+"Boy","Pistol",4
+"Boy","Macmorris",1
+"Burgundy","Exeter",1
+"Burgundy","French King",1
+"Burgundy","Katharine",1
+"Burgundy","King Henry V",1
+"Burgundy","King Of France",1
+"Burgundy","Prince Fortinbras",1
+"Burgundy","Queen Isabel",1
+"Burgundy","Westmoreland",1
+"Burgundy","Chorus",1
+"Cambridge","Exeter",1
+"Cambridge","King Henry V",1
+"Cambridge","Scroop",1
+"Cambridge","Westmoreland",1
+"Cambridge","Grey",1
+"Canterbury","Ely",2
+"Canterbury","Exeter",1
+"Canterbury","King Henry V",1
+"Canterbury","Westmoreland",1
+"Canterbury","First Ambassador",1
+"Constable","Dauphin",5
+"Constable","Exeter",1
+"Constable","King Of France",2
+"Constable","Messenger",3
+"Constable","Orleans",3
+"Constable","Rambures",2
+"Constable","Bourbon",2
+"Constable","Grandpre",1
+"Court","Erpingham",1
+"Court","Fluellen",1
+"Court","Gloucester",1
+"Court","Gower",1
+"Court","King Henry V",1
+"Court","Pistol",1
+"Court","Williams",1
+"Dauphin","Exeter",1
+"Dauphin","King Of France",2
+"Dauphin","Messenger",3
+"Dauphin","Orleans",3
+"Dauphin","Rambures",2
+"Dauphin","Bourbon",2
+"Dauphin","Grandpre",1
+"Ely","Exeter",1
+"Ely","King Henry V",1
+"Ely","Westmoreland",1
+"Ely","First Ambassador",1
+"Erpingham","Fluellen",1
+"Erpingham","Gloucester",1
+"Erpingham","Gower",1
+"Erpingham","King Henry V",1
+"Erpingham","Pistol",1
+"Erpingham","Williams",1
+"Exeter","Fluellen",2
+"Exeter","French King",1
+"Exeter","Gloucester",2
+"Exeter","Gower",2
+"Exeter","Herald",1
+"Exeter","Katharine",1
+"Exeter","King Henry V",7
+"Exeter","King Of France",2
+"Exeter","Messenger",1
+"Exeter","Montjoy",2
+"Exeter","Prince Fortinbras",1
+"Exeter","Queen Isabel",1
+"Exeter","Salisbury",1
+"Exeter","Scroop",1
+"Exeter","Warwick",1
+"Exeter","Westmoreland",4
+"Exeter","Williams",2
+"Exeter","Chorus",1
+"Exeter","Grey",1
+"Exeter","York",1
+"Exeter","First Ambassador",1
+"Fluellen","Gloucester",3
+"Fluellen","Gower",6
+"Fluellen","Herald",1
+"Fluellen","Jamy",1
+"Fluellen","King Henry V",4
+"Fluellen","Montjoy",2
+"Fluellen","Nym",1
+"Fluellen","Pistol",4
+"Fluellen","Warwick",1
+"Fluellen","Williams",3
+"Fluellen","Macmorris",1
+"French King","Katharine",1
+"French King","King Henry V",1
+"French King","King Of France",1
+"French King","Prince Fortinbras",1
+"French King","Queen Isabel",1
+"French King","Westmoreland",1
+"French King","Chorus",1
+"French Soldier","Pistol",1
+"Gloucester","Gower",3
+"Gloucester","King Henry V",4
+"Gloucester","Montjoy",3
+"Gloucester","Pistol",2
+"Gloucester","Salisbury",1
+"Gloucester","Westmoreland",1
+"Gloucester","Williams",2
+"Gloucester","York",1
+"Gower","Herald",1
+"Gower","Jamy",1
+"Gower","King Henry V",4
+"Gower","Montjoy",2
+"Gower","Nym",1
+"Gower","Pistol",4
+"Gower","Warwick",1
+"Gower","Williams",3
+"Gower","Macmorris",1
+"Herald","King Henry V",1
+"Herald","Warwick",1
+"Herald","Williams",1
+"Hostess","Nym",2
+"Hostess","Pistol",2
+"Jamy","Nym",1
+"Jamy","Pistol",1
+"Jamy","Macmorris",1
+"Katharine","King Henry V",1
+"Katharine","King Of France",1
+"Katharine","Prince Fortinbras",1
+"Katharine","Queen Isabel",1
+"Katharine","Westmoreland",1
+"Katharine","Chorus",1
+"King Henry V","King Of France",1
+"King Henry V","Montjoy",3
+"King Henry V","Pistol",2
+"King Henry V","Prince Fortinbras",1
+"King Henry V","Queen Isabel",1
+"King Henry V","Salisbury",1
+"King Henry V","Scroop",1
+"King Henry V","Warwick",1
+"King Henry V","Westmoreland",4
+"King Henry V","Williams",3
+"King Henry V","Chorus",1
+"King Henry V","Grey",1
+"King Henry V","York",1
+"King Henry V","First Ambassador",1
+"King Henry V","Governor",1
+"King Of France","Messenger",1
+"King Of France","Prince Fortinbras",1
+"King Of France","Queen Isabel",1
+"King Of France","Westmoreland",1
+"King Of France","Chorus",1
+"King Of France","Bourbon",1
+"Messenger","Orleans",2
+"Messenger","Rambures",2
+"Messenger","Grandpre",1
+"Montjoy","Pistol",1
+"Montjoy","Salisbury",1
+"Montjoy","Westmoreland",1
+"Montjoy","Williams",1
+"Montjoy","York",1
+"Nym","Pistol",3
+"Nym","Macmorris",1
+"Orleans","Rambures",2
+"Orleans","Bourbon",1
+"Orleans","Grandpre",1
+"Pistol","Williams",1
+"Pistol","Macmorris",1
+"Prince Fortinbras","Queen Isabel",1
+"Prince Fortinbras","Westmoreland",1
+"Prince Fortinbras","Chorus",1
+"Queen Isabel","Westmoreland",1
+"Queen Isabel","Chorus",1
+"Rambures","Grandpre",1
+"Salisbury","Westmoreland",1
+"Salisbury","York",1
+"Scroop","Westmoreland",1
+"Scroop","Grey",1
+"Warwick","Williams",1
+"Westmoreland","Chorus",1
+"Westmoreland","Grey",1
+"Westmoreland","York",1
+"Westmoreland","First Ambassador",1

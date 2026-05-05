@@ -1,0 +1,153 @@
+"from","to","weight"
+"Archbishop Of York","Sir Michael",1
+"Bardolph","Falstaff",4
+"Bardolph","First Traveller",1
+"Bardolph","Francis",1
+"Bardolph","Gadshill",2
+"Bardolph","Hostess",2
+"Bardolph","King Henry Iv",1
+"Bardolph","Peto",2
+"Bardolph","Poins",2
+"Bardolph","Prince Henry",4
+"Bardolph","Sheriff",1
+"Bardolph","Sir Walter Blunt",1
+"Bardolph","Thieves",1
+"Bardolph","Vintner",1
+"Bardolph","Westmoreland",1
+"Bardolph","Carrier",1
+"Bardolph","Travellers",1
+"Earl Of Douglas","Earl Of Worcester",3
+"Earl Of Douglas","Falstaff",2
+"Earl Of Douglas","Hotspur",5
+"Earl Of Douglas","King Henry Iv",1
+"Earl Of Douglas","Lancaster",1
+"Earl Of Douglas","Messenger",2
+"Earl Of Douglas","Prince Henry",2
+"Earl Of Douglas","Sir Walter Blunt",2
+"Earl Of Douglas","Vernon",3
+"Earl Of Douglas","Westmoreland",1
+"Earl Of Douglas","Worcester",1
+"Earl Of Worcester","Falstaff",1
+"Earl Of Worcester","Glendower",1
+"Earl Of Worcester","Hotspur",5
+"Earl Of Worcester","King Henry Iv",3
+"Earl Of Worcester","Lady Percy",1
+"Earl Of Worcester","Lancaster",1
+"Earl Of Worcester","Messenger",2
+"Earl Of Worcester","Mortimer",1
+"Earl Of Worcester","Northumberland",1
+"Earl Of Worcester","Prince Henry",2
+"Earl Of Worcester","Sir Walter Blunt",2
+"Earl Of Worcester","Vernon",3
+"Earl Of Worcester","Worcester",1
+"Falstaff","First Traveller",1
+"Falstaff","Francis",1
+"Falstaff","Gadshill",2
+"Falstaff","Hostess",2
+"Falstaff","Hotspur",2
+"Falstaff","King Henry Iv",3
+"Falstaff","Lancaster",1
+"Falstaff","Peto",2
+"Falstaff","Poins",3
+"Falstaff","Prince Henry",8
+"Falstaff","Sheriff",1
+"Falstaff","Sir Walter Blunt",2
+"Falstaff","Thieves",1
+"Falstaff","Vintner",1
+"Falstaff","Westmoreland",2
+"Falstaff","Carrier",1
+"Falstaff","Travellers",1
+"First Carrier","Gadshill",1
+"First Carrier","Ostler",1
+"First Carrier","Second Carrier",1
+"First Carrier","Chamberlain",1
+"First Traveller","Gadshill",1
+"First Traveller","Peto",1
+"First Traveller","Poins",1
+"First Traveller","Prince Henry",1
+"First Traveller","Thieves",1
+"First Traveller","Travellers",1
+"Francis","Gadshill",1
+"Francis","Hostess",1
+"Francis","Peto",1
+"Francis","Poins",1
+"Francis","Prince Henry",1
+"Francis","Sheriff",1
+"Francis","Vintner",1
+"Francis","Carrier",1
+"Gadshill","Hostess",1
+"Gadshill","Ostler",1
+"Gadshill","Peto",2
+"Gadshill","Poins",2
+"Gadshill","Prince Henry",2
+"Gadshill","Second Carrier",1
+"Gadshill","Sheriff",1
+"Gadshill","Thieves",1
+"Gadshill","Vintner",1
+"Gadshill","Carrier",1
+"Gadshill","Travellers",1
+"Gadshill","Chamberlain",1
+"Glendower","Hotspur",1
+"Glendower","Lady Percy",1
+"Glendower","Mortimer",1
+"Hostess","King Henry Iv",1
+"Hostess","Peto",1
+"Hostess","Poins",1
+"Hostess","Prince Henry",2
+"Hostess","Sheriff",1
+"Hostess","Sir Walter Blunt",1
+"Hostess","Vintner",1
+"Hostess","Carrier",1
+"Hotspur","King Henry Iv",2
+"Hotspur","Lady Percy",2
+"Hotspur","Lancaster",1
+"Hotspur","Messenger",2
+"Hotspur","Mortimer",1
+"Hotspur","Northumberland",1
+"Hotspur","Prince Henry",2
+"Hotspur","Sir Walter Blunt",3
+"Hotspur","Vernon",3
+"Hotspur","Westmoreland",1
+"Hotspur","Worcester",1
+"Hotspur","Servant",1
+"King Henry Iv","Lancaster",2
+"King Henry Iv","Northumberland",1
+"King Henry Iv","Prince Henry",4
+"King Henry Iv","Sir Walter Blunt",2
+"King Henry Iv","Westmoreland",2
+"Lady Percy","Mortimer",1
+"Lady Percy","Servant",1
+"Lancaster","Prince Henry",2
+"Lancaster","Westmoreland",1
+"Messenger","Vernon",2
+"Messenger","Worcester",1
+"Northumberland","Sir Walter Blunt",1
+"Ostler","Second Carrier",1
+"Ostler","Chamberlain",1
+"Peto","Poins",2
+"Peto","Prince Henry",2
+"Peto","Sheriff",1
+"Peto","Thieves",1
+"Peto","Vintner",1
+"Peto","Carrier",1
+"Peto","Travellers",1
+"Poins","Prince Henry",3
+"Poins","Sheriff",1
+"Poins","Thieves",1
+"Poins","Vintner",1
+"Poins","Carrier",1
+"Poins","Travellers",1
+"Prince Henry","Sheriff",1
+"Prince Henry","Sir Walter Blunt",2
+"Prince Henry","Thieves",1
+"Prince Henry","Vintner",1
+"Prince Henry","Westmoreland",2
+"Prince Henry","Carrier",1
+"Prince Henry","Travellers",1
+"Second Carrier","Chamberlain",1
+"Sheriff","Vintner",1
+"Sheriff","Carrier",1
+"Sir Walter Blunt","Vernon",1
+"Thieves","Travellers",1
+"Vernon","Worcester",1
+"Vintner","Carrier",1

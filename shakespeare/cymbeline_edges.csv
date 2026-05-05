@@ -1,0 +1,201 @@
+"from","to","weight"
+"All","First Brother",1
+"All","First Gaoler",1
+"All","Jupiter",1
+"All","Messenger",1
+"All","Mother",1
+"All","Posthumus Leonatus",2
+"All","Second Brother",1
+"All","Second Gaoler",1
+"All","Sicilius Leonatus",1
+"Arviragus","Belarius",6
+"Arviragus","Caius Lucius",3
+"Arviragus","Captain",1
+"Arviragus","Cloten",1
+"Arviragus","Cornelius",1
+"Arviragus","Cymbeline",1
+"Arviragus","First Lady",1
+"Arviragus","Guiderius",5
+"Arviragus","Iachimo",2
+"Arviragus","Imogen",3
+"Arviragus","Pisanio",1
+"Arviragus","Posthumus Leonatus",1
+"Arviragus","Soothsayer",2
+"Attendant","Caius Lucius",1
+"Attendant","Cloten",1
+"Attendant","Cymbeline",1
+"Attendant","Pisanio",1
+"Attendant","Queen",1
+"Belarius","Caius Lucius",3
+"Belarius","Captain",1
+"Belarius","Cloten",1
+"Belarius","Cornelius",1
+"Belarius","Cymbeline",1
+"Belarius","First Lady",1
+"Belarius","Guiderius",5
+"Belarius","Iachimo",2
+"Belarius","Imogen",3
+"Belarius","Pisanio",1
+"Belarius","Posthumus Leonatus",1
+"Belarius","Soothsayer",2
+"Caius Lucius","Captain",1
+"Caius Lucius","Cloten",3
+"Caius Lucius","Cornelius",1
+"Caius Lucius","Cymbeline",3
+"Caius Lucius","First Lady",1
+"Caius Lucius","Guiderius",2
+"Caius Lucius","Iachimo",2
+"Caius Lucius","Imogen",2
+"Caius Lucius","Pisanio",2
+"Caius Lucius","Posthumus Leonatus",1
+"Caius Lucius","Queen",2
+"Caius Lucius","Soothsayer",2
+"Caius Lucius","Lords",1
+"Captain","Cloten",1
+"Captain","Guiderius",1
+"Captain","Imogen",1
+"Captain","Soothsayer",1
+"Cloten","Cymbeline",3
+"Cloten","First Lord",3
+"Cloten","Guiderius",1
+"Cloten","Iachimo",1
+"Cloten","Imogen",2
+"Cloten","Lady",1
+"Cloten","Messenger",1
+"Cloten","Pisanio",2
+"Cloten","Queen",3
+"Cloten","Second Lord",3
+"Cloten","Soothsayer",1
+"Cloten","Lords",1
+"Cornelius","Cymbeline",1
+"Cornelius","First Lady",2
+"Cornelius","Guiderius",1
+"Cornelius","Iachimo",1
+"Cornelius","Imogen",1
+"Cornelius","Pisanio",2
+"Cornelius","Posthumus Leonatus",1
+"Cornelius","Queen",1
+"Cornelius","Soothsayer",1
+"Cymbeline","First Gentleman",1
+"Cymbeline","First Lady",1
+"Cymbeline","First Lord",2
+"Cymbeline","Guiderius",1
+"Cymbeline","Iachimo",2
+"Cymbeline","Imogen",3
+"Cymbeline","Lady",1
+"Cymbeline","Messenger",1
+"Cymbeline","Pisanio",5
+"Cymbeline","Posthumus Leonatus",2
+"Cymbeline","Queen",4
+"Cymbeline","Second Gentleman",1
+"Cymbeline","Second Lord",1
+"Cymbeline","Soothsayer",1
+"Cymbeline","Lords",1
+"First Brother","First Gaoler",1
+"First Brother","Jupiter",1
+"First Brother","Messenger",1
+"First Brother","Mother",1
+"First Brother","Posthumus Leonatus",2
+"First Brother","Second Brother",1
+"First Brother","Second Gaoler",1
+"First Brother","Sicilius Leonatus",1
+"First Captain","Lord",1
+"First Captain","Posthumus Leonatus",1
+"First Captain","Second Captain",1
+"First Gaoler","Jupiter",1
+"First Gaoler","Messenger",1
+"First Gaoler","Mother",1
+"First Gaoler","Posthumus Leonatus",2
+"First Gaoler","Second Brother",1
+"First Gaoler","Second Gaoler",1
+"First Gaoler","Sicilius Leonatus",1
+"First Gentleman","Imogen",1
+"First Gentleman","Pisanio",1
+"First Gentleman","Posthumus Leonatus",1
+"First Gentleman","Queen",1
+"First Gentleman","Second Gentleman",1
+"First Lady","Guiderius",1
+"First Lady","Iachimo",1
+"First Lady","Imogen",1
+"First Lady","Pisanio",2
+"First Lady","Posthumus Leonatus",1
+"First Lady","Queen",1
+"First Lady","Soothsayer",1
+"First Lord","Iachimo",1
+"First Lord","Imogen",1
+"First Lord","Lady",1
+"First Lord","Messenger",1
+"First Lord","Pisanio",2
+"First Lord","Queen",1
+"First Lord","Second Lord",3
+"First Senator","First Tribune",1
+"First Senator","Second Senator",1
+"First Tribune","Second Senator",1
+"Frenchman","Iachimo",1
+"Frenchman","Philario",1
+"Frenchman","Posthumus Leonatus",1
+"Guiderius","Iachimo",1
+"Guiderius","Imogen",3
+"Guiderius","Pisanio",1
+"Guiderius","Posthumus Leonatus",1
+"Guiderius","Soothsayer",2
+"Iachimo","Imogen",3
+"Iachimo","Lady",1
+"Iachimo","Messenger",1
+"Iachimo","Philario",2
+"Iachimo","Pisanio",3
+"Iachimo","Posthumus Leonatus",3
+"Iachimo","Queen",1
+"Iachimo","Second Lord",1
+"Iachimo","Soothsayer",1
+"Imogen","Lady",2
+"Imogen","Messenger",1
+"Imogen","Pisanio",7
+"Imogen","Posthumus Leonatus",2
+"Imogen","Queen",2
+"Imogen","Second Gentleman",1
+"Imogen","Second Lord",1
+"Imogen","Soothsayer",2
+"Jupiter","Messenger",1
+"Jupiter","Mother",1
+"Jupiter","Posthumus Leonatus",2
+"Jupiter","Second Brother",1
+"Jupiter","Second Gaoler",1
+"Jupiter","Sicilius Leonatus",1
+"Lady","Messenger",1
+"Lady","Pisanio",2
+"Lady","Queen",1
+"Lady","Second Lord",1
+"Lord","Posthumus Leonatus",1
+"Lord","Second Captain",1
+"Messenger","Mother",1
+"Messenger","Pisanio",1
+"Messenger","Posthumus Leonatus",2
+"Messenger","Queen",1
+"Messenger","Second Brother",1
+"Messenger","Second Gaoler",1
+"Messenger","Second Lord",1
+"Messenger","Sicilius Leonatus",1
+"Mother","Posthumus Leonatus",2
+"Mother","Second Brother",1
+"Mother","Second Gaoler",1
+"Mother","Sicilius Leonatus",1
+"Philario","Posthumus Leonatus",2
+"Pisanio","Posthumus Leonatus",2
+"Pisanio","Queen",4
+"Pisanio","Second Gentleman",1
+"Pisanio","Second Lord",1
+"Pisanio","Soothsayer",1
+"Posthumus Leonatus","Queen",1
+"Posthumus Leonatus","Second Brother",2
+"Posthumus Leonatus","Second Gaoler",2
+"Posthumus Leonatus","Second Gentleman",1
+"Posthumus Leonatus","Sicilius Leonatus",2
+"Posthumus Leonatus","Soothsayer",1
+"Posthumus Leonatus","Second Captain",1
+"Queen","Second Gentleman",1
+"Queen","Second Lord",1
+"Queen","Lords",1
+"Second Brother","Second Gaoler",1
+"Second Brother","Sicilius Leonatus",1
+"Second Gaoler","Sicilius Leonatus",1

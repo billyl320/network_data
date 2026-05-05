@@ -1,0 +1,141 @@
+"from","to","weight"
+"Antonio","Balthasar",1
+"Antonio","Beatrice",2
+"Antonio","Benedick",3
+"Antonio","Borachio",2
+"Antonio","Claudio",3
+"Antonio","Dogberry",1
+"Antonio","Don John",1
+"Antonio","Don Pedro",3
+"Antonio","Friar Francis",1
+"Antonio","Hero",2
+"Antonio","Leonato",4
+"Antonio","Margaret",1
+"Antonio","Messenger",1
+"Antonio","Puck",1
+"Antonio","Ursula",1
+"Antonio","Verges",1
+"Balthasar","Beatrice",2
+"Balthasar","Benedick",2
+"Balthasar","Borachio",1
+"Balthasar","Boy",1
+"Balthasar","Claudio",2
+"Balthasar","Don John",1
+"Balthasar","Don Pedro",2
+"Balthasar","Hero",1
+"Balthasar","Leonato",2
+"Balthasar","Margaret",1
+"Balthasar","Ursula",1
+"Beatrice","Benedick",6
+"Beatrice","Borachio",1
+"Beatrice","Boy",1
+"Beatrice","Claudio",5
+"Beatrice","Don John",3
+"Beatrice","Don Pedro",5
+"Beatrice","Friar Francis",2
+"Beatrice","Hero",6
+"Beatrice","Leonato",5
+"Beatrice","Margaret",4
+"Beatrice","Messenger",2
+"Beatrice","Ursula",4
+"Benedick","Borachio",2
+"Benedick","Boy",1
+"Benedick","Claudio",7
+"Benedick","Dogberry",1
+"Benedick","Don John",4
+"Benedick","Don Pedro",7
+"Benedick","Friar Francis",2
+"Benedick","Hero",4
+"Benedick","Leonato",7
+"Benedick","Margaret",2
+"Benedick","Messenger",2
+"Benedick","Puck",1
+"Benedick","Ursula",2
+"Benedick","Verges",1
+"Borachio","Claudio",2
+"Borachio","Conrade",3
+"Borachio","Dogberry",3
+"Borachio","Don John",3
+"Borachio","Don Pedro",2
+"Borachio","First Watchman",2
+"Borachio","Hero",1
+"Borachio","Leonato",2
+"Borachio","Margaret",1
+"Borachio","Puck",1
+"Borachio","Second Watchman",2
+"Borachio","Sexton",1
+"Borachio","Ursula",1
+"Borachio","Verges",3
+"Borachio","Watchman",2
+"Boy","Claudio",1
+"Boy","Don Pedro",1
+"Boy","Leonato",1
+"Claudio","Dogberry",1
+"Claudio","Don John",4
+"Claudio","Don Pedro",8
+"Claudio","Friar Francis",2
+"Claudio","Hero",4
+"Claudio","Leonato",7
+"Claudio","Lord",1
+"Claudio","Margaret",1
+"Claudio","Messenger",2
+"Claudio","Puck",1
+"Claudio","Ursula",1
+"Claudio","Verges",1
+"Conrade","Dogberry",2
+"Conrade","Don John",1
+"Conrade","First Watchman",2
+"Conrade","Second Watchman",2
+"Conrade","Sexton",1
+"Conrade","Verges",2
+"Conrade","Watchman",2
+"Dogberry","Don Pedro",1
+"Dogberry","First Watchman",2
+"Dogberry","Leonato",2
+"Dogberry","Messenger",1
+"Dogberry","Puck",1
+"Dogberry","Second Watchman",2
+"Dogberry","Sexton",1
+"Dogberry","Verges",4
+"Dogberry","Watchman",2
+"Don John","Don Pedro",4
+"Don John","Friar Francis",1
+"Don John","Hero",3
+"Don John","Leonato",4
+"Don John","Margaret",1
+"Don John","Messenger",1
+"Don John","Ursula",1
+"Don Pedro","Friar Francis",2
+"Don Pedro","Hero",4
+"Don Pedro","Leonato",7
+"Don Pedro","Lord",1
+"Don Pedro","Margaret",1
+"Don Pedro","Messenger",2
+"Don Pedro","Puck",1
+"Don Pedro","Ursula",1
+"Don Pedro","Verges",1
+"First Watchman","Second Watchman",2
+"First Watchman","Sexton",1
+"First Watchman","Verges",2
+"First Watchman","Watchman",2
+"Friar Francis","Hero",2
+"Friar Francis","Leonato",2
+"Friar Francis","Messenger",1
+"Hero","Leonato",4
+"Hero","Margaret",3
+"Hero","Messenger",2
+"Hero","Ursula",3
+"Leonato","Margaret",1
+"Leonato","Messenger",3
+"Leonato","Puck",1
+"Leonato","Ursula",1
+"Leonato","Verges",2
+"Margaret","Ursula",4
+"Messenger","Verges",1
+"Puck","Verges",1
+"Second Watchman","Sexton",1
+"Second Watchman","Verges",2
+"Second Watchman","Watchman",2
+"Sexton","Verges",1
+"Sexton","Watchman",1
+"Verges","Watchman",2

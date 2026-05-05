@@ -1,0 +1,273 @@
+"from","to","weight"
+"Bona","King Lewis Xi",1
+"Bona","Oxford",1
+"Bona","Post",1
+"Bona","Prince Edward",1
+"Bona","Queen Margaret",1
+"Bona","Warwick",1
+"Clarence","Edward",1
+"Clarence","Exeter",1
+"Clarence","First Messenger",1
+"Clarence","Gloucester",7
+"Clarence","Hastings",1
+"Clarence","King Edward Iv",7
+"Clarence","King Henry Vi",2
+"Clarence","Lady Grey",1
+"Clarence","Lieutenant",1
+"Clarence","Montague",3
+"Clarence","Oxford",4
+"Clarence","Post",2
+"Clarence","Prince Edward",1
+"Clarence","Queen Elizabeth",2
+"Clarence","Queen Margaret",1
+"Clarence","Second Messenger",1
+"Clarence","Somerset",4
+"Clarence","Warwick",4
+"Clarence","Nobleman",1
+"Clifford","Edward",3
+"Clifford","Exeter",1
+"Clifford","George",2
+"Clifford","King Henry Vi",2
+"Clifford","Messenger",1
+"Clifford","Montague",1
+"Clifford","Norfolk",1
+"Clifford","Northumberland",3
+"Clifford","Prince",1
+"Clifford","Prince Edward",2
+"Clifford","Queen Margaret",3
+"Clifford","Richard",4
+"Clifford","Rutland",1
+"Clifford","Warwick",3
+"Clifford","Westmoreland",1
+"Clifford","York",2
+"Clifford","Tutor",1
+"Edward","Exeter",1
+"Edward","First Messenger",1
+"Edward","George",3
+"Edward","Gloucester",1
+"Edward","King Edward Iv",1
+"Edward","King Henry Vi",2
+"Edward","Messenger",3
+"Edward","Montague",3
+"Edward","Norfolk",1
+"Edward","Northumberland",2
+"Edward","Oxford",1
+"Edward","Prince",1
+"Edward","Prince Edward",2
+"Edward","Queen Margaret",2
+"Edward","Richard",6
+"Edward","Second Messenger",1
+"Edward","Somerset",1
+"Edward","Warwick",6
+"Edward","Westmoreland",1
+"Edward","York",2
+"Edward","John Mortimer",1
+"Exeter","Father",1
+"Exeter","Gloucester",1
+"Exeter","King Edward Iv",1
+"Exeter","King Henry Vi",3
+"Exeter","Montague",2
+"Exeter","Norfolk",1
+"Exeter","Northumberland",1
+"Exeter","Oxford",1
+"Exeter","Prince Edward",2
+"Exeter","Queen Margaret",2
+"Exeter","Richard",1
+"Exeter","Son",1
+"Exeter","Warwick",2
+"Exeter","Westmoreland",1
+"Exeter","York",1
+"Father","King Henry Vi",1
+"Father","Prince Edward",1
+"Father","Queen Margaret",1
+"Father","Son",1
+"First Keeper","King Henry Vi",1
+"First Keeper","Second Keeper",1
+"First Messenger","Gloucester",1
+"First Messenger","King Edward Iv",1
+"First Messenger","Montague",1
+"First Messenger","Oxford",1
+"First Messenger","Second Messenger",1
+"First Messenger","Somerset",1
+"First Messenger","Warwick",1
+"First Watchman","King Edward Iv",1
+"First Watchman","Oxford",1
+"First Watchman","Second Watchman",1
+"First Watchman","Somerset",1
+"First Watchman","Third Watchman",1
+"First Watchman","Warwick",1
+"George","King Henry Vi",1
+"George","Messenger",1
+"George","Northumberland",1
+"George","Prince",1
+"George","Prince Edward",1
+"George","Queen Margaret",1
+"George","Richard",3
+"George","Warwick",3
+"Gloucester","Hastings",3
+"Gloucester","Huntsman",1
+"Gloucester","King Edward Iv",9
+"Gloucester","King Henry Vi",2
+"Gloucester","Lady Grey",1
+"Gloucester","Mayor",1
+"Gloucester","Montague",4
+"Gloucester","Oxford",3
+"Gloucester","Post",1
+"Gloucester","Prince Edward",1
+"Gloucester","Queen Elizabeth",2
+"Gloucester","Queen Margaret",1
+"Gloucester","Second Messenger",1
+"Gloucester","Soldier",1
+"Gloucester","Somerset",3
+"Gloucester","Warwick",2
+"Gloucester","Nobleman",1
+"Gloucester","All",1
+"Hastings","Huntsman",1
+"Hastings","King Edward Iv",3
+"Hastings","Mayor",1
+"Hastings","Montague",2
+"Hastings","Post",1
+"Hastings","Queen Elizabeth",1
+"Hastings","Soldier",1
+"Hastings","Somerset",1
+"Hastings","All",1
+"Huntsman","King Edward Iv",1
+"King Edward Iv","King Henry Vi",1
+"King Edward Iv","Lady Grey",1
+"King Edward Iv","Mayor",1
+"King Edward Iv","Messenger",1
+"King Edward Iv","Montague",4
+"King Edward Iv","Oxford",6
+"King Edward Iv","Post",1
+"King Edward Iv","Prince Edward",2
+"King Edward Iv","Queen Elizabeth",2
+"King Edward Iv","Queen Margaret",2
+"King Edward Iv","Second Messenger",1
+"King Edward Iv","Second Watchman",1
+"King Edward Iv","Soldier",1
+"King Edward Iv","Somerset",6
+"King Edward Iv","Third Watchman",1
+"King Edward Iv","Warwick",4
+"King Edward Iv","Nobleman",1
+"King Edward Iv","All",1
+"King Henry Vi","Lieutenant",1
+"King Henry Vi","Messenger",1
+"King Henry Vi","Montague",2
+"King Henry Vi","Norfolk",1
+"King Henry Vi","Northumberland",2
+"King Henry Vi","Oxford",2
+"King Henry Vi","Post",1
+"King Henry Vi","Prince",1
+"King Henry Vi","Prince Edward",3
+"King Henry Vi","Queen Margaret",3
+"King Henry Vi","Richard",2
+"King Henry Vi","Second Keeper",1
+"King Henry Vi","Somerset",1
+"King Henry Vi","Son",1
+"King Henry Vi","Warwick",4
+"King Henry Vi","Westmoreland",1
+"King Henry Vi","York",1
+"King Lewis Xi","Oxford",1
+"King Lewis Xi","Post",1
+"King Lewis Xi","Prince Edward",1
+"King Lewis Xi","Queen Margaret",1
+"King Lewis Xi","Warwick",1
+"Lady Grey","Nobleman",1
+"Lieutenant","Oxford",1
+"Lieutenant","Post",1
+"Lieutenant","Somerset",1
+"Lieutenant","Warwick",1
+"Mayor","Montague",1
+"Mayor","Soldier",1
+"Mayor","All",1
+"Messenger","Montague",1
+"Messenger","Northumberland",1
+"Messenger","Oxford",1
+"Messenger","Prince",1
+"Messenger","Prince Edward",2
+"Messenger","Queen Margaret",2
+"Messenger","Richard",3
+"Messenger","Somerset",1
+"Messenger","Warwick",2
+"Messenger","York",1
+"Messenger","John Mortimer",1
+"Montague","Norfolk",1
+"Montague","Northumberland",1
+"Montague","Oxford",2
+"Montague","Post",1
+"Montague","Prince Edward",1
+"Montague","Queen Elizabeth",1
+"Montague","Queen Margaret",1
+"Montague","Richard",2
+"Montague","Second Messenger",1
+"Montague","Soldier",1
+"Montague","Somerset",2
+"Montague","Warwick",3
+"Montague","Westmoreland",1
+"Montague","York",2
+"Montague","John Mortimer",1
+"Montague","All",1
+"Norfolk","Northumberland",1
+"Norfolk","Prince Edward",1
+"Norfolk","Queen Margaret",1
+"Norfolk","Richard",1
+"Norfolk","Warwick",1
+"Norfolk","Westmoreland",1
+"Norfolk","York",1
+"Northumberland","Prince",1
+"Northumberland","Prince Edward",2
+"Northumberland","Queen Margaret",3
+"Northumberland","Richard",2
+"Northumberland","Warwick",2
+"Northumberland","Westmoreland",1
+"Northumberland","York",2
+"Oxford","Post",2
+"Oxford","Prince Edward",3
+"Oxford","Queen Margaret",3
+"Oxford","Second Messenger",1
+"Oxford","Second Watchman",1
+"Oxford","Somerset",6
+"Oxford","Third Watchman",1
+"Oxford","Warwick",6
+"Post","Prince Edward",1
+"Post","Queen Elizabeth",1
+"Post","Queen Margaret",1
+"Post","Somerset",2
+"Post","Warwick",2
+"Prince","Prince Edward",1
+"Prince","Queen Margaret",1
+"Prince","Richard",1
+"Prince","Warwick",1
+"Prince Edward","Queen Margaret",6
+"Prince Edward","Richard",2
+"Prince Edward","Somerset",2
+"Prince Edward","Son",1
+"Prince Edward","Warwick",3
+"Prince Edward","Westmoreland",1
+"Prince Edward","York",1
+"Queen Elizabeth","Rivers",1
+"Queen Elizabeth","Somerset",1
+"Queen Margaret","Richard",2
+"Queen Margaret","Somerset",2
+"Queen Margaret","Son",1
+"Queen Margaret","Warwick",3
+"Queen Margaret","Westmoreland",1
+"Queen Margaret","York",2
+"Richard","Warwick",5
+"Richard","Westmoreland",1
+"Richard","York",2
+"Richard","John Mortimer",1
+"Rutland","Tutor",1
+"Second Messenger","Somerset",1
+"Second Messenger","Warwick",1
+"Second Watchman","Somerset",1
+"Second Watchman","Third Watchman",1
+"Second Watchman","Warwick",1
+"Soldier","All",1
+"Somerset","Third Watchman",1
+"Somerset","Warwick",4
+"Third Watchman","Warwick",1
+"Warwick","Westmoreland",1
+"Warwick","York",1
+"Westmoreland","York",1
+"York","John Mortimer",1

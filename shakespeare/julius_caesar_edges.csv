@@ -1,0 +1,291 @@
+"from","to","weight"
+"All","Antony",1
+"All","Brutus",1
+"All","Citizens",1
+"All","First Citizen",1
+"All","Fourth Citizen",1
+"All","Second Citizen",1
+"All","Servant",1
+"All","Several Citizens",1
+"All","Third Citizen",1
+"Antony","Artemidorus",1
+"Antony","Brutus",7
+"Antony","Caesar",3
+"Antony","Calpurnia",2
+"Antony","Casca",2
+"Antony","Cassius",3
+"Antony","Cato",1
+"Antony","Cinna",1
+"Antony","Citizens",1
+"Antony","Clitus",1
+"Antony","Dardanius",1
+"Antony","Decius Brutus",2
+"Antony","First Citizen",1
+"Antony","First Soldier",1
+"Antony","Fourth Citizen",1
+"Antony","Lucilius",3
+"Antony","Messala",2
+"Antony","Messenger",1
+"Antony","Metellus Cimber",1
+"Antony","Octavius",3
+"Antony","Popilius",1
+"Antony","Publius",2
+"Antony","Second Citizen",1
+"Antony","Second Soldier",1
+"Antony","Servant",3
+"Antony","Several Citizens",1
+"Antony","Soothsayer",2
+"Antony","Strato",1
+"Antony","Third Citizen",1
+"Antony","Trebonius",2
+"Antony","Volumnius",1
+"Antony","Lepidus",1
+"Artemidorus","Brutus",1
+"Artemidorus","Caesar",1
+"Artemidorus","Casca",1
+"Artemidorus","Cassius",1
+"Artemidorus","Cinna",1
+"Artemidorus","Decius Brutus",1
+"Artemidorus","Metellus Cimber",1
+"Artemidorus","Popilius",1
+"Artemidorus","Publius",1
+"Artemidorus","Servant",1
+"Artemidorus","Soothsayer",1
+"Artemidorus","Trebonius",1
+"Brutus","Caesar",3
+"Brutus","Calpurnia",2
+"Brutus","Casca",3
+"Brutus","Cassius",7
+"Brutus","Cato",2
+"Brutus","Cinna",2
+"Brutus","Citizens",1
+"Brutus","Clitus",1
+"Brutus","Dardanius",1
+"Brutus","Decius Brutus",3
+"Brutus","First Citizen",1
+"Brutus","First Soldier",2
+"Brutus","Fourth Citizen",1
+"Brutus","Ghost",1
+"Brutus","Lucilius",5
+"Brutus","Lucius",2
+"Brutus","Messala",4
+"Brutus","Messenger",1
+"Brutus","Metellus Cimber",2
+"Brutus","Octavius",2
+"Brutus","Pindarus",2
+"Brutus","Poet",1
+"Brutus","Popilius",1
+"Brutus","Portia",1
+"Brutus","Publius",2
+"Brutus","Second Citizen",1
+"Brutus","Second Soldier",2
+"Brutus","Servant",3
+"Brutus","Several Citizens",1
+"Brutus","Soothsayer",2
+"Brutus","Strato",1
+"Brutus","Third Citizen",1
+"Brutus","Titinius",1
+"Brutus","Trebonius",3
+"Brutus","Varro",1
+"Brutus","Volumnius",1
+"Brutus","Claudius",1
+"Brutus","Ligarius",1
+"Brutus","Third Soldier",1
+"Caesar","Calpurnia",2
+"Caesar","Casca",2
+"Caesar","Cassius",2
+"Caesar","Cinna",1
+"Caesar","Decius Brutus",2
+"Caesar","Metellus Cimber",1
+"Caesar","Popilius",1
+"Caesar","Publius",2
+"Caesar","Servant",2
+"Caesar","Soothsayer",2
+"Caesar","Trebonius",2
+"Calpurnia","Casca",1
+"Calpurnia","Cassius",1
+"Calpurnia","Decius Brutus",1
+"Calpurnia","Publius",1
+"Calpurnia","Servant",1
+"Calpurnia","Soothsayer",1
+"Calpurnia","Trebonius",1
+"Casca","Cassius",4
+"Casca","Cicero",1
+"Casca","Cinna",3
+"Casca","Decius Brutus",2
+"Casca","Lucius",1
+"Casca","Metellus Cimber",2
+"Casca","Popilius",1
+"Casca","Portia",1
+"Casca","Publius",1
+"Casca","Servant",1
+"Casca","Soothsayer",2
+"Casca","Trebonius",2
+"Casca","Ligarius",1
+"Cassius","Cato",1
+"Cassius","Cicero",1
+"Cassius","Cinna",3
+"Cassius","Decius Brutus",2
+"Cassius","First Soldier",1
+"Cassius","Ghost",1
+"Cassius","Lucilius",3
+"Cassius","Lucius",2
+"Cassius","Messala",3
+"Cassius","Messenger",1
+"Cassius","Metellus Cimber",2
+"Cassius","Octavius",1
+"Cassius","Pindarus",2
+"Cassius","Poet",1
+"Cassius","Popilius",1
+"Cassius","Portia",1
+"Cassius","Publius",1
+"Cassius","Second Soldier",1
+"Cassius","Servant",1
+"Cassius","Soothsayer",2
+"Cassius","Titinius",1
+"Cassius","Trebonius",2
+"Cassius","Varro",1
+"Cassius","Claudius",1
+"Cassius","Ligarius",1
+"Cassius","Third Soldier",1
+"Cato","First Soldier",1
+"Cato","Lucilius",1
+"Cato","Messala",1
+"Cato","Pindarus",1
+"Cato","Second Soldier",1
+"Cato","Titinius",1
+"Cicero","Cinna",1
+"Cinna","Decius Brutus",2
+"Cinna","Lucius",1
+"Cinna","Metellus Cimber",2
+"Cinna","Popilius",1
+"Cinna","Portia",1
+"Cinna","Publius",1
+"Cinna","Servant",1
+"Cinna","Soothsayer",1
+"Cinna","Trebonius",2
+"Cinna","Ligarius",1
+"Cinna The Poet","First Citizen",1
+"Cinna The Poet","Fourth Citizen",1
+"Cinna The Poet","Second Citizen",1
+"Cinna The Poet","Third Citizen",1
+"Citizens","First Citizen",1
+"Citizens","Fourth Citizen",1
+"Citizens","Second Citizen",1
+"Citizens","Servant",1
+"Citizens","Several Citizens",1
+"Citizens","Third Citizen",1
+"Clitus","Dardanius",1
+"Clitus","Lucilius",1
+"Clitus","Messala",1
+"Clitus","Octavius",1
+"Clitus","Strato",1
+"Clitus","Volumnius",1
+"Dardanius","Lucilius",1
+"Dardanius","Messala",1
+"Dardanius","Octavius",1
+"Dardanius","Strato",1
+"Dardanius","Volumnius",1
+"Decius Brutus","Lucius",1
+"Decius Brutus","Metellus Cimber",2
+"Decius Brutus","Popilius",1
+"Decius Brutus","Portia",1
+"Decius Brutus","Publius",2
+"Decius Brutus","Servant",2
+"Decius Brutus","Soothsayer",1
+"Decius Brutus","Trebonius",3
+"Decius Brutus","Ligarius",1
+"First Citizen","Fourth Citizen",2
+"First Citizen","Second Citizen",2
+"First Citizen","Servant",1
+"First Citizen","Several Citizens",1
+"First Citizen","Third Citizen",2
+"First Commoner","Flavius",1
+"First Commoner","Marullus",1
+"First Commoner","Second Commoner",1
+"First Soldier","Lucilius",2
+"First Soldier","Pindarus",1
+"First Soldier","Second Soldier",2
+"First Soldier","Third Soldier",1
+"Flavius","Marullus",1
+"Flavius","Second Commoner",1
+"Fourth Citizen","Second Citizen",2
+"Fourth Citizen","Servant",1
+"Fourth Citizen","Several Citizens",1
+"Fourth Citizen","Third Citizen",2
+"Ghost","Lucilius",1
+"Ghost","Lucius",1
+"Ghost","Messala",1
+"Ghost","Poet",1
+"Ghost","Varro",1
+"Ghost","Claudius",1
+"Lucilius","Lucius",1
+"Lucilius","Messala",3
+"Lucilius","Messenger",1
+"Lucilius","Octavius",2
+"Lucilius","Pindarus",1
+"Lucilius","Poet",1
+"Lucilius","Second Soldier",2
+"Lucilius","Strato",1
+"Lucilius","Varro",1
+"Lucilius","Volumnius",1
+"Lucilius","Claudius",1
+"Lucilius","Third Soldier",1
+"Lucius","Messala",1
+"Lucius","Metellus Cimber",1
+"Lucius","Poet",1
+"Lucius","Portia",2
+"Lucius","Soothsayer",1
+"Lucius","Trebonius",1
+"Lucius","Varro",1
+"Lucius","Claudius",1
+"Lucius","Ligarius",1
+"Marullus","Second Commoner",1
+"Messala","Messenger",1
+"Messala","Octavius",2
+"Messala","Pindarus",1
+"Messala","Poet",1
+"Messala","Strato",1
+"Messala","Titinius",1
+"Messala","Varro",1
+"Messala","Volumnius",1
+"Messala","Claudius",1
+"Messenger","Octavius",1
+"Metellus Cimber","Popilius",1
+"Metellus Cimber","Portia",1
+"Metellus Cimber","Publius",1
+"Metellus Cimber","Servant",1
+"Metellus Cimber","Soothsayer",1
+"Metellus Cimber","Trebonius",2
+"Metellus Cimber","Ligarius",1
+"Octavius","Strato",1
+"Octavius","Volumnius",1
+"Octavius","Lepidus",1
+"Pindarus","Second Soldier",1
+"Pindarus","Titinius",1
+"Pindarus","Third Soldier",1
+"Poet","Varro",1
+"Poet","Claudius",1
+"Popilius","Publius",1
+"Popilius","Servant",1
+"Popilius","Soothsayer",1
+"Popilius","Trebonius",1
+"Portia","Soothsayer",1
+"Portia","Trebonius",1
+"Portia","Ligarius",1
+"Publius","Servant",2
+"Publius","Soothsayer",1
+"Publius","Trebonius",2
+"Second Citizen","Servant",1
+"Second Citizen","Several Citizens",1
+"Second Citizen","Third Citizen",2
+"Second Soldier","Third Soldier",1
+"Servant","Several Citizens",1
+"Servant","Soothsayer",1
+"Servant","Third Citizen",1
+"Servant","Trebonius",2
+"Several Citizens","Third Citizen",1
+"Soothsayer","Trebonius",1
+"Strato","Volumnius",1
+"Trebonius","Ligarius",1
+"Varro","Claudius",1

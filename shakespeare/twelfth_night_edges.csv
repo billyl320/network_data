@@ -1,0 +1,102 @@
+"from","to","weight"
+"Antonio","Clown",1
+"Antonio","Duke Orsino",1
+"Antonio","Fabian",2
+"Antonio","First Officer",2
+"Antonio","Malvolio",2
+"Antonio","Maria",1
+"Antonio","Olivia",2
+"Antonio","Priest",1
+"Antonio","Sebastian",3
+"Antonio","Servant",1
+"Antonio","Sir Andrew",2
+"Antonio","Sir Toby Belch",2
+"Antonio","Viola",2
+"Antonio","Second Officer",1
+"Clown","Curio",1
+"Clown","Duke Orsino",2
+"Clown","Fabian",1
+"Clown","First Officer",1
+"Clown","Malvolio",4
+"Clown","Maria",3
+"Clown","Olivia",4
+"Clown","Priest",1
+"Clown","Sebastian",2
+"Clown","Sir Andrew",4
+"Clown","Sir Toby Belch",6
+"Clown","Viola",4
+"Curio","Duke Orsino",2
+"Curio","Valentine",1
+"Curio","Viola",1
+"Duke Orsino","Fabian",1
+"Duke Orsino","First Officer",1
+"Duke Orsino","Malvolio",1
+"Duke Orsino","Olivia",1
+"Duke Orsino","Priest",1
+"Duke Orsino","Sebastian",1
+"Duke Orsino","Sir Andrew",1
+"Duke Orsino","Sir Toby Belch",1
+"Duke Orsino","Valentine",2
+"Duke Orsino","Viola",3
+"Fabian","First Officer",2
+"Fabian","Malvolio",3
+"Fabian","Maria",3
+"Fabian","Olivia",2
+"Fabian","Priest",1
+"Fabian","Sebastian",1
+"Fabian","Servant",1
+"Fabian","Sir Andrew",4
+"Fabian","Sir Toby Belch",4
+"Fabian","Viola",2
+"Fabian","Second Officer",1
+"First Officer","Malvolio",2
+"First Officer","Maria",1
+"First Officer","Olivia",2
+"First Officer","Priest",1
+"First Officer","Sebastian",1
+"First Officer","Servant",1
+"First Officer","Sir Andrew",2
+"First Officer","Sir Toby Belch",2
+"First Officer","Viola",2
+"First Officer","Second Officer",1
+"Malvolio","Maria",5
+"Malvolio","Olivia",3
+"Malvolio","Priest",1
+"Malvolio","Sebastian",1
+"Malvolio","Servant",1
+"Malvolio","Sir Andrew",4
+"Malvolio","Sir Toby Belch",6
+"Malvolio","Viola",4
+"Malvolio","Second Officer",1
+"Maria","Olivia",2
+"Maria","Servant",1
+"Maria","Sir Andrew",5
+"Maria","Sir Toby Belch",7
+"Maria","Viola",2
+"Maria","Second Officer",1
+"Olivia","Priest",1
+"Olivia","Sebastian",3
+"Olivia","Servant",1
+"Olivia","Sir Andrew",4
+"Olivia","Sir Toby Belch",5
+"Olivia","Viola",4
+"Olivia","Second Officer",1
+"Priest","Sebastian",1
+"Priest","Sir Andrew",1
+"Priest","Sir Toby Belch",1
+"Priest","Viola",1
+"Sebastian","Sir Andrew",2
+"Sebastian","Sir Toby Belch",2
+"Sebastian","Viola",1
+"Servant","Sir Andrew",1
+"Servant","Sir Toby Belch",1
+"Servant","Viola",1
+"Servant","Second Officer",1
+"Sir Andrew","Sir Toby Belch",8
+"Sir Andrew","Viola",3
+"Sir Andrew","Second Officer",1
+"Sir Toby Belch","Viola",4
+"Sir Toby Belch","Second Officer",1
+"Valentine","Viola",1
+"Viola","Second Officer",1
+"Viola","Captain",1

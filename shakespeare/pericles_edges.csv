@@ -1,0 +1,186 @@
+"from","to","weight"
+"Antiochus","Daughter",1
+"Antiochus","Pericles",1
+"Antiochus","Thaliard",1
+"Antiochus","Messenger",1
+"Bawd","Boult",2
+"Bawd","First Pirate",1
+"Bawd","Lysimachus",1
+"Bawd","Marina",2
+"Bawd","Pandar",2
+"Boult","First Pirate",1
+"Boult","Lysimachus",1
+"Boult","Marina",2
+"Boult","Pandar",2
+"Cerimon","First Gentleman",1
+"Cerimon","First Servant",1
+"Cerimon","Gower",1
+"Cerimon","Helicanus",1
+"Cerimon","Marina",1
+"Cerimon","Pericles",1
+"Cerimon","Philemon",1
+"Cerimon","Second Gentleman",1
+"Cerimon","Servant",1
+"Cerimon","Thaisa",3
+"Cleon","Dionyza",3
+"Cleon","Gower",1
+"Cleon","Lord",1
+"Cleon","Pericles",2
+"Cleon","All",1
+"Daughter","Pericles",1
+"Daughter","Thaliard",1
+"Daughter","Messenger",1
+"Dionyza","First Pirate",1
+"Dionyza","Gower",1
+"Dionyza","Leonine",1
+"Dionyza","Lord",1
+"Dionyza","Marina",1
+"Dionyza","Pericles",2
+"Dionyza","Second Pirate",1
+"Dionyza","All",1
+"Dionyza","Third Pirate",1
+"Escanes","First Lord",1
+"Escanes","Gower",1
+"Escanes","Helicanus",1
+"Escanes","Second Lord",1
+"Escanes","Third Lord",1
+"Escanes","All",1
+"First Fisherman","Pericles",1
+"First Fisherman","Second Fisherman",1
+"First Fisherman","Third Fisherman",1
+"First Gentleman","First Lord",1
+"First Gentleman","First Servant",1
+"First Gentleman","Gower",1
+"First Gentleman","Helicanus",1
+"First Gentleman","Lysimachus",1
+"First Gentleman","Marina",1
+"First Gentleman","Pericles",1
+"First Gentleman","Philemon",1
+"First Gentleman","Second Gentleman",2
+"First Gentleman","Servant",1
+"First Gentleman","Thaisa",1
+"First Gentleman","Tyrian Sailor",1
+"First Gentleman","Diana",1
+"First Knight","Knights",2
+"First Knight","Marshal",1
+"First Knight","Pericles",2
+"First Knight","Second Knight",1
+"First Knight","Simonides",2
+"First Knight","Thaisa",2
+"First Knight","Third Knight",1
+"First Knight","Both",1
+"First Lord","Gower",2
+"First Lord","Helicanus",3
+"First Lord","Lysimachus",1
+"First Lord","Marina",1
+"First Lord","Pericles",3
+"First Lord","Second Lord",3
+"First Lord","Simonides",1
+"First Lord","Thaisa",1
+"First Lord","Third Lord",2
+"First Lord","Tyrian Sailor",1
+"First Lord","All",1
+"First Lord","Diana",1
+"First Pirate","Leonine",1
+"First Pirate","Marina",2
+"First Pirate","Pandar",1
+"First Pirate","Second Pirate",1
+"First Pirate","Third Pirate",1
+"First Sailor","Gower",1
+"First Sailor","Lychorida",1
+"First Sailor","Pericles",1
+"First Sailor","Second Sailor",1
+"First Servant","Philemon",1
+"First Servant","Second Gentleman",1
+"First Servant","Servant",1
+"First Servant","Thaisa",1
+"Gower","Helicanus",3
+"Gower","Lychorida",1
+"Gower","Lysimachus",1
+"Gower","Marina",2
+"Gower","Pericles",3
+"Gower","Second Lord",1
+"Gower","Thaisa",1
+"Gower","Third Lord",1
+"Gower","Tyrian Sailor",1
+"Gower","All",1
+"Gower","Diana",1
+"Gower","Second Sailor",1
+"Helicanus","Lysimachus",1
+"Helicanus","Marina",2
+"Helicanus","Pericles",3
+"Helicanus","Second Lord",2
+"Helicanus","Thaisa",1
+"Helicanus","Thaliard",1
+"Helicanus","Third Lord",1
+"Helicanus","Tyrian Sailor",1
+"Helicanus","All",1
+"Helicanus","Diana",1
+"Knights","Marshal",2
+"Knights","Pericles",2
+"Knights","Simonides",2
+"Knights","Thaisa",2
+"Leonine","Marina",1
+"Leonine","Second Pirate",1
+"Leonine","Third Pirate",1
+"Lord","Pericles",1
+"Lord","All",1
+"Lychorida","Pericles",1
+"Lychorida","Second Sailor",1
+"Lysimachus","Marina",2
+"Lysimachus","Pandar",1
+"Lysimachus","Pericles",1
+"Lysimachus","Tyrian Sailor",1
+"Lysimachus","Diana",1
+"Marina","Pandar",2
+"Marina","Pericles",2
+"Marina","Second Pirate",1
+"Marina","Thaisa",1
+"Marina","Tyrian Sailor",1
+"Marina","Third Pirate",1
+"Marina","Diana",1
+"Marshal","Pericles",1
+"Marshal","Simonides",1
+"Marshal","Thaisa",1
+"Pericles","Second Fisherman",1
+"Pericles","Second Knight",1
+"Pericles","Second Lord",2
+"Pericles","Simonides",3
+"Pericles","Thaisa",4
+"Pericles","Thaliard",1
+"Pericles","Third Knight",1
+"Pericles","Third Lord",1
+"Pericles","Tyrian Sailor",1
+"Pericles","Messenger",1
+"Pericles","All",1
+"Pericles","Third Fisherman",1
+"Pericles","Diana",1
+"Pericles","Both",1
+"Pericles","Second Sailor",1
+"Philemon","Second Gentleman",1
+"Philemon","Servant",1
+"Philemon","Thaisa",1
+"Second Fisherman","Third Fisherman",1
+"Second Gentleman","Servant",1
+"Second Gentleman","Thaisa",1
+"Second Knight","Simonides",1
+"Second Knight","Thaisa",1
+"Second Knight","Third Knight",1
+"Second Knight","Both",1
+"Second Lord","Simonides",1
+"Second Lord","Thaisa",1
+"Second Lord","Third Lord",2
+"Second Lord","All",1
+"Second Pirate","Third Pirate",1
+"Servant","Thaisa",1
+"Simonides","Thaisa",3
+"Simonides","Third Knight",1
+"Simonides","Third Lord",1
+"Simonides","Both",1
+"Thaisa","Third Knight",1
+"Thaisa","Third Lord",1
+"Thaisa","Both",1
+"Thaliard","Messenger",1
+"Third Knight","Both",1
+"Third Lord","All",1
+"Tyrian Sailor","Diana",1

@@ -1,0 +1,315 @@
+"from","to","weight"
+"Alencon","Bastard Of Orleans",4
+"Alencon","Bedford",2
+"Alencon","Burgundy",4
+"Alencon","Captain",1
+"Alencon","Charles",7
+"Alencon","Fastolfe",1
+"Alencon","First Sentinel",1
+"Alencon","First Soldier",1
+"Alencon","Joan La Pucelle",7
+"Alencon","Of Winchester",1
+"Alencon","Reignier",5
+"Alencon","Scout",1
+"Alencon","Sentinels",1
+"Alencon","Sergeant",1
+"Alencon","Shepherd",1
+"Alencon","Talbot",2
+"Alencon","Warwick",1
+"Alencon","Watch",1
+"Alencon","York",1
+"Alencon","Soldier",1
+"All","Exeter",1
+"All","Gloucester",1
+"All","King Henry Vi",1
+"All","Mayor",1
+"All","Of Winchester",1
+"All","Plantagenet",1
+"All","Somerset",1
+"All","Warwick",1
+"Basset","Exeter",1
+"Basset","Fastolfe",1
+"Basset","Gloucester",2
+"Basset","King Henry Vi",2
+"Basset","Of Winchester",1
+"Basset","Somerset",1
+"Basset","Talbot",2
+"Basset","Vernon",2
+"Basset","Warwick",1
+"Basset","York",1
+"Bastard Of Orleans","Bedford",2
+"Bastard Of Orleans","Burgundy",4
+"Bastard Of Orleans","Captain",1
+"Bastard Of Orleans","Charles",5
+"Bastard Of Orleans","Fastolfe",1
+"Bastard Of Orleans","First Sentinel",1
+"Bastard Of Orleans","First Soldier",1
+"Bastard Of Orleans","Joan La Pucelle",5
+"Bastard Of Orleans","Reignier",3
+"Bastard Of Orleans","Sentinels",1
+"Bastard Of Orleans","Sergeant",1
+"Bastard Of Orleans","Servant",1
+"Bastard Of Orleans","Talbot",3
+"Bastard Of Orleans","Watch",1
+"Bastard Of Orleans","Soldier",1
+"Bastard Of Orleans","Lucy",1
+"Bedford","Burgundy",3
+"Bedford","Captain",2
+"Bedford","Charles",2
+"Bedford","Exeter",1
+"Bedford","Fastolfe",1
+"Bedford","First Sentinel",1
+"Bedford","First Soldier",1
+"Bedford","Gloucester",1
+"Bedford","Joan La Pucelle",2
+"Bedford","Messenger",2
+"Bedford","Of Winchester",1
+"Bedford","Reignier",2
+"Bedford","Sentinels",1
+"Bedford","Sergeant",1
+"Bedford","Talbot",3
+"Bedford","Watch",1
+"Bedford","Soldier",1
+"Boy","Gargrave",1
+"Boy","Glansdale",1
+"Boy","Mayor",1
+"Boy","Messenger",1
+"Boy","Salisbury",1
+"Boy","Talbot",1
+"Burgundy","Captain",2
+"Burgundy","Charles",5
+"Burgundy","Fastolfe",1
+"Burgundy","First Sentinel",1
+"Burgundy","First Soldier",1
+"Burgundy","Joan La Pucelle",5
+"Burgundy","Messenger",1
+"Burgundy","Reignier",2
+"Burgundy","Scout",1
+"Burgundy","Sentinels",1
+"Burgundy","Sergeant",1
+"Burgundy","Servant",1
+"Burgundy","Talbot",4
+"Burgundy","Watch",1
+"Burgundy","Soldier",1
+"Burgundy","Lucy",1
+"Captain","Charles",1
+"Captain","Fastolfe",1
+"Captain","First Soldier",1
+"Captain","Joan La Pucelle",1
+"Captain","Messenger",2
+"Captain","Of Auvergne",1
+"Captain","Porter",1
+"Captain","Reignier",1
+"Captain","Somerset",1
+"Captain","Talbot",3
+"Captain","Watch",1
+"Captain","Lucy",1
+"Charles","Fastolfe",1
+"Charles","First Sentinel",1
+"Charles","First Soldier",1
+"Charles","Joan La Pucelle",8
+"Charles","Of Winchester",1
+"Charles","Reignier",5
+"Charles","Scout",1
+"Charles","Sentinels",1
+"Charles","Sergeant",1
+"Charles","Servant",1
+"Charles","Shepherd",1
+"Charles","Talbot",3
+"Charles","Warwick",1
+"Charles","Watch",1
+"Charles","York",1
+"Charles","Soldier",1
+"Charles","Lucy",1
+"Exeter","Fastolfe",1
+"Exeter","Gloucester",5
+"Exeter","King Henry Vi",4
+"Exeter","Mayor",1
+"Exeter","Messenger",1
+"Exeter","Of Winchester",4
+"Exeter","Plantagenet",1
+"Exeter","Somerset",2
+"Exeter","Suffolk",1
+"Exeter","Talbot",1
+"Exeter","Vernon",1
+"Exeter","Warwick",2
+"Exeter","York",1
+"Exeter","Legate",1
+"Fastolfe","First Soldier",1
+"Fastolfe","Gloucester",1
+"Fastolfe","Joan La Pucelle",1
+"Fastolfe","King Henry Vi",1
+"Fastolfe","Of Winchester",1
+"Fastolfe","Reignier",1
+"Fastolfe","Somerset",1
+"Fastolfe","Talbot",2
+"Fastolfe","Vernon",1
+"Fastolfe","Warwick",1
+"Fastolfe","Watch",1
+"Fastolfe","York",1
+"First Gaoler","Mortimer",1
+"First Gaoler","Plantagenet",1
+"First Sentinel","Joan La Pucelle",1
+"First Sentinel","Reignier",1
+"First Sentinel","Sentinels",1
+"First Sentinel","Sergeant",1
+"First Sentinel","Talbot",1
+"First Sentinel","Soldier",1
+"First Soldier","Joan La Pucelle",1
+"First Soldier","Reignier",1
+"First Soldier","Talbot",1
+"First Soldier","Watch",1
+"First Warder","Gloucester",1
+"First Warder","Mayor",1
+"First Warder","Of Winchester",1
+"First Warder","Second Warder",1
+"First Warder","Woodvile",1
+"First Warder","Officer",1
+"Gargrave","Glansdale",1
+"Gargrave","Mayor",1
+"Gargrave","Messenger",1
+"Gargrave","Salisbury",1
+"Gargrave","Talbot",1
+"Glansdale","Mayor",1
+"Glansdale","Messenger",1
+"Glansdale","Salisbury",1
+"Glansdale","Talbot",1
+"Gloucester","King Henry Vi",5
+"Gloucester","Mayor",2
+"Gloucester","Messenger",1
+"Gloucester","Of Winchester",5
+"Gloucester","Plantagenet",1
+"Gloucester","Second Warder",1
+"Gloucester","Somerset",2
+"Gloucester","Suffolk",1
+"Gloucester","Talbot",2
+"Gloucester","Vernon",2
+"Gloucester","Warwick",2
+"Gloucester","Woodvile",1
+"Gloucester","York",1
+"Gloucester","Legate",1
+"Gloucester","Officer",1
+"Joan La Pucelle","Margaret",1
+"Joan La Pucelle","Of Winchester",1
+"Joan La Pucelle","Reignier",6
+"Joan La Pucelle","Scout",1
+"Joan La Pucelle","Sentinels",1
+"Joan La Pucelle","Sergeant",1
+"Joan La Pucelle","Servant",1
+"Joan La Pucelle","Shepherd",1
+"Joan La Pucelle","Suffolk",1
+"Joan La Pucelle","Talbot",4
+"Joan La Pucelle","Warwick",1
+"Joan La Pucelle","Watch",1
+"Joan La Pucelle","York",2
+"Joan La Pucelle","Soldier",1
+"Joan La Pucelle","Lucy",1
+"Joan La Pucelle","Su Ffolk",1
+"King Henry Vi","Mayor",1
+"King Henry Vi","Of Winchester",3
+"King Henry Vi","Plantagenet",1
+"King Henry Vi","Somerset",2
+"King Henry Vi","Suffolk",1
+"King Henry Vi","Talbot",2
+"King Henry Vi","Vernon",2
+"King Henry Vi","Warwick",2
+"King Henry Vi","York",1
+"King Henry Vi","Legate",1
+"Margaret","Reignier",1
+"Margaret","Suffolk",1
+"Margaret","York",1
+"Margaret","Su Ffolk",1
+"Mayor","Messenger",1
+"Mayor","Of Winchester",2
+"Mayor","Plantagenet",1
+"Mayor","Salisbury",1
+"Mayor","Second Warder",1
+"Mayor","Somerset",1
+"Mayor","Talbot",1
+"Mayor","Warwick",1
+"Mayor","Woodvile",1
+"Mayor","Officer",1
+"Messenger","Of Auvergne",1
+"Messenger","Of Winchester",1
+"Messenger","Porter",1
+"Messenger","Salisbury",1
+"Messenger","Talbot",3
+"Messenger","York",1
+"Messenger","Lucy",1
+"Mortimer","Plantagenet",1
+"Of Auvergne","Plantagenet",1
+"Of Auvergne","Porter",1
+"Of Auvergne","Somerset",1
+"Of Auvergne","Suffolk",1
+"Of Auvergne","Talbot",1
+"Of Auvergne","Vernon",1
+"Of Auvergne","Warwick",1
+"Of Auvergne","Lawyer",1
+"Of Winchester","Plantagenet",1
+"Of Winchester","Reignier",1
+"Of Winchester","Second Warder",1
+"Of Winchester","Shepherd",1
+"Of Winchester","Somerset",2
+"Of Winchester","Talbot",1
+"Of Winchester","Vernon",1
+"Of Winchester","Warwick",3
+"Of Winchester","Woodvile",1
+"Of Winchester","York",2
+"Of Winchester","Legate",1
+"Of Winchester","Officer",1
+"Plantagenet","Somerset",2
+"Plantagenet","Suffolk",1
+"Plantagenet","Vernon",1
+"Plantagenet","Warwick",2
+"Plantagenet","Lawyer",1
+"Porter","Talbot",1
+"Reignier","Sentinels",1
+"Reignier","Sergeant",1
+"Reignier","Shepherd",1
+"Reignier","Suffolk",1
+"Reignier","Talbot",2
+"Reignier","Warwick",1
+"Reignier","Watch",1
+"Reignier","York",2
+"Reignier","Soldier",1
+"Reignier","Su Ffolk",1
+"Salisbury","Talbot",1
+"Second Warder","Woodvile",1
+"Second Warder","Officer",1
+"Sentinels","Sergeant",1
+"Sentinels","Talbot",1
+"Sentinels","Soldier",1
+"Sergeant","Talbot",1
+"Sergeant","Soldier",1
+"Servant","Talbot",1
+"Servant","Lucy",1
+"Shepherd","Warwick",1
+"Shepherd","York",1
+"Somerset","Suffolk",1
+"Somerset","Talbot",1
+"Somerset","Vernon",2
+"Somerset","Warwick",3
+"Somerset","York",1
+"Somerset","Lucy",1
+"Somerset","Lawyer",1
+"Suffolk","Vernon",1
+"Suffolk","Warwick",1
+"Suffolk","York",1
+"Suffolk","Su Ffolk",1
+"Suffolk","Lawyer",1
+"Talbot","Vernon",2
+"Talbot","Warwick",1
+"Talbot","Watch",1
+"Talbot","York",1
+"Talbot","Soldier",1
+"Talbot","Lucy",1
+"Talbot","General",1
+"Talbot","John Talbot",2
+"Vernon","Warwick",2
+"Vernon","York",1
+"Vernon","Lawyer",1
+"Warwick","York",2
+"Warwick","Lawyer",1
+"Woodvile","Officer",1
+"York","Lucy",1
+"York","Su Ffolk",1

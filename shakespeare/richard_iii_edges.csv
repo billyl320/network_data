@@ -1,0 +1,478 @@
+"from","to","weight"
+"All","Blunt",1
+"All","Catesby",1
+"All","Derby",1
+"All","Ghost Of Clarence",1
+"All","Ghost Of Grey",1
+"All","Ghost Of Hastings",1
+"All","Ghost Of Lady Anne",1
+"All","Ghost Of Rivers",1
+"All","Ghost Of Vaughan",1
+"All","King Richard Iii",1
+"All","Lords",1
+"All","Messenger",1
+"All","Norfolk",1
+"All","Of Buckingham",1
+"All","Of King Henry Vi",1
+"All","Of Prince Edward",1
+"All","Of Young Princes",1
+"All","Ratcliff",1
+"All","Richmond",1
+"All","Surrey",1
+"Another","Buckingham",1
+"Another","Catesby",1
+"Another","Gloucester",1
+"Another","Lord Mayor",1
+"Another","Citizens",1
+"Archbishop Of York","Duchess Of York",1
+"Archbishop Of York","Messenger",1
+"Archbishop Of York","Queen Elizabeth",1
+"Archbishop Of York","York",1
+"Bishop Of Ely","Buckingham",1
+"Bishop Of Ely","Derby",1
+"Bishop Of Ely","Gloucester",1
+"Bishop Of Ely","Hastings",1
+"Bishop Of Ely","Lovel",1
+"Bishop Of Ely","Ratcliff",1
+"Blunt","Catesby",1
+"Blunt","Derby",1
+"Blunt","Ghost Of Clarence",1
+"Blunt","Ghost Of Grey",1
+"Blunt","Ghost Of Hastings",1
+"Blunt","Ghost Of Lady Anne",1
+"Blunt","Ghost Of Rivers",1
+"Blunt","Ghost Of Vaughan",1
+"Blunt","Herbert",1
+"Blunt","King Richard Iii",1
+"Blunt","Lords",1
+"Blunt","Messenger",1
+"Blunt","Norfolk",1
+"Blunt","Of Buckingham",1
+"Blunt","Of King Henry Vi",1
+"Blunt","Of Prince Edward",1
+"Blunt","Of Young Princes",1
+"Blunt","Oxford",1
+"Blunt","Ratcliff",1
+"Blunt","Richmond",2
+"Blunt","Surrey",1
+"Boy","Buckingham",1
+"Boy","Children",1
+"Boy","Dorset",1
+"Boy","Duchess Of York",1
+"Boy","Girl",1
+"Boy","Gloucester",1
+"Boy","Hastings",1
+"Boy","Queen Elizabeth",1
+"Boy","Rivers",1
+"Brakenbury","Clarence",2
+"Brakenbury","Dorset",1
+"Brakenbury","Duchess Of York",1
+"Brakenbury","First Murderer",1
+"Brakenbury","Gloucester",1
+"Brakenbury","Hastings",1
+"Brakenbury","Lady Anne",1
+"Brakenbury","Lord Stanley",1
+"Brakenbury","Queen Elizabeth",1
+"Brakenbury","Second Murderer",2
+"Brakenbury","Both",1
+"Buckingham","Cardinal",1
+"Buckingham","Catesby",5
+"Buckingham","Children",1
+"Buckingham","Derby",2
+"Buckingham","Dorset",3
+"Buckingham","Duchess Of York",1
+"Buckingham","First Murderer",1
+"Buckingham","Girl",1
+"Buckingham","Gloucester",7
+"Buckingham","Grey",1
+"Buckingham","Hastings",6
+"Buckingham","King Edward Iv",1
+"Buckingham","King Richard Iii",1
+"Buckingham","Lord Mayor",3
+"Buckingham","Lord Stanley",1
+"Buckingham","Lovel",2
+"Buckingham","Messenger",1
+"Buckingham","Page",1
+"Buckingham","Priest",1
+"Buckingham","Prince Edward",1
+"Buckingham","Pursuivant",1
+"Buckingham","Queen Elizabeth",3
+"Buckingham","Queen Margaret",1
+"Buckingham","Ratcliff",1
+"Buckingham","Rivers",3
+"Buckingham","Stanley",2
+"Buckingham","Tyrrel",1
+"Buckingham","York",1
+"Buckingham","Citizens",1
+"Buckingham","Sheriff",1
+"Cardinal","Catesby",1
+"Cardinal","Gloucester",1
+"Cardinal","Hastings",1
+"Cardinal","Lord Mayor",1
+"Cardinal","Prince Edward",1
+"Cardinal","York",1
+"Catesby","Derby",2
+"Catesby","Dorset",1
+"Catesby","Duchess Of York",1
+"Catesby","First Murderer",1
+"Catesby","Ghost Of Clarence",1
+"Catesby","Ghost Of Grey",1
+"Catesby","Ghost Of Hastings",1
+"Catesby","Ghost Of Lady Anne",1
+"Catesby","Ghost Of Rivers",1
+"Catesby","Ghost Of Vaughan",1
+"Catesby","Gloucester",3
+"Catesby","Grey",1
+"Catesby","Hastings",3
+"Catesby","King Richard Iii",5
+"Catesby","Lord Mayor",2
+"Catesby","Lord Stanley",1
+"Catesby","Lords",1
+"Catesby","Messenger",3
+"Catesby","Norfolk",1
+"Catesby","Of Buckingham",1
+"Catesby","Of King Henry Vi",1
+"Catesby","Of Prince Edward",1
+"Catesby","Of Young Princes",1
+"Catesby","Page",1
+"Catesby","Priest",1
+"Catesby","Prince Edward",1
+"Catesby","Pursuivant",1
+"Catesby","Queen Elizabeth",2
+"Catesby","Queen Margaret",2
+"Catesby","Ratcliff",2
+"Catesby","Richmond",1
+"Catesby","Rivers",1
+"Catesby","Second Messenger",1
+"Catesby","Stanley",3
+"Catesby","Surrey",1
+"Catesby","Third Messenger",1
+"Catesby","Tyrrel",2
+"Catesby","York",1
+"Catesby","Citizens",1
+"Catesby","Fourth Messenger",1
+"Children","Dorset",1
+"Children","Duchess Of York",1
+"Children","Girl",1
+"Children","Gloucester",1
+"Children","Hastings",1
+"Children","Queen Elizabeth",1
+"Children","Rivers",1
+"Clarence","First Murderer",1
+"Clarence","Gloucester",1
+"Clarence","Hastings",1
+"Clarence","Second Murderer",2
+"Clarence","Both",1
+"Derby","Dorset",1
+"Derby","First Murderer",1
+"Derby","Ghost Of Clarence",1
+"Derby","Ghost Of Grey",1
+"Derby","Ghost Of Hastings",1
+"Derby","Ghost Of Lady Anne",1
+"Derby","Ghost Of Rivers",1
+"Derby","Ghost Of Vaughan",1
+"Derby","Gloucester",2
+"Derby","Grey",1
+"Derby","Hastings",2
+"Derby","King Richard Iii",1
+"Derby","Lords",1
+"Derby","Lovel",1
+"Derby","Messenger",1
+"Derby","Norfolk",1
+"Derby","Of Buckingham",1
+"Derby","Of King Henry Vi",1
+"Derby","Of Prince Edward",1
+"Derby","Of Young Princes",1
+"Derby","Queen Elizabeth",1
+"Derby","Queen Margaret",1
+"Derby","Ratcliff",2
+"Derby","Richmond",2
+"Derby","Rivers",1
+"Derby","Surrey",1
+"Derby","Christopher",1
+"Dorset","Duchess Of York",2
+"Dorset","First Murderer",1
+"Dorset","Girl",1
+"Dorset","Gloucester",3
+"Dorset","Grey",1
+"Dorset","Hastings",3
+"Dorset","King Edward Iv",1
+"Dorset","Lady Anne",1
+"Dorset","Lord Stanley",1
+"Dorset","Queen Elizabeth",4
+"Dorset","Queen Margaret",1
+"Dorset","Rivers",3
+"Duchess Of York","Girl",1
+"Duchess Of York","Gloucester",1
+"Duchess Of York","Hastings",1
+"Duchess Of York","King Richard Iii",1
+"Duchess Of York","Lady Anne",1
+"Duchess Of York","Lord Stanley",1
+"Duchess Of York","Messenger",2
+"Duchess Of York","Queen Elizabeth",4
+"Duchess Of York","Queen Margaret",1
+"Duchess Of York","Ratcliff",1
+"Duchess Of York","Rivers",1
+"Duchess Of York","Second Messenger",1
+"Duchess Of York","Stanley",1
+"Duchess Of York","Third Messenger",1
+"Duchess Of York","York",1
+"Duchess Of York","Fourth Messenger",1
+"First Citizen","Second Citizen",1
+"First Citizen","Third Citizen",1
+"First Murderer","Gloucester",1
+"First Murderer","Grey",1
+"First Murderer","Hastings",1
+"First Murderer","Queen Elizabeth",1
+"First Murderer","Queen Margaret",1
+"First Murderer","Rivers",1
+"First Murderer","Second Murderer",2
+"First Murderer","Both",1
+"Gentleman","Gloucester",1
+"Gentleman","Lady Anne",1
+"Gentleman","Gentlemen",1
+"Ghost Of Clarence","Ghost Of Grey",1
+"Ghost Of Clarence","Ghost Of Hastings",1
+"Ghost Of Clarence","Ghost Of Lady Anne",1
+"Ghost Of Clarence","Ghost Of Rivers",1
+"Ghost Of Clarence","Ghost Of Vaughan",1
+"Ghost Of Clarence","King Richard Iii",1
+"Ghost Of Clarence","Lords",1
+"Ghost Of Clarence","Messenger",1
+"Ghost Of Clarence","Norfolk",1
+"Ghost Of Clarence","Of Buckingham",1
+"Ghost Of Clarence","Of King Henry Vi",1
+"Ghost Of Clarence","Of Prince Edward",1
+"Ghost Of Clarence","Of Young Princes",1
+"Ghost Of Clarence","Ratcliff",1
+"Ghost Of Clarence","Richmond",1
+"Ghost Of Clarence","Surrey",1
+"Ghost Of Grey","Ghost Of Hastings",1
+"Ghost Of Grey","Ghost Of Lady Anne",1
+"Ghost Of Grey","Ghost Of Rivers",1
+"Ghost Of Grey","Ghost Of Vaughan",1
+"Ghost Of Grey","King Richard Iii",1
+"Ghost Of Grey","Lords",1
+"Ghost Of Grey","Messenger",1
+"Ghost Of Grey","Norfolk",1
+"Ghost Of Grey","Of Buckingham",1
+"Ghost Of Grey","Of King Henry Vi",1
+"Ghost Of Grey","Of Prince Edward",1
+"Ghost Of Grey","Of Young Princes",1
+"Ghost Of Grey","Ratcliff",1
+"Ghost Of Grey","Richmond",1
+"Ghost Of Grey","Surrey",1
+"Ghost Of Hastings","Ghost Of Lady Anne",1
+"Ghost Of Hastings","Ghost Of Rivers",1
+"Ghost Of Hastings","Ghost Of Vaughan",1
+"Ghost Of Hastings","King Richard Iii",1
+"Ghost Of Hastings","Lords",1
+"Ghost Of Hastings","Messenger",1
+"Ghost Of Hastings","Norfolk",1
+"Ghost Of Hastings","Of Buckingham",1
+"Ghost Of Hastings","Of King Henry Vi",1
+"Ghost Of Hastings","Of Prince Edward",1
+"Ghost Of Hastings","Of Young Princes",1
+"Ghost Of Hastings","Ratcliff",1
+"Ghost Of Hastings","Richmond",1
+"Ghost Of Hastings","Surrey",1
+"Ghost Of Lady Anne","Ghost Of Rivers",1
+"Ghost Of Lady Anne","Ghost Of Vaughan",1
+"Ghost Of Lady Anne","King Richard Iii",1
+"Ghost Of Lady Anne","Lords",1
+"Ghost Of Lady Anne","Messenger",1
+"Ghost Of Lady Anne","Norfolk",1
+"Ghost Of Lady Anne","Of Buckingham",1
+"Ghost Of Lady Anne","Of King Henry Vi",1
+"Ghost Of Lady Anne","Of Prince Edward",1
+"Ghost Of Lady Anne","Of Young Princes",1
+"Ghost Of Lady Anne","Ratcliff",1
+"Ghost Of Lady Anne","Richmond",1
+"Ghost Of Lady Anne","Surrey",1
+"Ghost Of Rivers","Ghost Of Vaughan",1
+"Ghost Of Rivers","King Richard Iii",1
+"Ghost Of Rivers","Lords",1
+"Ghost Of Rivers","Messenger",1
+"Ghost Of Rivers","Norfolk",1
+"Ghost Of Rivers","Of Buckingham",1
+"Ghost Of Rivers","Of King Henry Vi",1
+"Ghost Of Rivers","Of Prince Edward",1
+"Ghost Of Rivers","Of Young Princes",1
+"Ghost Of Rivers","Ratcliff",1
+"Ghost Of Rivers","Richmond",1
+"Ghost Of Rivers","Surrey",1
+"Ghost Of Vaughan","King Richard Iii",1
+"Ghost Of Vaughan","Lords",1
+"Ghost Of Vaughan","Messenger",1
+"Ghost Of Vaughan","Norfolk",1
+"Ghost Of Vaughan","Of Buckingham",1
+"Ghost Of Vaughan","Of King Henry Vi",1
+"Ghost Of Vaughan","Of Prince Edward",1
+"Ghost Of Vaughan","Of Young Princes",1
+"Ghost Of Vaughan","Ratcliff",1
+"Ghost Of Vaughan","Richmond",1
+"Ghost Of Vaughan","Surrey",1
+"Girl","Gloucester",1
+"Girl","Hastings",1
+"Girl","Queen Elizabeth",1
+"Girl","Rivers",1
+"Gloucester","Grey",1
+"Gloucester","Hastings",6
+"Gloucester","King Edward Iv",1
+"Gloucester","Lady Anne",1
+"Gloucester","Lord Mayor",3
+"Gloucester","Lovel",2
+"Gloucester","Prince Edward",1
+"Gloucester","Queen Elizabeth",3
+"Gloucester","Queen Margaret",1
+"Gloucester","Ratcliff",1
+"Gloucester","Rivers",3
+"Gloucester","York",1
+"Gloucester","Citizens",1
+"Gloucester","Gentlemen",1
+"Grey","Hastings",1
+"Grey","Queen Elizabeth",1
+"Grey","Queen Margaret",1
+"Grey","Ratcliff",1
+"Grey","Rivers",2
+"Grey","Vaughan",1
+"Hastings","King Edward Iv",1
+"Hastings","Lord Mayor",1
+"Hastings","Lord Stanley",1
+"Hastings","Lovel",1
+"Hastings","Messenger",1
+"Hastings","Priest",1
+"Hastings","Prince Edward",1
+"Hastings","Pursuivant",1
+"Hastings","Queen Elizabeth",3
+"Hastings","Queen Margaret",1
+"Hastings","Ratcliff",1
+"Hastings","Rivers",3
+"Hastings","Stanley",1
+"Hastings","York",1
+"Herbert","Oxford",1
+"Herbert","Richmond",1
+"King Edward Iv","Queen Elizabeth",1
+"King Edward Iv","Rivers",1
+"King Richard Iii","Lords",1
+"King Richard Iii","Messenger",2
+"King Richard Iii","Norfolk",1
+"King Richard Iii","Of Buckingham",1
+"King Richard Iii","Of King Henry Vi",1
+"King Richard Iii","Of Prince Edward",1
+"King Richard Iii","Of Young Princes",1
+"King Richard Iii","Page",1
+"King Richard Iii","Queen Elizabeth",1
+"King Richard Iii","Queen Margaret",1
+"King Richard Iii","Ratcliff",2
+"King Richard Iii","Richmond",1
+"King Richard Iii","Second Messenger",1
+"King Richard Iii","Stanley",2
+"King Richard Iii","Surrey",1
+"King Richard Iii","Third Messenger",1
+"King Richard Iii","Tyrrel",2
+"King Richard Iii","Fourth Messenger",1
+"Lady Anne","Lord Stanley",1
+"Lady Anne","Queen Elizabeth",1
+"Lady Anne","Gentlemen",1
+"Lord Mayor","Lovel",1
+"Lord Mayor","Prince Edward",1
+"Lord Mayor","York",1
+"Lord Mayor","Citizens",1
+"Lord Stanley","Messenger",1
+"Lord Stanley","Priest",1
+"Lord Stanley","Pursuivant",1
+"Lord Stanley","Queen Elizabeth",1
+"Lord Stanley","Stanley",1
+"Lords","Messenger",1
+"Lords","Norfolk",1
+"Lords","Of Buckingham",1
+"Lords","Of King Henry Vi",1
+"Lords","Of Prince Edward",1
+"Lords","Of Young Princes",1
+"Lords","Ratcliff",1
+"Lords","Richmond",1
+"Lords","Surrey",1
+"Lovel","Ratcliff",1
+"Messenger","Norfolk",1
+"Messenger","Of Buckingham",1
+"Messenger","Of King Henry Vi",1
+"Messenger","Of Prince Edward",1
+"Messenger","Of Young Princes",1
+"Messenger","Priest",1
+"Messenger","Pursuivant",1
+"Messenger","Queen Elizabeth",2
+"Messenger","Queen Margaret",1
+"Messenger","Ratcliff",2
+"Messenger","Richmond",1
+"Messenger","Second Messenger",1
+"Messenger","Stanley",2
+"Messenger","Surrey",1
+"Messenger","Third Messenger",1
+"Messenger","York",1
+"Messenger","Fourth Messenger",1
+"Norfolk","Of Buckingham",1
+"Norfolk","Of King Henry Vi",1
+"Norfolk","Of Prince Edward",1
+"Norfolk","Of Young Princes",1
+"Norfolk","Ratcliff",1
+"Norfolk","Richmond",1
+"Norfolk","Surrey",1
+"Of Buckingham","Of King Henry Vi",1
+"Of Buckingham","Of Prince Edward",1
+"Of Buckingham","Of Young Princes",1
+"Of Buckingham","Ratcliff",1
+"Of Buckingham","Richmond",1
+"Of Buckingham","Surrey",1
+"Of King Henry Vi","Of Prince Edward",1
+"Of King Henry Vi","Of Young Princes",1
+"Of King Henry Vi","Ratcliff",1
+"Of King Henry Vi","Richmond",1
+"Of King Henry Vi","Surrey",1
+"Of Prince Edward","Of Young Princes",1
+"Of Prince Edward","Ratcliff",1
+"Of Prince Edward","Richmond",1
+"Of Prince Edward","Surrey",1
+"Of Young Princes","Ratcliff",1
+"Of Young Princes","Richmond",1
+"Of Young Princes","Surrey",1
+"Oxford","Richmond",1
+"Page","Stanley",1
+"Page","Tyrrel",1
+"Priest","Pursuivant",1
+"Priest","Stanley",1
+"Prince Edward","York",1
+"Pursuivant","Stanley",1
+"Queen Elizabeth","Queen Margaret",2
+"Queen Elizabeth","Ratcliff",1
+"Queen Elizabeth","Rivers",3
+"Queen Elizabeth","Second Messenger",1
+"Queen Elizabeth","Stanley",1
+"Queen Elizabeth","Third Messenger",1
+"Queen Elizabeth","York",1
+"Queen Elizabeth","Fourth Messenger",1
+"Queen Margaret","Ratcliff",1
+"Queen Margaret","Rivers",1
+"Queen Margaret","Second Messenger",1
+"Queen Margaret","Stanley",1
+"Queen Margaret","Third Messenger",1
+"Queen Margaret","Fourth Messenger",1
+"Ratcliff","Richmond",1
+"Ratcliff","Rivers",1
+"Ratcliff","Second Messenger",1
+"Ratcliff","Stanley",1
+"Ratcliff","Surrey",1
+"Ratcliff","Third Messenger",1
+"Ratcliff","Fourth Messenger",1
+"Ratcliff","Vaughan",1
+"Richmond","Surrey",1
+"Rivers","Vaughan",1
+"Second Citizen","Third Citizen",1
+"Second Messenger","Stanley",1
+"Second Messenger","Third Messenger",1
+"Second Messenger","Fourth Messenger",1
+"Second Murderer","Both",2
+"Stanley","Third Messenger",1
+"Stanley","Tyrrel",1
+"Stanley","Fourth Messenger",1
+"Third Messenger","Fourth Messenger",1

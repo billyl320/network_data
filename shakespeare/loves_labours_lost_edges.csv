@@ -1,0 +1,144 @@
+"from","to","weight"
+"Adriano De Armado","Armado",1
+"Adriano De Armado","Biron",2
+"Adriano De Armado","Boyet",2
+"Adriano De Armado","Costard",4
+"Adriano De Armado","Dull",2
+"Adriano De Armado","Dumain",1
+"Adriano De Armado","Ferdinand",1
+"Adriano De Armado","Holofernes",2
+"Adriano De Armado","Jaquenetta",1
+"Adriano De Armado","Katharine",1
+"Adriano De Armado","Longaville",1
+"Adriano De Armado","Maria",1
+"Adriano De Armado","Moth",4
+"Adriano De Armado","Princess",1
+"Adriano De Armado","Rosaline",1
+"Adriano De Armado","Sir Nathaniel",2
+"Adriano De Armado","Mercade",1
+"Armado","Costard",1
+"Armado","Dull",1
+"Armado","Jaquenetta",1
+"Armado","Moth",1
+"Biron","Boyet",3
+"Biron","Costard",4
+"Biron","Dull",1
+"Biron","Dumain",4
+"Biron","Ferdinand",4
+"Biron","First Lord",1
+"Biron","Holofernes",1
+"Biron","Jaquenetta",1
+"Biron","Katharine",2
+"Biron","Longaville",4
+"Biron","Maria",2
+"Biron","Moth",2
+"Biron","Princess",2
+"Biron","Rosaline",2
+"Biron","Sir Nathaniel",1
+"Biron","Mercade",1
+"Boyet","Costard",3
+"Boyet","Dumain",2
+"Boyet","Ferdinand",2
+"Boyet","First Lord",1
+"Boyet","Forester",1
+"Boyet","Holofernes",1
+"Boyet","Katharine",2
+"Boyet","Longaville",2
+"Boyet","Maria",3
+"Boyet","Moth",2
+"Boyet","Princess",3
+"Boyet","Rosaline",3
+"Boyet","Sir Nathaniel",1
+"Boyet","Mercade",1
+"Costard","Dull",4
+"Costard","Dumain",3
+"Costard","Ferdinand",3
+"Costard","Forester",1
+"Costard","Holofernes",3
+"Costard","Jaquenetta",3
+"Costard","Katharine",1
+"Costard","Longaville",3
+"Costard","Maria",2
+"Costard","Moth",4
+"Costard","Princess",2
+"Costard","Rosaline",2
+"Costard","Sir Nathaniel",3
+"Costard","Mercade",1
+"Dull","Dumain",1
+"Dull","Ferdinand",1
+"Dull","Holofernes",2
+"Dull","Jaquenetta",2
+"Dull","Longaville",1
+"Dull","Moth",2
+"Dull","Sir Nathaniel",2
+"Dumain","Ferdinand",4
+"Dumain","First Lord",1
+"Dumain","Holofernes",1
+"Dumain","Jaquenetta",1
+"Dumain","Katharine",2
+"Dumain","Longaville",4
+"Dumain","Maria",2
+"Dumain","Moth",1
+"Dumain","Princess",2
+"Dumain","Rosaline",2
+"Dumain","Sir Nathaniel",1
+"Dumain","Mercade",1
+"Ferdinand","First Lord",1
+"Ferdinand","Holofernes",1
+"Ferdinand","Jaquenetta",1
+"Ferdinand","Katharine",2
+"Ferdinand","Longaville",4
+"Ferdinand","Maria",2
+"Ferdinand","Moth",1
+"Ferdinand","Princess",2
+"Ferdinand","Rosaline",2
+"Ferdinand","Sir Nathaniel",1
+"Ferdinand","Mercade",1
+"First Lord","Katharine",1
+"First Lord","Longaville",1
+"First Lord","Maria",1
+"First Lord","Princess",1
+"First Lord","Rosaline",1
+"Forester","Maria",1
+"Forester","Princess",1
+"Forester","Rosaline",1
+"Holofernes","Jaquenetta",1
+"Holofernes","Katharine",1
+"Holofernes","Longaville",1
+"Holofernes","Maria",1
+"Holofernes","Moth",2
+"Holofernes","Princess",1
+"Holofernes","Rosaline",1
+"Holofernes","Sir Nathaniel",3
+"Holofernes","Mercade",1
+"Jaquenetta","Longaville",1
+"Jaquenetta","Moth",1
+"Jaquenetta","Sir Nathaniel",1
+"Katharine","Longaville",2
+"Katharine","Maria",2
+"Katharine","Moth",1
+"Katharine","Princess",2
+"Katharine","Rosaline",2
+"Katharine","Sir Nathaniel",1
+"Katharine","Mercade",1
+"Longaville","Maria",2
+"Longaville","Moth",1
+"Longaville","Princess",2
+"Longaville","Rosaline",2
+"Longaville","Sir Nathaniel",1
+"Longaville","Mercade",1
+"Maria","Moth",1
+"Maria","Princess",3
+"Maria","Rosaline",3
+"Maria","Sir Nathaniel",1
+"Maria","Mercade",1
+"Moth","Princess",1
+"Moth","Rosaline",1
+"Moth","Sir Nathaniel",2
+"Moth","Mercade",1
+"Princess","Rosaline",3
+"Princess","Sir Nathaniel",1
+"Princess","Mercade",1
+"Rosaline","Sir Nathaniel",1
+"Rosaline","Mercade",1
+"Sir Nathaniel","Mercade",1

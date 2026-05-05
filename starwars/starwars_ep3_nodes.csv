@@ -1,0 +1,25 @@
+"id","name","height","mass","hair_color","skin_color","eye_color","birth_year","sex","homeworld","species","n","m","directed"
+1,"1",96,32,NA,"white, blue","red",33,"none","Naboo","Droid",24,65,FALSE
+2,"2",188,84,"blond","fair","blue",41.9,"male","Tatooine","Human",24,65,FALSE
+3,"3",182,77,"auburn, white","fair","blue-gray",57,"male","Stewjon","Human",24,65,FALSE
+4,"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,24,65,FALSE
+5,"5",216,159,"none","brown, white","green, yellow",NA,"male","Kalee","Kaleesh",24,65,FALSE
+6,"6",170,75,"grey","pale","yellow",82,"male","Naboo","Human",24,65,FALSE
+7,"7",193,80,"white","fair","brown",102,"male","Serenno","Human",24,65,FALSE
+8,"8",191,NA,"black","tan","brown",67,"male","Alderaan","Human",24,65,FALSE
+9,"9",167,75,NA,"gold","yellow",112,"none","Tatooine","Droid",24,65,FALSE
+10,"10",165,45,"brown","light","brown",46,"female","Naboo","Human",24,65,FALSE
+11,"11",66,17,"white","green","brown",896,"male",NA,"Yoda's species",24,65,FALSE
+12,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,24,65,FALSE
+13,"13",150,NA,"auburn","fair","blue",48,"female","Chandrila","Human",24,65,FALSE
+14,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,24,65,FALSE
+15,"15",188,84,"none","dark","brown",72,"male","Haruun Kal","Human",24,65,FALSE
+16,"16",185,85,"black","dark","brown",NA,"male","Naboo","Human",24,65,FALSE
+17,"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,24,65,FALSE
+18,"18",NA,NA,NA,NA,NA,NA,NA,NA,NA,24,65,FALSE
+19,"19",196,66,"none","orange","orange",52,"male","Naboo","Gungan",24,65,FALSE
+20,"20",206,80,"none","grey","black",NA,"male","Utapau","Pau'an",24,65,FALSE
+21,"21",191,90,"none","mottled green","red",NA,"male","Cato Neimoidia","Neimodian",24,65,FALSE
+22,"22",188,79,"brown","light","brown",NA,"male","Alderaan","Human",24,65,FALSE
+23,"23",202,136,"none","white","yellow",41.9,"male","Tatooine","Human",24,65,FALSE
+24,"24",193,89,"brown","fair","blue",92,"male",NA,"Human",24,65,FALSE

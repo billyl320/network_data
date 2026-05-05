@@ -1,0 +1,22 @@
+"id","name","height","mass","hair_color","skin_color","eye_color","birth_year","sex","homeworld","species","n","m","directed"
+1,"1",96,32,NA,"white, blue","red",33,"none","Naboo","Droid",21,55,FALSE
+2,"2",228,112,"brown","unknown","blue",200,"male","Kashyyyk","Wookiee",21,55,FALSE
+3,"3",172,77,"blond","fair","blue",19,"male","Tatooine","Human",21,55,FALSE
+4,"4",180,80,"brown","fair","brown",29,"male","Corellia","Human",21,55,FALSE
+5,"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+6,"6",150,49,"brown","light","brown",19,"female","Alderaan","Human",21,55,FALSE
+7,"7",167,75,NA,"gold","yellow",112,"none","Tatooine","Droid",21,55,FALSE
+8,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+9,"9",182,77,"auburn, white","fair","blue-gray",57,"male","Stewjon","Human",21,55,FALSE
+10,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+11,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+12,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+13,"13",202,136,"none","white","yellow",41.9,"male","Tatooine","Human",21,55,FALSE
+14,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+15,"15",170,77,"brown","fair","hazel",21,"male","Corellia","Human",21,55,FALSE
+16,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+17,"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,21,55,FALSE
+18,"18",170,75,"grey","pale","yellow",82,"male","Naboo","Human",21,55,FALSE
+19,"19",66,17,"white","green","brown",896,"male",NA,"Yoda's species",21,55,FALSE
+20,"20",183,78.2,"black","fair","brown",31.5,"male","Kamino","Human",21,55,FALSE
+21,"21",177,79,"black","dark","brown",31,"male","Socorro","Human",21,55,FALSE

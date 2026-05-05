@@ -1,0 +1,111 @@
+"from","to","weight"
+"A Lord","Jaques",1
+"A Lord","Forester",1
+"Adam","Amiens",1
+"Adam","Dennis",1
+"Adam","Duke Senior",1
+"Adam","First Lord",1
+"Adam","Jaques",1
+"Adam","Oliver",1
+"Adam","Orlando",4
+"Adam","Charles",1
+"Amiens","Corin",1
+"Amiens","Duke Senior",2
+"Amiens","First Lord",2
+"Amiens","Jaques",2
+"Amiens","Orlando",1
+"Amiens","Second Lord",1
+"Audrey","Corin",1
+"Audrey","First Page",1
+"Audrey","Jaques",1
+"Audrey","Touchstone",3
+"Audrey","William",1
+"Audrey","Second Page",1
+"Audrey","Sir Oliver Martext",1
+"Celia","Corin",3
+"Celia","Duke Frederick",2
+"Celia","Jaques",2
+"Celia","Le Beau",1
+"Celia","Oliver",1
+"Celia","Orlando",3
+"Celia","Rosalind",7
+"Celia","Silvius",2
+"Celia","Touchstone",3
+"Celia","Charles",1
+"Corin","Jaques",2
+"Corin","Orlando",1
+"Corin","Rosalind",3
+"Corin","Silvius",1
+"Corin","Touchstone",3
+"Corin","William",1
+"Dennis","Oliver",1
+"Dennis","Orlando",1
+"Dennis","Charles",1
+"Duke Frederick","First Lord",1
+"Duke Frederick","Le Beau",1
+"Duke Frederick","Oliver",1
+"Duke Frederick","Orlando",1
+"Duke Frederick","Rosalind",2
+"Duke Frederick","Touchstone",1
+"Duke Frederick","Charles",1
+"Duke Frederick","Second Lord",1
+"Duke Senior","First Lord",2
+"Duke Senior","Hymen",1
+"Duke Senior","Jaques",2
+"Duke Senior","Orlando",2
+"Duke Senior","Phebe",1
+"Duke Senior","Rosalind",1
+"Duke Senior","Silvius",1
+"Duke Senior","Touchstone",1
+"Duke Senior","Second Lord",1
+"Duke Senior","Jaques De Boys",1
+"First Lord","Jaques",1
+"First Lord","Orlando",1
+"First Lord","Second Lord",2
+"First Page","Touchstone",1
+"First Page","Second Page",1
+"Hymen","Jaques",1
+"Hymen","Orlando",1
+"Hymen","Phebe",1
+"Hymen","Rosalind",1
+"Hymen","Silvius",1
+"Hymen","Touchstone",1
+"Hymen","Jaques De Boys",1
+"Jaques","Orlando",4
+"Jaques","Phebe",1
+"Jaques","Rosalind",3
+"Jaques","Silvius",1
+"Jaques","Touchstone",3
+"Jaques","Forester",1
+"Jaques","Sir Oliver Martext",1
+"Jaques","Jaques De Boys",1
+"Le Beau","Orlando",1
+"Le Beau","Rosalind",1
+"Le Beau","Touchstone",1
+"Le Beau","Charles",1
+"Oliver","Orlando",2
+"Oliver","Phebe",1
+"Oliver","Rosalind",2
+"Oliver","Silvius",2
+"Oliver","Charles",1
+"Orlando","Phebe",2
+"Orlando","Rosalind",5
+"Orlando","Silvius",2
+"Orlando","Touchstone",3
+"Orlando","Charles",2
+"Orlando","Jaques De Boys",1
+"Phebe","Rosalind",3
+"Phebe","Silvius",3
+"Phebe","Touchstone",1
+"Phebe","Jaques De Boys",1
+"Rosalind","Silvius",5
+"Rosalind","Touchstone",4
+"Rosalind","Charles",1
+"Rosalind","Jaques De Boys",1
+"Silvius","Touchstone",2
+"Silvius","Jaques De Boys",1
+"Touchstone","William",1
+"Touchstone","Charles",1
+"Touchstone","Second Page",1
+"Touchstone","Sir Oliver Martext",1
+"Touchstone","Jaques De Boys",1

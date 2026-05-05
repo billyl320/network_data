@@ -1,0 +1,314 @@
+"from","to","weight"
+"Agrippa","All",1
+"Agrippa","Dercetas",1
+"Agrippa","Dolabella",1
+"Agrippa","Domitius Enobarbus",3
+"Agrippa","Egyptian",1
+"Agrippa","Eros",1
+"Agrippa","Lepidus",3
+"Agrippa","Mark Antony",3
+"Agrippa","Mecaenas",4
+"Agrippa","Messenger",1
+"Agrippa","Octavia",2
+"Agrippa","Octavius Caesar",5
+"Agrippa","Proculeius",1
+"Agrippa","Scarus",1
+"Agrippa","Soldier",1
+"Alexas","Charmian",3
+"Alexas","Cleopatra",3
+"Alexas","Domitius Enobarbus",1
+"Alexas","First Attendant",1
+"Alexas","Iras",1
+"Alexas","Mardian",1
+"Alexas","Mark Antony",1
+"Alexas","Messenger",2
+"Alexas","Second Attendant",1
+"Alexas","Soothsayer",1
+"Alexas","Second Messenger",1
+"All","Captain",1
+"All","Charmian",3
+"All","Cleopatra",4
+"All","Dercetas",2
+"All","Diomedes",2
+"All","Dolabella",1
+"All","Domitius Enobarbus",1
+"All","Egyptian",1
+"All","Eros",3
+"All","First Guard",1
+"All","First Soldier",1
+"All","Fourth Soldier",1
+"All","Iras",2
+"All","Mardian",1
+"All","Mark Antony",5
+"All","Mecaenas",1
+"All","Octavius Caesar",1
+"All","Proculeius",1
+"All","Second Guard",1
+"All","Second Soldier",1
+"All","Soldier",1
+"All","Third Guard",1
+"All","Third Soldier",1
+"Attendant","Cleopatra",2
+"Attendant","Domitius Enobarbus",1
+"Attendant","Euphronius",1
+"Attendant","First Attendant",1
+"Attendant","Mark Antony",2
+"Attendant","Philo",1
+"Attendant","Thyreus",1
+"Attendant","Demetrius",1
+"Attendants","Charmian",1
+"Attendants","Cleopatra",1
+"Attendants","Mardian",1
+"Attendants","Messenger",1
+"Canidius","Cleopatra",1
+"Canidius","Domitius Enobarbus",2
+"Canidius","Mark Antony",1
+"Canidius","Messenger",1
+"Canidius","Scarus",1
+"Canidius","Soldier",1
+"Captain","Charmian",1
+"Captain","Cleopatra",1
+"Captain","Eros",1
+"Captain","Mark Antony",1
+"Captain","Soldier",1
+"Charmian","Cleopatra",10
+"Charmian","Clown",1
+"Charmian","Diomedes",1
+"Charmian","Dolabella",1
+"Charmian","Domitius Enobarbus",1
+"Charmian","Eros",2
+"Charmian","First Attendant",1
+"Charmian","First Guard",1
+"Charmian","Gallus",1
+"Charmian","Guard",1
+"Charmian","Iras",4
+"Charmian","Mardian",2
+"Charmian","Mark Antony",5
+"Charmian","Messenger",3
+"Charmian","Octavius Caesar",1
+"Charmian","Proculeius",1
+"Charmian","Second Attendant",1
+"Charmian","Second Guard",1
+"Charmian","Seleucus",1
+"Charmian","Soldier",1
+"Charmian","Soothsayer",1
+"Charmian","Second Messenger",1
+"Cleopatra","Clown",1
+"Cleopatra","Diomedes",1
+"Cleopatra","Dolabella",1
+"Cleopatra","Domitius Enobarbus",4
+"Cleopatra","Eros",2
+"Cleopatra","Euphronius",1
+"Cleopatra","First Attendant",2
+"Cleopatra","First Guard",1
+"Cleopatra","Gallus",1
+"Cleopatra","Guard",1
+"Cleopatra","Iras",4
+"Cleopatra","Mardian",2
+"Cleopatra","Mark Antony",11
+"Cleopatra","Messenger",4
+"Cleopatra","Octavius Caesar",1
+"Cleopatra","Philo",1
+"Cleopatra","Proculeius",1
+"Cleopatra","Scarus",1
+"Cleopatra","Second Attendant",1
+"Cleopatra","Second Guard",1
+"Cleopatra","Seleucus",1
+"Cleopatra","Soldier",2
+"Cleopatra","Soothsayer",1
+"Cleopatra","Thyreus",1
+"Cleopatra","Second Messenger",1
+"Cleopatra","Demetrius",1
+"Clown","Dolabella",1
+"Clown","First Guard",1
+"Clown","Gallus",1
+"Clown","Guard",1
+"Clown","Iras",1
+"Clown","Octavius Caesar",1
+"Clown","Proculeius",1
+"Clown","Second Guard",1
+"Clown","Seleucus",1
+"Dercetas","Diomedes",1
+"Dercetas","Dolabella",1
+"Dercetas","Egyptian",1
+"Dercetas","Eros",1
+"Dercetas","First Guard",1
+"Dercetas","Mardian",1
+"Dercetas","Mark Antony",1
+"Dercetas","Mecaenas",1
+"Dercetas","Octavius Caesar",1
+"Dercetas","Proculeius",1
+"Dercetas","Second Guard",1
+"Dercetas","Third Guard",1
+"Diomedes","Eros",1
+"Diomedes","First Guard",1
+"Diomedes","Iras",1
+"Diomedes","Mardian",1
+"Diomedes","Mark Antony",2
+"Diomedes","Second Guard",1
+"Diomedes","Third Guard",1
+"Dolabella","Egyptian",1
+"Dolabella","Euphronius",1
+"Dolabella","First Guard",1
+"Dolabella","Gallus",1
+"Dolabella","Guard",1
+"Dolabella","Iras",1
+"Dolabella","Mecaenas",1
+"Dolabella","Octavius Caesar",3
+"Dolabella","Proculeius",2
+"Dolabella","Second Guard",1
+"Dolabella","Seleucus",1
+"Dolabella","Thyreus",1
+"Domitius Enobarbus","Eros",1
+"Domitius Enobarbus","Euphronius",1
+"Domitius Enobarbus","First Attendant",2
+"Domitius Enobarbus","First Servant",1
+"Domitius Enobarbus","First Soldier",1
+"Domitius Enobarbus","Iras",1
+"Domitius Enobarbus","Lepidus",4
+"Domitius Enobarbus","Mark Antony",8
+"Domitius Enobarbus","Mecaenas",1
+"Domitius Enobarbus","Menas",2
+"Domitius Enobarbus","Messenger",3
+"Domitius Enobarbus","Octavia",1
+"Domitius Enobarbus","Octavius Caesar",5
+"Domitius Enobarbus","Pompey",2
+"Domitius Enobarbus","Scarus",1
+"Domitius Enobarbus","Second Attendant",1
+"Domitius Enobarbus","Second Servant",1
+"Domitius Enobarbus","Second Soldier",1
+"Domitius Enobarbus","Soldier",2
+"Domitius Enobarbus","Soothsayer",1
+"Domitius Enobarbus","Third Soldier",1
+"Domitius Enobarbus","Thyreus",1
+"Domitius Enobarbus","Second Messenger",1
+"Egyptian","Mecaenas",1
+"Egyptian","Octavius Caesar",1
+"Egyptian","Proculeius",1
+"Eros","First Guard",1
+"Eros","Iras",1
+"Eros","Mardian",1
+"Eros","Mark Antony",5
+"Eros","Scarus",1
+"Eros","Second Guard",1
+"Eros","Soldier",2
+"Eros","Third Guard",1
+"Euphronius","First Attendant",1
+"Euphronius","Mark Antony",1
+"Euphronius","Octavius Caesar",1
+"Euphronius","Thyreus",2
+"First Attendant","Iras",1
+"First Attendant","Mark Antony",2
+"First Attendant","Messenger",1
+"First Attendant","Second Attendant",1
+"First Attendant","Soothsayer",1
+"First Attendant","Thyreus",1
+"First Attendant","Second Messenger",1
+"First Guard","Gallus",1
+"First Guard","Guard",1
+"First Guard","Iras",1
+"First Guard","Mardian",1
+"First Guard","Mark Antony",1
+"First Guard","Octavius Caesar",1
+"First Guard","Proculeius",1
+"First Guard","Second Guard",2
+"First Guard","Seleucus",1
+"First Guard","Third Guard",1
+"First Servant","Lepidus",1
+"First Servant","Mark Antony",1
+"First Servant","Menas",1
+"First Servant","Octavius Caesar",1
+"First Servant","Pompey",1
+"First Servant","Second Servant",1
+"First Soldier","Fourth Soldier",1
+"First Soldier","Second Soldier",2
+"First Soldier","Third Soldier",2
+"Fourth Soldier","Second Soldier",1
+"Fourth Soldier","Third Soldier",1
+"Gallus","Guard",1
+"Gallus","Iras",1
+"Gallus","Octavius Caesar",1
+"Gallus","Proculeius",1
+"Gallus","Second Guard",1
+"Gallus","Seleucus",1
+"Guard","Iras",1
+"Guard","Octavius Caesar",1
+"Guard","Proculeius",1
+"Guard","Second Guard",1
+"Guard","Seleucus",1
+"Iras","Mark Antony",3
+"Iras","Messenger",1
+"Iras","Octavius Caesar",1
+"Iras","Proculeius",1
+"Iras","Second Attendant",1
+"Iras","Second Guard",1
+"Iras","Seleucus",1
+"Iras","Soothsayer",1
+"Iras","Second Messenger",1
+"Lepidus","Mark Antony",4
+"Lepidus","Mecaenas",2
+"Lepidus","Menas",2
+"Lepidus","Messenger",1
+"Lepidus","Octavia",1
+"Lepidus","Octavius Caesar",5
+"Lepidus","Pompey",2
+"Lepidus","Second Servant",1
+"Mardian","Mark Antony",1
+"Mardian","Messenger",1
+"Mardian","Second Guard",1
+"Mardian","Third Guard",1
+"Mark Antony","Mecaenas",1
+"Mark Antony","Menas",2
+"Mark Antony","Messenger",2
+"Mark Antony","Octavia",3
+"Mark Antony","Octavius Caesar",5
+"Mark Antony","Philo",1
+"Mark Antony","Pompey",2
+"Mark Antony","Scarus",3
+"Mark Antony","Second Attendant",1
+"Mark Antony","Second Guard",1
+"Mark Antony","Second Servant",1
+"Mark Antony","Soldier",3
+"Mark Antony","Soothsayer",2
+"Mark Antony","Third Guard",1
+"Mark Antony","Thyreus",1
+"Mark Antony","Second Messenger",1
+"Mark Antony","Demetrius",1
+"Mecaenas","Octavia",1
+"Mecaenas","Octavius Caesar",4
+"Mecaenas","Proculeius",1
+"Menas","Menecrates",1
+"Menas","Octavius Caesar",2
+"Menas","Pompey",3
+"Menas","Second Servant",1
+"Menas","Varrius",1
+"Menecrates","Pompey",1
+"Menecrates","Varrius",1
+"Messenger","Octavius Caesar",2
+"Messenger","Second Attendant",1
+"Messenger","Soldier",2
+"Messenger","Soothsayer",1
+"Messenger","Second Messenger",1
+"Octavia","Octavius Caesar",3
+"Octavia","Soothsayer",1
+"Octavius Caesar","Pompey",2
+"Octavius Caesar","Proculeius",2
+"Octavius Caesar","Second Guard",1
+"Octavius Caesar","Second Servant",1
+"Octavius Caesar","Seleucus",1
+"Octavius Caesar","Soldier",1
+"Octavius Caesar","Soothsayer",1
+"Octavius Caesar","Thyreus",1
+"Octavius Caesar","Taurus",1
+"Philo","Demetrius",1
+"Pompey","Second Servant",1
+"Pompey","Varrius",1
+"Proculeius","Second Guard",1
+"Proculeius","Seleucus",1
+"Second Attendant","Soothsayer",1
+"Second Attendant","Second Messenger",1
+"Second Guard","Seleucus",1
+"Second Guard","Third Guard",1
+"Second Soldier","Third Soldier",2
+"Soothsayer","Second Messenger",1
+"Ventidius","Silius",1

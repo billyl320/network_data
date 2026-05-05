@@ -1,0 +1,353 @@
+"from","to","weight"
+"Alcibiades","All",1
+"Alcibiades","All Ladies",1
+"Alcibiades","Apemantus",3
+"Alcibiades","Both",1
+"Alcibiades","Cupid",1
+"Alcibiades","First Bandit",1
+"Alcibiades","First Lady",1
+"Alcibiades","First Lord",2
+"Alcibiades","First Senator",2
+"Alcibiades","Flavius",2
+"Alcibiades","Jeweller",1
+"Alcibiades","Lucilius",1
+"Alcibiades","Merchant",1
+"Alcibiades","Messenger",1
+"Alcibiades","Old Athenian",1
+"Alcibiades","Painter",1
+"Alcibiades","Phrynia",1
+"Alcibiades","Poet",1
+"Alcibiades","Second Bandit",1
+"Alcibiades","Second Lord",2
+"Alcibiades","Second Senator",2
+"Alcibiades","Second Servant",1
+"Alcibiades","Servant",1
+"Alcibiades","Third Bandit",1
+"Alcibiades","Third Lord",1
+"Alcibiades","Third Servant",1
+"Alcibiades","Timandra",1
+"Alcibiades","Timon",3
+"Alcibiades","Ventidius",1
+"Alcibiades","All Lords",1
+"Alcibiades","Banditti",1
+"Alcibiades","Soldier",1
+"Alcibiades","Third Senator",1
+"All","All Ladies",1
+"All","Apemantus",1
+"All","Cupid",1
+"All","First Lady",1
+"All","First Lord",1
+"All","Flavius",1
+"All","Second Lord",1
+"All","Second Servant",1
+"All","Servant",1
+"All","Third Lord",1
+"All","Third Servant",1
+"All","Timon",1
+"All","Ventidius",1
+"All","All Lords",1
+"All Ladies","Apemantus",1
+"All Ladies","Cupid",1
+"All Ladies","First Lady",1
+"All Ladies","First Lord",1
+"All Ladies","Flavius",1
+"All Ladies","Second Lord",1
+"All Ladies","Second Servant",1
+"All Ladies","Servant",1
+"All Ladies","Third Lord",1
+"All Ladies","Third Servant",1
+"All Ladies","Timon",1
+"All Ladies","Ventidius",1
+"All Ladies","All Lords",1
+"All Servants","Apemantus",1
+"All Servants","Caphis",1
+"All Servants","Flaminius",1
+"All Servants","Flavius",1
+"All Servants","Fool",1
+"All Servants","Page",1
+"All Servants","Servants",1
+"All Servants","Timon",1
+"Apemantus","Caphis",1
+"Apemantus","Cupid",1
+"Apemantus","First Bandit",1
+"Apemantus","First Lady",1
+"Apemantus","First Lord",2
+"Apemantus","Flaminius",1
+"Apemantus","Flavius",3
+"Apemantus","Fool",1
+"Apemantus","Jeweller",1
+"Apemantus","Lucilius",1
+"Apemantus","Merchant",1
+"Apemantus","Messenger",1
+"Apemantus","Old Athenian",1
+"Apemantus","Page",1
+"Apemantus","Painter",1
+"Apemantus","Phrynia",1
+"Apemantus","Poet",1
+"Apemantus","Second Bandit",1
+"Apemantus","Second Lord",2
+"Apemantus","Second Servant",1
+"Apemantus","Servant",1
+"Apemantus","Servants",1
+"Apemantus","Third Bandit",1
+"Apemantus","Third Lord",1
+"Apemantus","Third Servant",1
+"Apemantus","Timandra",1
+"Apemantus","Timon",4
+"Apemantus","Ventidius",1
+"Apemantus","All Lords",1
+"Apemantus","Banditti",1
+"Both","First Senator",2
+"Both","Flavius",1
+"Both","Painter",1
+"Both","Poet",1
+"Both","Prospero",1
+"Both","Second Senator",2
+"Both","Timon",1
+"Both","Soldier",1
+"Caphis","Flaminius",1
+"Caphis","Flavius",1
+"Caphis","Fool",1
+"Caphis","Page",1
+"Caphis","Senator",1
+"Caphis","Servants",1
+"Caphis","Timon",1
+"Cupid","First Lady",1
+"Cupid","First Lord",1
+"Cupid","Flavius",1
+"Cupid","Second Lord",1
+"Cupid","Second Servant",1
+"Cupid","Servant",1
+"Cupid","Third Lord",1
+"Cupid","Third Servant",1
+"Cupid","Timon",1
+"Cupid","Ventidius",1
+"Cupid","All Lords",1
+"First Bandit","Flavius",1
+"First Bandit","Phrynia",1
+"First Bandit","Second Bandit",1
+"First Bandit","Third Bandit",1
+"First Bandit","Timandra",1
+"First Bandit","Timon",1
+"First Bandit","Banditti",1
+"First Lady","First Lord",1
+"First Lady","Flavius",1
+"First Lady","Second Lord",1
+"First Lady","Second Servant",1
+"First Lady","Servant",1
+"First Lady","Third Lord",1
+"First Lady","Third Servant",1
+"First Lady","Timon",1
+"First Lady","Ventidius",1
+"First Lady","All Lords",1
+"First Lord","Flavius",1
+"First Lord","Jeweller",1
+"First Lord","Lucilius",1
+"First Lord","Merchant",1
+"First Lord","Messenger",1
+"First Lord","Old Athenian",1
+"First Lord","Painter",1
+"First Lord","Poet",1
+"First Lord","Second Lord",3
+"First Lord","Second Servant",1
+"First Lord","Servant",1
+"First Lord","Some Others",1
+"First Lord","Some Speak",1
+"First Lord","Third Lord",2
+"First Lord","Third Servant",1
+"First Lord","Timon",3
+"First Lord","Ventidius",1
+"First Lord","All Lords",1
+"First Lord","Fourth Lord",1
+"First Senator","Flavius",1
+"First Senator","Messenger",1
+"First Senator","Painter",1
+"First Senator","Poet",1
+"First Senator","Prospero",1
+"First Senator","Second Senator",4
+"First Senator","Timon",1
+"First Senator","Soldier",1
+"First Senator","Third Senator",2
+"First Servant","Flaminius",1
+"First Servant","Flavius",2
+"First Servant","Hortensius",1
+"First Servant","Philotus",1
+"First Servant","Second Servant",2
+"First Servant","Servant",1
+"First Servant","Servilius",1
+"First Servant","Third Servant",1
+"First Servant","Timon",1
+"First Servant","Titus",1
+"First Stranger","Lucilius",1
+"First Stranger","Second Stranger",1
+"First Stranger","Servilius",1
+"First Stranger","Third Stranger",1
+"Flaminius","Flavius",2
+"Flaminius","Fool",1
+"Flaminius","Hortensius",1
+"Flaminius","Page",1
+"Flaminius","Philotus",1
+"Flaminius","Second Servant",1
+"Flaminius","Servant",2
+"Flaminius","Servants",1
+"Flaminius","Servilius",1
+"Flaminius","Timon",2
+"Flaminius","Titus",1
+"Flaminius","Lucullus",1
+"Flavius","Fool",1
+"Flavius","Hortensius",1
+"Flavius","Page",1
+"Flavius","Painter",1
+"Flavius","Philotus",1
+"Flavius","Phrynia",1
+"Flavius","Poet",1
+"Flavius","Prospero",1
+"Flavius","Second Bandit",1
+"Flavius","Second Lord",1
+"Flavius","Second Senator",1
+"Flavius","Second Servant",3
+"Flavius","Servant",2
+"Flavius","Servants",1
+"Flavius","Servilius",1
+"Flavius","Third Bandit",1
+"Flavius","Third Lord",1
+"Flavius","Third Servant",2
+"Flavius","Timandra",1
+"Flavius","Timon",5
+"Flavius","Titus",1
+"Flavius","Ventidius",1
+"Flavius","All Lords",1
+"Flavius","Banditti",1
+"Fool","Page",1
+"Fool","Servants",1
+"Fool","Timon",1
+"Hortensius","Philotus",1
+"Hortensius","Second Servant",1
+"Hortensius","Servant",1
+"Hortensius","Servilius",1
+"Hortensius","Timon",1
+"Hortensius","Titus",1
+"Jeweller","Lucilius",1
+"Jeweller","Merchant",1
+"Jeweller","Messenger",1
+"Jeweller","Old Athenian",1
+"Jeweller","Painter",1
+"Jeweller","Poet",1
+"Jeweller","Second Lord",1
+"Jeweller","Timon",1
+"Lucilius","Merchant",1
+"Lucilius","Messenger",1
+"Lucilius","Old Athenian",1
+"Lucilius","Painter",1
+"Lucilius","Poet",1
+"Lucilius","Second Lord",1
+"Lucilius","Second Stranger",1
+"Lucilius","Servilius",1
+"Lucilius","Timon",1
+"Lucilius","Third Stranger",1
+"Merchant","Messenger",1
+"Merchant","Old Athenian",1
+"Merchant","Painter",1
+"Merchant","Poet",1
+"Merchant","Second Lord",1
+"Merchant","Timon",1
+"Messenger","Old Athenian",1
+"Messenger","Painter",1
+"Messenger","Poet",1
+"Messenger","Second Lord",1
+"Messenger","Second Senator",1
+"Messenger","Timon",1
+"Messenger","Third Senator",1
+"Old Athenian","Painter",1
+"Old Athenian","Poet",1
+"Old Athenian","Second Lord",1
+"Old Athenian","Timon",1
+"Page","Servants",1
+"Page","Timon",1
+"Painter","Poet",2
+"Painter","Prospero",1
+"Painter","Second Lord",1
+"Painter","Second Senator",1
+"Painter","Timon",2
+"Philotus","Second Servant",1
+"Philotus","Servant",1
+"Philotus","Servilius",1
+"Philotus","Timon",1
+"Philotus","Titus",1
+"Phrynia","Second Bandit",1
+"Phrynia","Third Bandit",1
+"Phrynia","Timandra",1
+"Phrynia","Timon",1
+"Phrynia","Banditti",1
+"Poet","Prospero",1
+"Poet","Second Lord",1
+"Poet","Second Senator",1
+"Poet","Timon",2
+"Prospero","Second Senator",1
+"Prospero","Timon",1
+"Second Bandit","Third Bandit",1
+"Second Bandit","Timandra",1
+"Second Bandit","Timon",1
+"Second Bandit","Banditti",1
+"Second Lord","Second Servant",1
+"Second Lord","Servant",1
+"Second Lord","Some Others",1
+"Second Lord","Some Speak",1
+"Second Lord","Third Lord",2
+"Second Lord","Third Servant",1
+"Second Lord","Timon",3
+"Second Lord","Ventidius",1
+"Second Lord","All Lords",1
+"Second Lord","Fourth Lord",1
+"Second Senator","Timon",1
+"Second Senator","Soldier",1
+"Second Senator","Third Senator",2
+"Second Servant","Servant",2
+"Second Servant","Servilius",1
+"Second Servant","Third Lord",1
+"Second Servant","Third Servant",2
+"Second Servant","Timon",2
+"Second Servant","Titus",1
+"Second Servant","Ventidius",1
+"Second Servant","All Lords",1
+"Second Stranger","Servilius",1
+"Second Stranger","Third Stranger",1
+"Sempronius","Servant",1
+"Servant","Servilius",1
+"Servant","Third Lord",1
+"Servant","Third Servant",1
+"Servant","Timon",2
+"Servant","Titus",1
+"Servant","Ventidius",1
+"Servant","All Lords",1
+"Servant","Lucullus",1
+"Servants","Timon",1
+"Servilius","Timon",1
+"Servilius","Titus",1
+"Servilius","Third Stranger",1
+"Some Others","Some Speak",1
+"Some Others","Third Lord",1
+"Some Others","Timon",1
+"Some Others","Fourth Lord",1
+"Some Speak","Third Lord",1
+"Some Speak","Timon",1
+"Some Speak","Fourth Lord",1
+"Third Bandit","Timandra",1
+"Third Bandit","Timon",1
+"Third Bandit","Banditti",1
+"Third Lord","Third Servant",1
+"Third Lord","Timon",2
+"Third Lord","Ventidius",1
+"Third Lord","All Lords",1
+"Third Lord","Fourth Lord",1
+"Third Servant","Timon",1
+"Third Servant","Ventidius",1
+"Third Servant","All Lords",1
+"Timandra","Timon",1
+"Timandra","Banditti",1
+"Timon","Titus",1
+"Timon","Ventidius",1
+"Timon","All Lords",1
+"Timon","Banditti",1
+"Timon","Fourth Lord",1
+"Ventidius","All Lords",1

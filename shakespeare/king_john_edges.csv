@@ -1,0 +1,162 @@
+"from","to","weight"
+"Arthur","Austria",2
+"Arthur","Bastard",4
+"Arthur","Bigot",1
+"Arthur","Blanch",2
+"Arthur","Cardinal Pandulph",1
+"Arthur","Chatillon",1
+"Arthur","Constance",2
+"Arthur","Elinor",1
+"Arthur","First Citizen",1
+"Arthur","First Executioner",1
+"Arthur","French Herald",1
+"Arthur","Hubert",3
+"Arthur","King John",3
+"Arthur","King Philip",2
+"Arthur","Lewis",2
+"Arthur","Pembroke",1
+"Arthur","Queen Elinor",3
+"Arthur","Salisbury",2
+"Arthur","English Herald",1
+"Austria","Bastard",2
+"Austria","Blanch",2
+"Austria","Cardinal Pandulph",1
+"Austria","Chatillon",1
+"Austria","Constance",2
+"Austria","First Citizen",1
+"Austria","French Herald",1
+"Austria","King John",2
+"Austria","King Philip",2
+"Austria","Lewis",2
+"Austria","Queen Elinor",2
+"Austria","Salisbury",1
+"Austria","English Herald",1
+"Bastard","Bigot",1
+"Bastard","Blanch",2
+"Bastard","Cardinal Pandulph",3
+"Bastard","Chatillon",2
+"Bastard","Constance",2
+"Bastard","Elinor",1
+"Bastard","Essex",1
+"Bastard","First Citizen",1
+"Bastard","French Herald",1
+"Bastard","Hubert",4
+"Bastard","King John",8
+"Bastard","King Philip",2
+"Bastard","Lady Faulconbridge",1
+"Bastard","Lewis",3
+"Bastard","Messenger",1
+"Bastard","Pembroke",3
+"Bastard","Peter",1
+"Bastard","Prince Henry",1
+"Bastard","Queen Elinor",4
+"Bastard","Robert",1
+"Bastard","Salisbury",5
+"Bastard","English Herald",1
+"Bastard","Gurney",1
+"Bigot","Hubert",1
+"Bigot","Pembroke",1
+"Bigot","Salisbury",1
+"Blanch","Cardinal Pandulph",1
+"Blanch","Chatillon",1
+"Blanch","Constance",2
+"Blanch","First Citizen",1
+"Blanch","French Herald",1
+"Blanch","King John",2
+"Blanch","King Philip",2
+"Blanch","Lewis",2
+"Blanch","Queen Elinor",2
+"Blanch","Salisbury",1
+"Blanch","English Herald",1
+"Cardinal Pandulph","Constance",2
+"Cardinal Pandulph","King John",2
+"Cardinal Pandulph","King Philip",2
+"Cardinal Pandulph","Lewis",3
+"Cardinal Pandulph","Queen Elinor",1
+"Cardinal Pandulph","Salisbury",2
+"Chatillon","Constance",1
+"Chatillon","Essex",1
+"Chatillon","First Citizen",1
+"Chatillon","French Herald",1
+"Chatillon","King John",2
+"Chatillon","King Philip",1
+"Chatillon","Lady Faulconbridge",1
+"Chatillon","Lewis",1
+"Chatillon","Queen Elinor",2
+"Chatillon","Robert",1
+"Chatillon","English Herald",1
+"Chatillon","Gurney",1
+"Constance","First Citizen",1
+"Constance","French Herald",1
+"Constance","King John",2
+"Constance","King Philip",3
+"Constance","Lewis",3
+"Constance","Queen Elinor",2
+"Constance","Salisbury",1
+"Constance","English Herald",1
+"Elinor","Hubert",1
+"Elinor","King John",1
+"Elinor","Queen Elinor",1
+"Essex","King John",1
+"Essex","Lady Faulconbridge",1
+"Essex","Queen Elinor",1
+"Essex","Robert",1
+"Essex","Gurney",1
+"First Citizen","French Herald",1
+"First Citizen","King John",1
+"First Citizen","King Philip",1
+"First Citizen","Lewis",1
+"First Citizen","Queen Elinor",1
+"First Citizen","English Herald",1
+"First Executioner","Hubert",1
+"French Herald","King John",1
+"French Herald","King Philip",1
+"French Herald","Lewis",1
+"French Herald","Queen Elinor",1
+"French Herald","English Herald",1
+"Hubert","King John",3
+"Hubert","Messenger",2
+"Hubert","Pembroke",2
+"Hubert","Peter",1
+"Hubert","Queen Elinor",1
+"Hubert","Salisbury",2
+"King Henry Viii","Lewis",1
+"King Henry Viii","Messenger",1
+"King John","King Philip",2
+"King John","Lady Faulconbridge",1
+"King John","Lewis",2
+"King John","Messenger",2
+"King John","Pembroke",2
+"King John","Peter",1
+"King John","Prince Henry",1
+"King John","Queen Elinor",4
+"King John","Robert",1
+"King John","Salisbury",3
+"King John","English Herald",1
+"King John","Gurney",1
+"King Philip","Lewis",3
+"King Philip","Queen Elinor",2
+"King Philip","Salisbury",1
+"King Philip","English Herald",1
+"Lady Faulconbridge","Queen Elinor",1
+"Lady Faulconbridge","Robert",1
+"Lady Faulconbridge","Gurney",1
+"Lewis","Messenger",1
+"Lewis","Queen Elinor",2
+"Lewis","Salisbury",2
+"Lewis","English Herald",1
+"Messenger","Pembroke",1
+"Messenger","Peter",1
+"Messenger","Salisbury",1
+"Pembroke","Peter",1
+"Pembroke","Prince Henry",1
+"Pembroke","Salisbury",4
+"Pembroke","Melun",1
+"Peter","Salisbury",1
+"Prince Henry","Salisbury",1
+"Queen Elinor","Robert",1
+"Queen Elinor","Salisbury",1
+"Queen Elinor","English Herald",1
+"Queen Elinor","Gurney",1
+"Robert","Gurney",1
+"Salisbury","Melun",1

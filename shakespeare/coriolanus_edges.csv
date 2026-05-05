@@ -1,0 +1,430 @@
+"from","to","weight"
+"A Patrician","Aedile",1
+"A Patrician","Brutus",1
+"A Patrician","Citizens",1
+"A Patrician","Cominius",2
+"A Patrician","Coriolanus",2
+"A Patrician","First Citizen",1
+"A Patrician","First Senator",2
+"A Patrician","Lartius",1
+"A Patrician","Menenius",2
+"A Patrician","Second Patrician",1
+"A Patrician","Second Senator",1
+"A Patrician","Sicinius",1
+"A Patrician","Volumnia",1
+"Aedile","Both Tribunes",2
+"Aedile","Brutus",3
+"Aedile","Citizens",3
+"Aedile","Cominius",3
+"Aedile","Coriolanus",2
+"Aedile","First Citizen",2
+"Aedile","First Senator",2
+"Aedile","Lartius",1
+"Aedile","Menenius",3
+"Aedile","Messenger",1
+"Aedile","Second Citizen",1
+"Aedile","Second Messenger",1
+"Aedile","Second Patrician",1
+"Aedile","Second Senator",1
+"Aedile","Sicinius",3
+"Aedile","Third Citizen",1
+"All","All Citizens",1
+"All","Aufidius",2
+"All","Both",1
+"All","Both Citizens",1
+"All","Brutus",3
+"All","Citizens",1
+"All","Cominius",3
+"All","Coriolanus",4
+"All","Fifth Citizen",1
+"All","First Citizen",2
+"All","First Senator",4
+"All","First Servingman",1
+"All","First Soldier",1
+"All","Fourth Citizen",1
+"All","Herald",1
+"All","Lartius",2
+"All","Marcius",3
+"All","Menenius",3
+"All","Messenger",3
+"All","Second Citizen",2
+"All","Second Senator",1
+"All","Second Servingman",1
+"All","Second Soldier",1
+"All","Seventh Citizen",1
+"All","Sicinius",3
+"All","Sixth Citizen",1
+"All","Third Citizen",1
+"All","Third Servingman",1
+"All","Titus",1
+"All","Valeria",1
+"All","Virgilia",1
+"All","Volumnia",1
+"All Citizens","Both Citizens",1
+"All Citizens","Brutus",1
+"All Citizens","Citizens",1
+"All Citizens","Coriolanus",1
+"All Citizens","Fifth Citizen",1
+"All Citizens","First Citizen",1
+"All Citizens","Fourth Citizen",1
+"All Citizens","Menenius",1
+"All Citizens","Second Citizen",1
+"All Citizens","Seventh Citizen",1
+"All Citizens","Sicinius",1
+"All Citizens","Sixth Citizen",1
+"All Citizens","Third Citizen",1
+"All Conspirators","All The Lords",1
+"All Conspirators","All The People",1
+"All Conspirators","Aufidius",1
+"All Conspirators","Coriolanus",1
+"All Conspirators","First Conspirator",1
+"All Conspirators","First Lord",1
+"All Conspirators","Lords",1
+"All Conspirators","Second Conspirator",1
+"All Conspirators","Second Lord",1
+"All Conspirators","Third Conspirator",1
+"All Conspirators","Third Lord",1
+"All The Lords","All The People",1
+"All The Lords","Aufidius",1
+"All The Lords","Coriolanus",1
+"All The Lords","First Conspirator",1
+"All The Lords","First Lord",1
+"All The Lords","Lords",1
+"All The Lords","Second Conspirator",1
+"All The Lords","Second Lord",1
+"All The Lords","Third Conspirator",1
+"All The Lords","Third Lord",1
+"All The People","Aufidius",1
+"All The People","Coriolanus",1
+"All The People","First Conspirator",1
+"All The People","First Lord",1
+"All The People","Lords",1
+"All The People","Second Conspirator",1
+"All The People","Second Lord",1
+"All The People","Third Conspirator",1
+"All The People","Third Lord",1
+"Aufidius","Cominius",1
+"Aufidius","Coriolanus",4
+"Aufidius","First Conspirator",1
+"Aufidius","First Lord",1
+"Aufidius","First Senator",2
+"Aufidius","First Servingman",1
+"Aufidius","First Soldier",1
+"Aufidius","Lords",1
+"Aufidius","Marcius",1
+"Aufidius","Menenius",1
+"Aufidius","Second Conspirator",1
+"Aufidius","Second Lord",1
+"Aufidius","Second Senator",2
+"Aufidius","Second Servingman",1
+"Aufidius","Third Conspirator",1
+"Aufidius","Third Servingman",1
+"Aufidius","Virgilia",1
+"Aufidius","Volumnia",1
+"Aufidius","Third Lord",1
+"Aufidius","Lieutenant",1
+"Aufidius","Young Marcius",1
+"Both","Brutus",1
+"Both","Cominius",1
+"Both","Coriolanus",1
+"Both","Herald",1
+"Both","Menenius",1
+"Both","Messenger",1
+"Both","Sicinius",1
+"Both","Valeria",1
+"Both","Virgilia",1
+"Both","Volumnia",1
+"Both Citizens","Brutus",1
+"Both Citizens","Citizens",1
+"Both Citizens","Coriolanus",1
+"Both Citizens","Fifth Citizen",1
+"Both Citizens","First Citizen",1
+"Both Citizens","Fourth Citizen",1
+"Both Citizens","Menenius",1
+"Both Citizens","Second Citizen",1
+"Both Citizens","Seventh Citizen",1
+"Both Citizens","Sicinius",1
+"Both Citizens","Sixth Citizen",1
+"Both Citizens","Third Citizen",1
+"Both Tribunes","Brutus",2
+"Both Tribunes","Citizens",2
+"Both Tribunes","Cominius",2
+"Both Tribunes","Coriolanus",1
+"Both Tribunes","First Citizen",1
+"Both Tribunes","First Senator",1
+"Both Tribunes","Menenius",2
+"Both Tribunes","Messenger",1
+"Both Tribunes","Second Citizen",1
+"Both Tribunes","Second Messenger",1
+"Both Tribunes","Sicinius",2
+"Both Tribunes","Third Citizen",1
+"Brutus","Citizens",4
+"Brutus","Cominius",7
+"Brutus","Coriolanus",5
+"Brutus","Fifth Citizen",1
+"Brutus","First Citizen",4
+"Brutus","First Officer",1
+"Brutus","First Senator",4
+"Brutus","Fourth Citizen",1
+"Brutus","Herald",1
+"Brutus","Lartius",1
+"Brutus","Marcius",1
+"Brutus","Menenius",9
+"Brutus","Messenger",3
+"Brutus","Officer",1
+"Brutus","Second Citizen",3
+"Brutus","Second Messenger",1
+"Brutus","Second Officer",1
+"Brutus","Second Patrician",1
+"Brutus","Second Senator",1
+"Brutus","Seventh Citizen",1
+"Brutus","Sicinius",9
+"Brutus","Sixth Citizen",1
+"Brutus","Third Citizen",2
+"Brutus","Titus",1
+"Brutus","Valeria",1
+"Brutus","Virgilia",2
+"Brutus","Volumnia",2
+"Brutus","Senators",1
+"Citizens","Cominius",3
+"Citizens","Coriolanus",3
+"Citizens","Fifth Citizen",1
+"Citizens","First Citizen",3
+"Citizens","First Senator",2
+"Citizens","Fourth Citizen",1
+"Citizens","Lartius",1
+"Citizens","Menenius",4
+"Citizens","Messenger",1
+"Citizens","Second Citizen",2
+"Citizens","Second Messenger",1
+"Citizens","Second Patrician",1
+"Citizens","Second Senator",1
+"Citizens","Seventh Citizen",1
+"Citizens","Sicinius",4
+"Citizens","Sixth Citizen",1
+"Citizens","Third Citizen",2
+"Cominius","Coriolanus",8
+"Cominius","First Citizen",3
+"Cominius","First Officer",1
+"Cominius","First Senator",6
+"Cominius","Herald",1
+"Cominius","Lartius",2
+"Cominius","Marcius",3
+"Cominius","Menenius",10
+"Cominius","Messenger",4
+"Cominius","Officer",1
+"Cominius","Second Citizen",2
+"Cominius","Second Messenger",1
+"Cominius","Second Officer",1
+"Cominius","Second Patrician",1
+"Cominius","Second Senator",2
+"Cominius","Sicinius",7
+"Cominius","Third Citizen",1
+"Cominius","Titus",1
+"Cominius","Valeria",1
+"Cominius","Virgilia",2
+"Cominius","Volumnia",3
+"Cominius","Senators",1
+"Coriolanus","Fifth Citizen",1
+"Coriolanus","First Citizen",2
+"Coriolanus","First Conspirator",1
+"Coriolanus","First Lord",1
+"Coriolanus","First Officer",1
+"Coriolanus","First Senator",5
+"Coriolanus","First Servingman",1
+"Coriolanus","Fourth Citizen",1
+"Coriolanus","Herald",1
+"Coriolanus","Lartius",2
+"Coriolanus","Lords",1
+"Coriolanus","Marcius",1
+"Coriolanus","Menenius",8
+"Coriolanus","Messenger",1
+"Coriolanus","Officer",1
+"Coriolanus","Second Citizen",1
+"Coriolanus","Second Conspirator",1
+"Coriolanus","Second Lord",1
+"Coriolanus","Second Officer",1
+"Coriolanus","Second Patrician",1
+"Coriolanus","Second Senator",2
+"Coriolanus","Second Servingman",1
+"Coriolanus","Seventh Citizen",1
+"Coriolanus","Sicinius",5
+"Coriolanus","Sixth Citizen",1
+"Coriolanus","Third Citizen",1
+"Coriolanus","Third Conspirator",1
+"Coriolanus","Third Servingman",1
+"Coriolanus","Valeria",1
+"Coriolanus","Virgilia",3
+"Coriolanus","Volumnia",4
+"Coriolanus","Third Lord",1
+"Coriolanus","Young Marcius",1
+"Coriolanus","Senators",1
+"Coriolanus","Citizen",1
+"Fifth Citizen","First Citizen",1
+"Fifth Citizen","Fourth Citizen",1
+"Fifth Citizen","Menenius",1
+"Fifth Citizen","Second Citizen",1
+"Fifth Citizen","Seventh Citizen",1
+"Fifth Citizen","Sicinius",1
+"Fifth Citizen","Sixth Citizen",1
+"Fifth Citizen","Third Citizen",1
+"First Citizen","First Senator",2
+"First Citizen","Fourth Citizen",1
+"First Citizen","Lartius",1
+"First Citizen","Marcius",1
+"First Citizen","Menenius",4
+"First Citizen","Messenger",2
+"First Citizen","Second Citizen",3
+"First Citizen","Second Messenger",1
+"First Citizen","Second Patrician",1
+"First Citizen","Second Senator",1
+"First Citizen","Seventh Citizen",1
+"First Citizen","Sicinius",4
+"First Citizen","Sixth Citizen",1
+"First Citizen","Third Citizen",2
+"First Citizen","Titus",1
+"First Conspirator","First Lord",1
+"First Conspirator","Lords",1
+"First Conspirator","Second Conspirator",1
+"First Conspirator","Second Lord",1
+"First Conspirator","Third Conspirator",1
+"First Conspirator","Third Lord",1
+"First Lord","Lords",1
+"First Lord","Second Conspirator",1
+"First Lord","Second Lord",1
+"First Lord","Third Conspirator",1
+"First Lord","Third Lord",1
+"First Officer","First Senator",1
+"First Officer","Menenius",1
+"First Officer","Officer",1
+"First Officer","Second Officer",1
+"First Officer","Sicinius",1
+"First Officer","Senators",1
+"First Roman","Lartius",1
+"First Roman","Marcius",1
+"First Roman","Second Roman",1
+"First Roman","Third Roman",1
+"First Senator","First Soldier",1
+"First Senator","Lartius",2
+"First Senator","Marcius",2
+"First Senator","Menenius",6
+"First Senator","Messenger",2
+"First Senator","Officer",1
+"First Senator","Second Citizen",1
+"First Senator","Second Officer",1
+"First Senator","Second Patrician",1
+"First Senator","Second Senator",3
+"First Senator","Second Soldier",1
+"First Senator","Sicinius",4
+"First Senator","Titus",1
+"First Senator","Volumnia",1
+"First Senator","Senators",1
+"First Servingman","Second Servingman",1
+"First Servingman","Third Servingman",1
+"First Soldier","Lartius",1
+"First Soldier","Marcius",1
+"First Soldier","Messenger",1
+"First Soldier","Second Soldier",1
+"Fourth Citizen","Menenius",1
+"Fourth Citizen","Second Citizen",1
+"Fourth Citizen","Seventh Citizen",1
+"Fourth Citizen","Sicinius",1
+"Fourth Citizen","Sixth Citizen",1
+"Fourth Citizen","Third Citizen",1
+"Gentlewoman","Valeria",1
+"Gentlewoman","Virgilia",1
+"Gentlewoman","Volumnia",1
+"Herald","Menenius",1
+"Herald","Messenger",1
+"Herald","Sicinius",1
+"Herald","Valeria",1
+"Herald","Virgilia",1
+"Herald","Volumnia",1
+"Lartius","Marcius",3
+"Lartius","Menenius",1
+"Lartius","Messenger",1
+"Lartius","Second Patrician",1
+"Lartius","Second Roman",1
+"Lartius","Second Senator",1
+"Lartius","Second Soldier",1
+"Lartius","Sicinius",1
+"Lartius","Third Roman",1
+"Lartius","Lieutenant",1
+"Lords","Second Conspirator",1
+"Lords","Second Lord",1
+"Lords","Third Conspirator",1
+"Lords","Third Lord",1
+"Marcius","Menenius",1
+"Marcius","Messenger",3
+"Marcius","Second Citizen",1
+"Marcius","Second Roman",1
+"Marcius","Second Soldier",1
+"Marcius","Sicinius",1
+"Marcius","Third Roman",1
+"Marcius","Titus",1
+"Menenius","Messenger",4
+"Menenius","Officer",1
+"Menenius","Second Citizen",3
+"Menenius","Second Messenger",2
+"Menenius","Second Officer",1
+"Menenius","Second Patrician",1
+"Menenius","Second Senator",2
+"Menenius","Seventh Citizen",1
+"Menenius","Sicinius",10
+"Menenius","Sixth Citizen",1
+"Menenius","Third Citizen",2
+"Menenius","Titus",1
+"Menenius","Valeria",1
+"Menenius","Virgilia",3
+"Menenius","Volumnia",4
+"Menenius","Senators",1
+"Messenger","Second Citizen",2
+"Messenger","Second Messenger",2
+"Messenger","Second Soldier",1
+"Messenger","Sicinius",4
+"Messenger","Third Citizen",1
+"Messenger","Titus",1
+"Messenger","Valeria",1
+"Messenger","Virgilia",1
+"Messenger","Volumnia",1
+"Officer","Second Officer",1
+"Officer","Sicinius",1
+"Officer","Senators",1
+"Roman","Volsce",1
+"Second Citizen","Second Messenger",1
+"Second Citizen","Seventh Citizen",1
+"Second Citizen","Sicinius",3
+"Second Citizen","Sixth Citizen",1
+"Second Citizen","Third Citizen",2
+"Second Citizen","Titus",1
+"Second Conspirator","Second Lord",1
+"Second Conspirator","Third Conspirator",1
+"Second Conspirator","Third Lord",1
+"Second Lord","Third Conspirator",1
+"Second Lord","Third Lord",1
+"Second Messenger","Sicinius",2
+"Second Messenger","Third Citizen",1
+"Second Officer","Sicinius",1
+"Second Officer","Senators",1
+"Second Patrician","Second Senator",1
+"Second Patrician","Sicinius",1
+"Second Roman","Third Roman",1
+"Second Senator","Sicinius",1
+"Second Servingman","Third Servingman",1
+"Seventh Citizen","Sicinius",1
+"Seventh Citizen","Sixth Citizen",1
+"Seventh Citizen","Third Citizen",1
+"Sicinius","Sixth Citizen",1
+"Sicinius","Third Citizen",2
+"Sicinius","Titus",1
+"Sicinius","Valeria",1
+"Sicinius","Virgilia",2
+"Sicinius","Volumnia",2
+"Sicinius","Senators",1
+"Sixth Citizen","Third Citizen",1
+"Third Conspirator","Third Lord",1
+"Valeria","Virgilia",2
+"Valeria","Volumnia",2
+"Virgilia","Volumnia",5
+"Virgilia","Young Marcius",1
+"Volumnia","Young Marcius",1

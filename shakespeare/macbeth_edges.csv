@@ -1,0 +1,189 @@
+"from","to","weight"
+"All","Angus",1
+"All","Banquo",2
+"All","Donalbain",1
+"All","First Apparition",1
+"All","First Witch",3
+"All","Hecate",1
+"All","Lady Macbeth",1
+"All","Lennox",2
+"All","Macbeth",4
+"All","Macduff",2
+"All","Malcolm",2
+"All","Porter",1
+"All","Ross",2
+"All","Second Apparition",1
+"All","Second Witch",3
+"All","Siward",1
+"All","Third Apparition",1
+"All","Third Witch",3
+"Angus","Banquo",1
+"Angus","Caithness",1
+"Angus","First Witch",1
+"Angus","Lennox",1
+"Angus","Macbeth",1
+"Angus","Menteith",1
+"Angus","Ross",1
+"Angus","Second Witch",1
+"Angus","Third Witch",1
+"Attendant","Banquo",1
+"Attendant","First Murderer",1
+"Attendant","Lady Macbeth",1
+"Attendant","Macbeth",1
+"Attendant","Second Murderer",1
+"Attendant","Both Murderers",1
+"Banquo","Donalbain",1
+"Banquo","Duncan",2
+"Banquo","First Murderer",2
+"Banquo","First Witch",1
+"Banquo","Fleance",1
+"Banquo","Lady Macbeth",3
+"Banquo","Lennox",1
+"Banquo","Macbeth",5
+"Banquo","Macduff",1
+"Banquo","Malcolm",2
+"Banquo","Porter",1
+"Banquo","Ross",1
+"Banquo","Second Murderer",2
+"Banquo","Second Witch",1
+"Banquo","Third Murderer",1
+"Banquo","Third Witch",1
+"Banquo","Both Murderers",1
+"Caithness","Lennox",1
+"Caithness","Menteith",1
+"Doctor","Gentlewoman",1
+"Doctor","Lady Macbeth",1
+"Doctor","Macbeth",1
+"Doctor","Macduff",1
+"Doctor","Malcolm",1
+"Doctor","Ross",1
+"Doctor","Servant",1
+"Doctor","Seyton",1
+"Donalbain","Lady Macbeth",1
+"Donalbain","Lennox",1
+"Donalbain","Macbeth",1
+"Donalbain","Macduff",1
+"Donalbain","Malcolm",1
+"Donalbain","Porter",1
+"Duncan","Lady Macbeth",1
+"Duncan","Lennox",1
+"Duncan","Macbeth",1
+"Duncan","Malcolm",2
+"Duncan","Ross",1
+"Duncan","Sergeant",1
+"First Apparition","First Witch",1
+"First Apparition","Hecate",1
+"First Apparition","Lennox",1
+"First Apparition","Macbeth",1
+"First Apparition","Second Apparition",1
+"First Apparition","Second Witch",1
+"First Apparition","Third Apparition",1
+"First Apparition","Third Witch",1
+"First Murderer","Lady Macbeth",2
+"First Murderer","Lady Macduff",1
+"First Murderer","Lennox",1
+"First Murderer","Lords",1
+"First Murderer","Macbeth",2
+"First Murderer","Messenger",1
+"First Murderer","Ross",2
+"First Murderer","Second Murderer",2
+"First Murderer","Son",1
+"First Murderer","Third Murderer",1
+"First Murderer","Both Murderers",1
+"First Witch","Hecate",2
+"First Witch","Lennox",1
+"First Witch","Macbeth",2
+"First Witch","Ross",1
+"First Witch","Second Apparition",1
+"First Witch","Second Witch",3
+"First Witch","Third Apparition",1
+"First Witch","Third Witch",3
+"Fleance","Macbeth",1
+"Gentlewoman","Lady Macbeth",1
+"Hecate","Lennox",1
+"Hecate","Macbeth",1
+"Hecate","Second Apparition",1
+"Hecate","Second Witch",1
+"Hecate","Third Apparition",1
+"Hecate","Third Witch",1
+"Lady Macbeth","Lennox",2
+"Lady Macbeth","Lords",1
+"Lady Macbeth","Macbeth",7
+"Lady Macbeth","Macduff",1
+"Lady Macbeth","Malcolm",1
+"Lady Macbeth","Messenger",1
+"Lady Macbeth","Porter",1
+"Lady Macbeth","Ross",1
+"Lady Macbeth","Second Murderer",1
+"Lady Macbeth","Servant",1
+"Lady Macbeth","Both Murderers",1
+"Lady Macduff","Messenger",1
+"Lady Macduff","Ross",1
+"Lady Macduff","Son",1
+"Lennox","Lords",1
+"Lennox","Macbeth",3
+"Lennox","Macduff",1
+"Lennox","Malcolm",2
+"Lennox","Menteith",1
+"Lennox","Porter",1
+"Lennox","Ross",2
+"Lennox","Second Apparition",1
+"Lennox","Second Witch",1
+"Lennox","Sergeant",1
+"Lennox","Third Apparition",1
+"Lennox","Third Witch",1
+"Lennox","Lord",1
+"Lords","Macbeth",1
+"Lords","Ross",1
+"Macbeth","Macduff",3
+"Macbeth","Malcolm",4
+"Macbeth","Messenger",2
+"Macbeth","Porter",1
+"Macbeth","Ross",3
+"Macbeth","Second Apparition",1
+"Macbeth","Second Murderer",1
+"Macbeth","Second Witch",2
+"Macbeth","Servant",2
+"Macbeth","Seyton",2
+"Macbeth","Siward",2
+"Macbeth","Third Apparition",1
+"Macbeth","Third Witch",2
+"Macbeth","Young Siward",1
+"Macbeth","Both Murderers",1
+"Macduff","Malcolm",6
+"Macduff","Menteith",1
+"Macduff","Old Man",1
+"Macduff","Porter",1
+"Macduff","Ross",3
+"Macduff","Siward",4
+"Macduff","Soldiers",1
+"Macduff","Young Siward",1
+"Malcolm","Menteith",1
+"Malcolm","Porter",1
+"Malcolm","Ross",3
+"Malcolm","Sergeant",1
+"Malcolm","Siward",4
+"Malcolm","Soldiers",1
+"Malcolm","Young Siward",1
+"Menteith","Siward",1
+"Menteith","Soldiers",1
+"Messenger","Ross",1
+"Messenger","Seyton",1
+"Messenger","Son",1
+"Old Man","Ross",1
+"Ross","Second Witch",1
+"Ross","Sergeant",1
+"Ross","Siward",1
+"Ross","Son",1
+"Ross","Third Witch",1
+"Second Apparition","Second Witch",1
+"Second Apparition","Third Apparition",1
+"Second Apparition","Third Witch",1
+"Second Murderer","Third Murderer",1
+"Second Murderer","Both Murderers",1
+"Second Witch","Third Apparition",1
+"Second Witch","Third Witch",3
+"Servant","Seyton",1
+"Siward","Soldiers",1
+"Siward","Young Siward",1
+"Third Apparition","Third Witch",1
