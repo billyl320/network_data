@@ -1,0 +1,4 @@
+# macOS filesystem/zip artifacts (synced from a Mac; never commit)
+.DS_Store
+._*
+__MACOSX/

@@ -28,6 +28,41 @@ git clone https://github.com/billyl320/network_data.git
 | `infrastructure/euroroad` | infrastructure | 1174 | 1417 | No | [‡] |
 | `infrastructure/powergrid` | infrastructure | 4941 | 6594 | No | [‡] |
 | `infrastructure/us_flights` | infrastructure | 276 | 2682 | No | [‡] |
+| `moviegalaxies/american_beauty` | moviegalaxies | 22 | 46 | No | [§] |
+| `moviegalaxies/american_history_x` | moviegalaxies | 39 | 114 | No | [§] |
+| `moviegalaxies/apocalypse_now` | moviegalaxies | 40 | 211 | No | [§] |
+| `moviegalaxies/blade_runner` | moviegalaxies | 25 | 44 | No | [§] |
+| `moviegalaxies/braveheart` | moviegalaxies | 67 | 310 | No | [§] |
+| `moviegalaxies/citizen_kane` | moviegalaxies | 56 | 148 | No | [§] |
+| `moviegalaxies/die_hard` | moviegalaxies | 47 | 237 | No | [§] |
+| `moviegalaxies/donnie_darko` | moviegalaxies | 28 | 80 | No | [§] |
+| `moviegalaxies/eternal_sunshine_of_the_spotless_mind` | moviegalaxies | 32 | 69 | No | [§] |
+| `moviegalaxies/fargo` | moviegalaxies | 32 | 64 | No | [§] |
+| `moviegalaxies/fight_club` | moviegalaxies | 46 | 94 | No | [§] |
+| `moviegalaxies/forrest_gump` | moviegalaxies | 94 | 271 | No | [§] |
+| `moviegalaxies/gladiator` | moviegalaxies | 29 | 82 | No | [§] |
+| `moviegalaxies/heat` | moviegalaxies | 59 | 135 | No | [§] |
+| `moviegalaxies/jaws` | moviegalaxies | 36 | 85 | No | [§] |
+| `moviegalaxies/jurassic_park` | moviegalaxies | 24 | 115 | No | [§] |
+| `moviegalaxies/memento` | moviegalaxies | 14 | 19 | No | [§] |
+| `moviegalaxies/pulp_fiction` | moviegalaxies | 38 | 102 | No | [§] |
+| `moviegalaxies/rear_window` | moviegalaxies | 12 | 17 | No | [§] |
+| `moviegalaxies/scarface` | moviegalaxies | 49 | 157 | No | [§] |
+| `moviegalaxies/schindler_s_list` | moviegalaxies | 45 | 76 | No | [§] |
+| `moviegalaxies/se7en` | moviegalaxies | 49 | 100 | No | [§] |
+| `moviegalaxies/star_wars_episode_iv_a_new_hope` | moviegalaxies | 42 | 124 | No | [§] |
+| `moviegalaxies/taxi_driver` | moviegalaxies | 22 | 57 | No | [§] |
+| `moviegalaxies/the_big_lebowski` | moviegalaxies | 37 | 81 | No | [§] |
+| `moviegalaxies/the_departed` | moviegalaxies | 51 | 117 | No | [§] |
+| `moviegalaxies/the_godfather` | moviegalaxies | 42 | 104 | No | [§] |
+| `moviegalaxies/the_lord_of_the_rings_the_fellowship_of_the_ring` | moviegalaxies | 24 | 106 | No | [§] |
+| `moviegalaxies/the_matrix` | moviegalaxies | 31 | 88 | No | [§] |
+| `moviegalaxies/the_shawshank_redemption` | moviegalaxies | 35 | 136 | No | [§] |
+| `moviegalaxies/the_shining` | moviegalaxies | 21 | 48 | No | [§] |
+| `moviegalaxies/the_silence_of_the_lambs` | moviegalaxies | 35 | 78 | No | [§] |
+| `moviegalaxies/the_usual_suspects` | moviegalaxies | 35 | 130 | No | [§] |
+| `moviegalaxies/titanic` | moviegalaxies | 70 | 299 | No | [§] |
+| `moviegalaxies/toy_story` | moviegalaxies | 39 | 204 | No | [§] |
 | `political/polblogs_full` | political | 1490 | 19025 | Yes | [‡] |
 | `political/polblogs_subset` | political | 867 | 18280 | Yes | [‡] |
 | `shakespeare/a_comedy_of_errors` | shakespeare | 20 | 130 | No | [‡] |
@@ -93,6 +128,7 @@ git clone https://github.com/billyl320/network_data.git
 
 > **[†]** Individual network citations listed in the References section below.
 > **[‡]** Dataset sourced from the networkdata R package (Schoch 2020).
+> **[§]** Dataset sourced from the MovieGalaxies project (Harvard Dataverse).
 
 ## References
 
@@ -106,6 +142,7 @@ git clone https://github.com/billyl320/network_data.git
 - Zachary, W. W. (1977). An information flow model for conflict and fission in small groups. *Journal of Anthropological Research*, 33(4), 452–473.
 - Schoch, D. (2020). networkdata: Repository of Network Datasets. R package version 0.1.12. https://CRAN.R-project.org/package=networkdata
 - Gabasova, E. (2016). *Star Wars social network*. DOI: 10.5281/zenodo.1411479. Movie co-appearance networks from the Moviegalaxies project.
+- Kaminski, J., Schober, M., Albaladejo, R., Zastupailo, O., & Hidalgo, C. (2018). *Moviegalaxies - Social Networks in Movies*. Harvard Dataverse. https://doi.org/10.7910/DVN/T4HBA3
 
 ---
 
